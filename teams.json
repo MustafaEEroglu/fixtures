@@ -1,0 +1,17 @@
+{
+  "calendar_name": "Maç Fikstürü",
+  "timezone": "Europe/Istanbul",
+  "alerts_minutes_before": [60, 15],
+  "teams": [42, 529, 49, 40, 50, 33, 541, 549],
+  "team_labels": {
+    "42": "Arsenal",
+    "529": "Barcelona",
+    "49": "Chelsea",
+    "40": "Liverpool",
+    "50": "Manchester City",
+    "33": "Manchester United",
+    "541": "Real Madrid",
+    "549": "Beşiktaş"
+  },
+  "competitions": []
+}
