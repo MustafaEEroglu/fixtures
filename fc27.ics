@@ -1,0 +1,831 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fixture-calendar//fc27//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC 27 Ultimate Team
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+X-WR-TIMEZONE:Europe/Istanbul
+BEGIN:VEVENT
+SUMMARY:⏳ SBC bitiyor: Marquee Matchups
+DTSTART;TZID=Europe/Istanbul:20260924T200000
+DTEND;TZID=Europe/Istanbul:20260924T203000
+UID:futgg-sbc-5255
+DESCRIPTION:SBC bitiş · Challenges\nhttps://www.fut.gg/sbc/challenges/27
+ -16-marquee-matchups/
+URL:https://www.fut.gg/sbc/challenges/27-16-marquee-matchups/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Marquee Matchups
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Marquee Matchups
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ SBC bitiyor: Gold Upgrade
+DTSTART;TZID=Europe/Istanbul:20350820T200005
+DTEND;TZID=Europe/Istanbul:20350820T203005
+UID:futgg-sbc-5254
+DESCRIPTION:SBC bitiş · Upgrades · ~7\,300 coin\nhttps://www.fut.gg/sbc
+ /upgrades/27-6-gold-upgrade/
+URL:https://www.fut.gg/sbc/upgrades/27-6-gold-upgrade/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Gold Upgrade
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Gold Upgrade
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ SBC bitiyor: Silver Upgrade
+DTSTART;TZID=Europe/Istanbul:20350820T140005
+DTEND;TZID=Europe/Istanbul:20350820T143005
+UID:futgg-sbc-5253
+DESCRIPTION:SBC bitiş · Upgrades · ~2\,200 coin\nhttps://www.fut.gg/sbc
+ /upgrades/27-5-silver-upgrade/
+URL:https://www.fut.gg/sbc/upgrades/27-5-silver-upgrade/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Silver Upgrade
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Silver Upgrade
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ SBC bitiyor: Bronze Upgrade
+DTSTART;TZID=Europe/Istanbul:20350820T200005
+DTEND;TZID=Europe/Istanbul:20350820T203005
+UID:futgg-sbc-5252
+DESCRIPTION:SBC bitiş · Upgrades · ~2\,200 coin\nhttps://www.fut.gg/sbc
+ /upgrades/27-4-bronze-upgrade/
+URL:https://www.fut.gg/sbc/upgrades/27-4-bronze-upgrade/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Bronze Upgrade
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Bronze Upgrade
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ SBC bitiyor: League & Nation Advanced
+DTSTART;TZID=Europe/Istanbul:20350831T200000
+DTEND;TZID=Europe/Istanbul:20350831T203000
+UID:futgg-sbc-5251
+DESCRIPTION:SBC bitiş · Challenges\nhttps://www.fut.gg/sbc/challenges/27
+ -10-league-nation-advanced/
+URL:https://www.fut.gg/sbc/challenges/27-10-league-nation-advanced/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: League & Nation Advanced
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: League & Nation Advanced
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ SBC bitiyor: Gold Re-Roll
+DTSTART;TZID=Europe/Istanbul:20350820T200000
+DTEND;TZID=Europe/Istanbul:20350820T203000
+UID:futgg-sbc-5250
+DESCRIPTION:SBC bitiş · Foundations\nhttps://www.fut.gg/sbc/foundations/
+ 27-9-gold-re-roll/
+URL:https://www.fut.gg/sbc/foundations/27-9-gold-re-roll/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Gold Re-Roll
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Gold Re-Roll
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ SBC bitiyor: Bronze and Silver Re-roll
+DTSTART;TZID=Europe/Istanbul:20350820T200000
+DTEND;TZID=Europe/Istanbul:20350820T203000
+UID:futgg-sbc-5249
+DESCRIPTION:SBC bitiş · Foundations\nhttps://www.fut.gg/sbc/foundations/
+ 27-8-bronze-and-silver-re-roll/
+URL:https://www.fut.gg/sbc/foundations/27-8-bronze-and-silver-re-roll/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Bronze and Silver Re-roll
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Bronze and Silver Re-roll
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ SBC bitiyor: Intro to Streamlined SBCs
+DTSTART;TZID=Europe/Istanbul:20350820T200000
+DTEND;TZID=Europe/Istanbul:20350820T203000
+UID:futgg-sbc-5248
+DESCRIPTION:SBC bitiş · Foundations\nhttps://www.fut.gg/sbc/foundations/
+ 27-7-getting-started/
+URL:https://www.fut.gg/sbc/foundations/27-7-getting-started/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Intro to Streamlined SBCs
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Intro to Streamlined SBCs
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ SBC bitiyor: Intro to Upgrade SBCs
+DTSTART;TZID=Europe/Istanbul:20350820T200000
+DTEND;TZID=Europe/Istanbul:20350820T203000
+UID:futgg-sbc-5247
+DESCRIPTION:SBC bitiş · Foundations\nhttps://www.fut.gg/sbc/foundations/
+ 27-3-intro-to-upgrade-sbcs/
+URL:https://www.fut.gg/sbc/foundations/27-3-intro-to-upgrade-sbcs/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Intro to Upgrade SBCs
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Intro to Upgrade SBCs
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ SBC bitiyor: Intro to SBCs
+DTSTART;TZID=Europe/Istanbul:20350820T200000
+DTEND;TZID=Europe/Istanbul:20350820T203000
+UID:futgg-sbc-5246
+DESCRIPTION:SBC bitiş · Foundations · ~5\,450 coin\nhttps://www.fut.gg/
+ sbc/foundations/27-1-intro-to-sbcs/
+URL:https://www.fut.gg/sbc/foundations/27-1-intro-to-sbcs/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Intro to SBCs
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Intro to SBCs
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: Pinged Pass
+DTSTART;TZID=Europe/Istanbul:20261029T210000
+DTEND;TZID=Europe/Istanbul:20261029T213000
+UID:futgg-evo-2501
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2501-pinged-pass/
+URL:https://www.fut.gg/evolutions/2501-pinged-pass/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Pinged Pass
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Pinged Pass
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: Believe
+DTSTART;TZID=Europe/Istanbul:20270916T210000
+DTEND;TZID=Europe/Istanbul:20270916T213000
+UID:futgg-evo-2500
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2500-believe/
+URL:https://www.fut.gg/evolutions/2500-believe/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Believe
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Believe
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: Shooting Practice [SP+ 28]
+DTSTART;TZID=Europe/Istanbul:20261029T210000
+DTEND;TZID=Europe/Istanbul:20261029T213000
+UID:futgg-evo-2499
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2499-shooting-practice/
+URL:https://www.fut.gg/evolutions/2499-shooting-practice/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Shooting Practice [SP+ 28]
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Shooting Practice [SP+ 28]
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: Creative or Composed? [SP 27]
+DTSTART;TZID=Europe/Istanbul:20261029T210000
+DTEND;TZID=Europe/Istanbul:20261029T213000
+UID:futgg-evo-2498
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2498-creative-or-composed/
+URL:https://www.fut.gg/evolutions/2498-creative-or-composed/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Creative or Composed? [SP 27]
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Creative or Composed? [SP 27]
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: Winger Glow Up [SP+ 26]
+DTSTART;TZID=Europe/Istanbul:20261029T210000
+DTEND;TZID=Europe/Istanbul:20261029T213000
+UID:futgg-evo-2497
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2497-winger-glow-up/
+URL:https://www.fut.gg/evolutions/2497-winger-glow-up/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Winger Glow Up [SP+ 26]
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Winger Glow Up [SP+ 26]
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: Tactical Ascent [SP+ 14]
+DTSTART;TZID=Europe/Istanbul:20261029T210000
+DTEND;TZID=Europe/Istanbul:20261029T213000
+UID:futgg-evo-2496
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2496-tactical-ascent/
+URL:https://www.fut.gg/evolutions/2496-tactical-ascent/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Tactical Ascent [SP+ 14]
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Tactical Ascent [SP+ 14]
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: Relentless [SP 11]
+DTSTART;TZID=Europe/Istanbul:20261029T210000
+DTEND;TZID=Europe/Istanbul:20261029T213000
+UID:futgg-evo-2495
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2495-relentless/
+URL:https://www.fut.gg/evolutions/2495-relentless/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Relentless [SP 11]
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Relentless [SP 11]
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: Striker Glow Up [SP 7]
+DTSTART;TZID=Europe/Istanbul:20261029T210000
+DTEND;TZID=Europe/Istanbul:20261029T213000
+UID:futgg-evo-2494
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2494-striker-glow-up/
+URL:https://www.fut.gg/evolutions/2494-striker-glow-up/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Striker Glow Up [SP 7]
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Striker Glow Up [SP 7]
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: Midfield Polish [SP+ 1]
+DTSTART;TZID=Europe/Istanbul:20261029T210000
+DTEND;TZID=Europe/Istanbul:20261029T213000
+UID:futgg-evo-2493
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2493-midfield-polish/
+URL:https://www.fut.gg/evolutions/2493-midfield-polish/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Midfield Polish [SP+ 1]
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Midfield Polish [SP+ 1]
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: Intro to Repeatable Evolutions
+DTSTART;TZID=Europe/Istanbul:20270930T030000
+DTEND;TZID=Europe/Istanbul:20270930T033000
+UID:futgg-evo-2492
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2492-intro-to-repeatable-evolutions/
+URL:https://www.fut.gg/evolutions/2492-intro-to-repeatable-evolutions/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Intro to Repeatable Evolutions
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Intro to Repeatable Evolutions
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: Intro to Evolutions
+DTSTART;TZID=Europe/Istanbul:20270930T030000
+DTEND;TZID=Europe/Istanbul:20270930T033000
+UID:futgg-evo-2491
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2491-intro-to-evolutions/
+URL:https://www.fut.gg/evolutions/2491-intro-to-evolutions/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Intro to Evolutions
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Intro to Evolutions
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: Intro to Training Camp EVOs
+DTSTART;TZID=Europe/Istanbul:20270930T030000
+DTEND;TZID=Europe/Istanbul:20270930T033000
+UID:futgg-evo-2490
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2490-intro-to-training-camp-evos/
+URL:https://www.fut.gg/evolutions/2490-intro-to-training-camp-evos/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Intro to Training Camp EVOs
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Intro to Training Camp EVOs
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: Repeat Delivery
+DTSTART;TZID=Europe/Istanbul:20261022T100000
+DTEND;TZID=Europe/Istanbul:20261022T103000
+UID:futgg-evo-2489
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2489-repeat-delivery/
+URL:https://www.fut.gg/evolutions/2489-repeat-delivery/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Repeat Delivery
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Repeat Delivery
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: Intro to Pathway Evolutions
+DTSTART;TZID=Europe/Istanbul:20270930T030000
+DTEND;TZID=Europe/Istanbul:20270930T033000
+UID:futgg-evo-2488
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2488-intro-to-pathway-evolutions/
+URL:https://www.fut.gg/evolutions/2488-intro-to-pathway-evolutions/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Intro to Pathway Evolutions
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Intro to Pathway Evolutions
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚀 FC 27 erken erişim + FUT Web App başlıyor
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+UID:fc27-promo-early-access-start
+DESCRIPTION:Ultimate/Ultimate Plus için Ultimate Team açılır\, Web App
+  canlı.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FC 27 erken erişim + FUT Web App başlıyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚀 İlk TOTW (TOTW 2) başlıyor
+DTSTART;TZID=Europe/Istanbul:20260923T200000
+DTEND;TZID=Europe/Istanbul:20260923T210000
+UID:fc27-promo-totw2-start
+DESCRIPTION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:İlk TOTW (TOTW 2) başlıyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚀 İlk Rivals ödülleri başlıyor
+DTSTART;TZID=Europe/Istanbul:20260924T100000
+DTEND;TZID=Europe/Istanbul:20260924T110000
+UID:fc27-promo-rivals1-start
+DESCRIPTION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:İlk Rivals ödülleri başlıyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚀 FC 27 tam çıkış + açılış promosu başlıyor
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+UID:fc27-promo-launch-start
+DESCRIPTION:Standard Edition dahil herkes için çıkış\; ilk promo ayn
+ ı gün (topluluk oylaması).
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FC 27 tam çıkış + açılış promosu başlıyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚀 Road to the Knockouts başlıyor (tahmini)
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+UID:fc27-promo-rttk-start
+DESCRIPTION:FC 27 için resmi olarak doğrulandı\; tarih geçmiş yıllar
+ a göre.\nTarih tahmini\; duyuru gelince fc27_events.json'ı güncelle.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Road to the Knockouts başlıyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 Road to the Knockouts bitiyor (tahmini)
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+UID:fc27-promo-rttk-end
+DESCRIPTION:FC 27 için resmi olarak doğrulandı\; tarih geçmiş yıllar
+ a göre.\nTarih tahmini\; duyuru gelince fc27_events.json'ı güncelle.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Road to the Knockouts bitiyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚀 Ultimate Scream + Hall of FUT başlıyor (tahmini)
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+UID:fc27-promo-scream-start
+DESCRIPTION:Sızıntıda yer aldı\; Cadılar Bayramı promosu.\nTarih tah
+ mini\; duyuru gelince fc27_events.json'ı güncelle.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ultimate Scream + Hall of FUT başlıyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 Ultimate Scream + Hall of FUT bitiyor (tahmini)
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+UID:fc27-promo-scream-end
+DESCRIPTION:Sızıntıda yer aldı\; Cadılar Bayramı promosu.\nTarih tah
+ mini\; duyuru gelince fc27_events.json'ı güncelle.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ultimate Scream + Hall of FUT bitiyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚀 Winter Wildcards başlıyor (tahmini)
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+UID:fc27-promo-wildcards-start
+DESCRIPTION:Sızıntıda yer aldı.\nTarih tahmini\; duyuru gelince fc27_e
+ vents.json'ı güncelle.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winter Wildcards başlıyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 Winter Wildcards bitiyor (tahmini)
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+UID:fc27-promo-wildcards-end
+DESCRIPTION:Sızıntıda yer aldı.\nTarih tahmini\; duyuru gelince fc27_e
+ vents.json'ı güncelle.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winter Wildcards bitiyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚀 TOTY oylaması başlıyor (tahmini)
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+UID:fc27-promo-toty-vote-start
+DESCRIPTION:Geçen yıl 7–12 Ocak.\nTarih tahmini\; duyuru gelince fc27_
+ events.json'ı güncelle.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TOTY oylaması başlıyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 TOTY oylaması bitiyor (tahmini)
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+UID:fc27-promo-toty-vote-end
+DESCRIPTION:Geçen yıl 7–12 Ocak.\nTarih tahmini\; duyuru gelince fc27_
+ events.json'ı güncelle.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TOTY oylaması bitiyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚀 Team of the Year (TOTY) başlıyor (tahmini)
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+UID:fc27-promo-toty-start
+DESCRIPTION:Yılın en büyük promosu. Geçen yıl 16–30 Ocak.\nTarih t
+ ahmini\; duyuru gelince fc27_events.json'ı güncelle.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Team of the Year (TOTY) başlıyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 Team of the Year (TOTY) bitiyor (tahmini)
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+UID:fc27-promo-toty-end
+DESCRIPTION:Yılın en büyük promosu. Geçen yıl 16–30 Ocak.\nTarih t
+ ahmini\; duyuru gelince fc27_events.json'ı güncelle.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Team of the Year (TOTY) bitiyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚀 Future Stars başlıyor (tahmini)
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+UID:fc27-promo-future-stars-start
+DESCRIPTION:Sızıntıda yer aldı.\nTarih tahmini\; duyuru gelince fc27_e
+ vents.json'ı güncelle.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Future Stars başlıyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 Future Stars bitiyor (tahmini)
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+UID:fc27-promo-future-stars-end
+DESCRIPTION:Sızıntıda yer aldı.\nTarih tahmini\; duyuru gelince fc27_e
+ vents.json'ı güncelle.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Future Stars bitiyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚀 FUT Birthday başlıyor (tahmini)
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+UID:fc27-promo-birthday-start
+DESCRIPTION:\nTarih tahmini\; duyuru gelince fc27_events.json'ı güncelle
+ .
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FUT Birthday başlıyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 FUT Birthday bitiyor (tahmini)
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+UID:fc27-promo-birthday-end
+DESCRIPTION:\nTarih tahmini\; duyuru gelince fc27_events.json'ı güncelle
+ .
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FUT Birthday bitiyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚀 Team of the Season (TOTS) başlıyor (tahmini)
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+UID:fc27-promo-tots-start
+DESCRIPTION:Ligler sırayla\; yaklaşık 8 hafta.\nTarih tahmini\; duyuru 
+ gelince fc27_events.json'ı güncelle.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Team of the Season (TOTS) başlıyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 Team of the Season (TOTS) bitiyor (tahmini)
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+UID:fc27-promo-tots-end
+DESCRIPTION:Ligler sırayla\; yaklaşık 8 hafta.\nTarih tahmini\; duyuru 
+ gelince fc27_events.json'ı güncelle.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Team of the Season (TOTS) bitiyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚀 FUTTIES başlıyor (tahmini)
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+UID:fc27-promo-futties-start
+DESCRIPTION:\nTarih tahmini\; duyuru gelince fc27_events.json'ı güncelle
+ .
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FUTTIES başlıyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 FUTTIES bitiyor (tahmini)
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+UID:fc27-promo-futties-end
+DESCRIPTION:\nTarih tahmini\; duyuru gelince fc27_events.json'ı güncelle
+ .
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FUTTIES bitiyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚀 Pre-Season (FC 28 ödülleri) başlıyor (tahmini)
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+UID:fc27-promo-pre-season-start
+DESCRIPTION:FC 28'e taşınacak ödüller\; kaçırma.\nTarih tahmini\; du
+ yuru gelince fc27_events.json'ı güncelle.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pre-Season (FC 28 ödülleri) başlıyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 Pre-Season (FC 28 ödülleri) bitiyor (tahmini)
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+UID:fc27-promo-pre-season-end
+DESCRIPTION:FC 28'e taşınacak ödüller\; kaçırma.\nTarih tahmini\; du
+ yuru gelince fc27_events.json'ı güncelle.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pre-Season (FC 28 ödülleri) bitiyor
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🃏 TOTW yayında
+DTSTART;TZID=Europe/Istanbul:20260923T200000
+DTEND;TZID=Europe/Istanbul:20260923T203000
+UID:fc27-ritual-totw
+RRULE:FREQ=WEEKLY;UNTIL=20270919T210000Z;BYDAY=WE
+DESCRIPTION:Yeni Team of the Week paketlerde. (UK 18:00\; kış saatinde T
+ R 21:00)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🃏 TOTW yayında
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎁 Rivals + Champs ödülleri
+DTSTART;TZID=Europe/Istanbul:20260924T100000
+DTEND;TZID=Europe/Istanbul:20260924T103000
+UID:fc27-ritual-rewards
+RRULE:FREQ=WEEKLY;UNTIL=20270919T210000Z;BYDAY=TH
+DESCRIPTION:Haftalık Rivals ve Champions ödülleri\; haftalık Objective
+ 'ler sıfırlanır. (UK 08:00)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎁 Rivals + Champs ödülleri
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Cuma içerik saati (promo/SBC)
+DTSTART;TZID=Europe/Istanbul:20260918T200000
+DTEND;TZID=Europe/Istanbul:20260918T203000
+UID:fc27-ritual-friday-drop
+RRULE:FREQ=WEEKLY;UNTIL=20270919T210000Z;BYDAY=FR
+DESCRIPTION:EA promo ve büyük içerikleri genelde Cuma 18:00 UK'de yayı
+ nlar.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Cuma içerik saati (promo/SBC)
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎁 Squad Battles ödülleri
+DTSTART;TZID=Europe/Istanbul:20260920T100000
+DTEND;TZID=Europe/Istanbul:20260920T103000
+UID:fc27-ritual-sb-rewards
+RRULE:FREQ=WEEKLY;UNTIL=20270919T210000Z;BYDAY=SU
+DESCRIPTION:(UK 08:00)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎁 Squad Battles ödülleri
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
