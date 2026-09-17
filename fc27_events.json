@@ -1,0 +1,36 @@
+{
+  "calendar_name": "FC 27 Ultimate Team",
+  "timezone": "Europe/Istanbul",
+  "game": "27",
+  "season_start": "2026-09-18",
+  "season_end": "2027-09-20",
+
+  "deadline_alerts_hours_before": [24, 3],
+  "promo_alerts_hours_before": [24],
+  "ritual_alerts_minutes_before": [0],
+
+  "rituals": [
+    { "id": "totw",        "day": "WE", "time": "20:00", "name": "🃏 TOTW yayında",                     "note": "Yeni Team of the Week paketlerde. (UK 18:00; kış saatinde TR 21:00)" },
+    { "id": "rewards",     "day": "TH", "time": "10:00", "name": "🎁 Rivals + Champs ödülleri",          "note": "Haftalık Rivals ve Champions ödülleri; haftalık Objective'ler sıfırlanır. (UK 08:00)" },
+    { "id": "friday-drop", "day": "FR", "time": "20:00", "name": "🆕 Cuma içerik saati (promo/SBC)",      "note": "EA promo ve büyük içerikleri genelde Cuma 18:00 UK'de yayınlar." },
+    { "id": "sb-rewards",  "day": "SU", "time": "10:00", "name": "🎁 Squad Battles ödülleri",             "note": "(UK 08:00)" }
+  ],
+
+  "promos": [
+    { "id": "early-access", "name": "FC 27 erken erişim + FUT Web App", "start": "2026-09-18", "note": "Ultimate/Ultimate Plus için Ultimate Team açılır, Web App canlı." },
+    { "id": "totw2",        "name": "İlk TOTW (TOTW 2)",                "start": "2026-09-23T20:00", "note": "" },
+    { "id": "rivals1",      "name": "İlk Rivals ödülleri",              "start": "2026-09-24T10:00", "note": "" },
+    { "id": "launch",       "name": "FC 27 tam çıkış + açılış promosu", "start": "2026-09-25", "note": "Standard Edition dahil herkes için çıkış; ilk promo aynı gün (topluluk oylaması)." },
+
+    { "id": "rttk",       "name": "Road to the Knockouts",     "start": "2026-10-02", "end": "2026-10-16", "estimated": true, "note": "FC 27 için resmi olarak doğrulandı; tarih geçmiş yıllara göre." },
+    { "id": "scream",     "name": "Ultimate Scream + Hall of FUT", "start": "2026-10-23", "end": "2026-11-06", "estimated": true, "note": "Sızıntıda yer aldı; Cadılar Bayramı promosu." },
+    { "id": "wildcards",  "name": "Winter Wildcards",          "start": "2026-12-11", "end": "2026-12-25", "estimated": true, "note": "Sızıntıda yer aldı." },
+    { "id": "toty-vote",  "name": "TOTY oylaması",             "start": "2027-01-06", "end": "2027-01-11", "estimated": true, "note": "Geçen yıl 7–12 Ocak." },
+    { "id": "toty",       "name": "Team of the Year (TOTY)",   "start": "2027-01-15", "end": "2027-01-29", "estimated": true, "note": "Yılın en büyük promosu. Geçen yıl 16–30 Ocak." },
+    { "id": "future-stars","name": "Future Stars",             "start": "2027-02-05", "end": "2027-02-19", "estimated": true, "note": "Sızıntıda yer aldı." },
+    { "id": "birthday",   "name": "FUT Birthday",              "start": "2027-03-19", "end": "2027-04-02", "estimated": true, "note": "" },
+    { "id": "tots",       "name": "Team of the Season (TOTS)", "start": "2027-04-23", "end": "2027-06-18", "estimated": true, "note": "Ligler sırayla; yaklaşık 8 hafta." },
+    { "id": "futties",    "name": "FUTTIES",                   "start": "2027-07-09", "end": "2027-08-20", "estimated": true, "note": "" },
+    { "id": "pre-season", "name": "Pre-Season (FC 28 ödülleri)","start": "2027-08-20", "end": "2027-09-17", "estimated": true, "note": "FC 28'e taşınacak ödüller; kaçırma." }
+  ]
+}

@@ -5,6 +5,7 @@ Ayarlar: teams.json
 """
 import json
 import sys
+import time
 from datetime import timedelta
 from pathlib import Path
 
@@ -17,11 +18,21 @@ OUTPUT = ROOT / "fixtures.ics"
 BASE = "https://footcal.cbdm.app"
 
 
-def fetch(kind: str, fid: str) -> Calendar:
+def fetch(kind: str, fid: str, attempts: int = 3) -> Calendar:
+    """footcal'dan feed çek; geçici hatalarda (5xx/429/timeout) artan bekleme ile tekrar dene."""
     url = f"{BASE}/{kind}/{fid}/calendar.ics"
-    r = requests.get(url, timeout=30, headers={"User-Agent": "fixture-calendar/1.0"})
-    r.raise_for_status()
-    return Calendar.from_ical(r.content)
+    last: Exception | None = None
+    for i in range(attempts):
+        try:
+            r = requests.get(url, timeout=30, headers={"User-Agent": "fixture-calendar/1.0"})
+            r.raise_for_status()
+            if b"BEGIN:VCALENDAR" not in r.content:
+                raise ValueError("ICS değil (muhtemelen hata sayfası döndü)")
+            return Calendar.from_ical(r.content)
+        except Exception as exc:  # noqa: BLE001
+            last = exc
+            time.sleep(2 * (i + 1))
+    raise RuntimeError(f"{attempts} denemede alınamadı: {last}")
 
 
 def with_alarms(event: Event, minutes_before: list[int]) -> Event:
@@ -62,10 +73,14 @@ def main() -> int:
             events[uid] = with_alarms(ev, alerts)  # ayni UID (derbi) -> tek etkinlik
             count += 1
         print(f"[OK]   {kind}/{fid}: {count} etkinlik")
+        time.sleep(1)  # footcal hobi sunucusu; nazik ol
 
     if failures == len(sources):
-        print("Hiçbir kaynak alınamadı; mevcut fixtures.ics korunuyor.", file=sys.stderr)
-        return 2
+        # Geçici kesinti: dosyaya dokunma, workflow'u da kırmızıya boyama.
+        print("::warning::Hiçbir footcal kaynağı alınamadı; mevcut fixtures.ics korunuyor.")
+        return 0
+    if failures:
+        print(f"::warning::{failures}/{len(sources)} kaynak alınamadı; kalanlarla üretildi.")
 
     out = Calendar()
     out.add("PRODID", "-//fixture-calendar//footcal merge//TR")
