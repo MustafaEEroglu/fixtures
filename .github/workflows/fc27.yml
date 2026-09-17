@@ -1,0 +1,54 @@
+name: FC 27 takvimini güncelle
+
+on:
+  schedule:
+    - cron: "15 */6 * * *"    # 6 saatte bir (SBC'ler kısa ömürlü olabiliyor)
+  workflow_dispatch:
+  push:
+    paths:
+      - fc27_events.json
+      - fc27_build.py
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-fc27
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - run: python fc27_build.py
+
+      # fut.gg'den gelen ham veriyi incelemek için (alan adlarını doğrulamada kullanacağız)
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: futgg-debug
+          path: debug/
+          if-no-files-found: ignore
+          retention-days: 3
+
+      - name: Değişiklik varsa commit'le
+        run: |
+          git config user.name "fixture-bot"
+          git config user.email "fixture-bot@users.noreply.github.com"
+          git add fc27.ics
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok"
+          else
+            git commit -m "fc27: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin main
+            git push
+          fi
