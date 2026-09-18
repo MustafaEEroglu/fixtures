@@ -31,7 +31,7 @@ SUMMARY:⏳ SBC bitiyor: Gold Upgrade
 DTSTART;TZID=Europe/Istanbul:20350820T200005
 DTEND;TZID=Europe/Istanbul:20350820T203005
 UID:futgg-sbc-5254
-DESCRIPTION:SBC bitiş · Upgrades · ~8\,500 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~7\,250 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-6-gold-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-6-gold-upgrade/
 BEGIN:VALARM
@@ -50,7 +50,7 @@ SUMMARY:⏳ SBC bitiyor: Silver Upgrade
 DTSTART;TZID=Europe/Istanbul:20350820T140005
 DTEND;TZID=Europe/Istanbul:20350820T143005
 UID:futgg-sbc-5253
-DESCRIPTION:SBC bitiş · Upgrades · ~2\,200 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~2\,350 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-5-silver-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-5-silver-upgrade/
 BEGIN:VALARM
@@ -183,7 +183,7 @@ SUMMARY:⏳ SBC bitiyor: Intro to SBCs
 DTSTART;TZID=Europe/Istanbul:20350820T200000
 DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5246
-DESCRIPTION:SBC bitiş · Foundations · ~4\,300 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Foundations · ~5\,600 coin\nhttps://www.fut.gg/
  sbc/foundations/27-1-intro-to-sbcs/
 URL:https://www.fut.gg/sbc/foundations/27-1-intro-to-sbcs/
 BEGIN:VALARM
@@ -241,8 +241,8 @@ DTSTART;TZID=Europe/Istanbul:20261029T210000
 DTEND;TZID=Europe/Istanbul:20261029T213000
 UID:futgg-evo-2499
 DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
- fut.gg/evolutions/2499-shooting-practice/
-URL:https://www.fut.gg/evolutions/2499-shooting-practice/
+ fut.gg/evolutions/2499-shooting-practice-sp-28/
+URL:https://www.fut.gg/evolutions/2499-shooting-practice-sp-28/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏳ EVO tamamlama son gün: Shooting Practice [SP+ 28]
@@ -260,8 +260,8 @@ DTSTART;TZID=Europe/Istanbul:20261029T210000
 DTEND;TZID=Europe/Istanbul:20261029T213000
 UID:futgg-evo-2498
 DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
- fut.gg/evolutions/2498-creative-or-composed/
-URL:https://www.fut.gg/evolutions/2498-creative-or-composed/
+ fut.gg/evolutions/2498-creative-or-composed-sp-27/
+URL:https://www.fut.gg/evolutions/2498-creative-or-composed-sp-27/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏳ EVO tamamlama son gün: Creative or Composed? [SP 27]
@@ -279,8 +279,8 @@ DTSTART;TZID=Europe/Istanbul:20261029T210000
 DTEND;TZID=Europe/Istanbul:20261029T213000
 UID:futgg-evo-2497
 DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
- fut.gg/evolutions/2497-winger-glow-up/
-URL:https://www.fut.gg/evolutions/2497-winger-glow-up/
+ fut.gg/evolutions/2497-winger-glow-up-sp-26/
+URL:https://www.fut.gg/evolutions/2497-winger-glow-up-sp-26/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏳ EVO tamamlama son gün: Winger Glow Up [SP+ 26]
@@ -298,8 +298,8 @@ DTSTART;TZID=Europe/Istanbul:20261029T210000
 DTEND;TZID=Europe/Istanbul:20261029T213000
 UID:futgg-evo-2496
 DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
- fut.gg/evolutions/2496-tactical-ascent/
-URL:https://www.fut.gg/evolutions/2496-tactical-ascent/
+ fut.gg/evolutions/2496-tactical-ascent-sp-14/
+URL:https://www.fut.gg/evolutions/2496-tactical-ascent-sp-14/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏳ EVO tamamlama son gün: Tactical Ascent [SP+ 14]
@@ -317,8 +317,8 @@ DTSTART;TZID=Europe/Istanbul:20261029T210000
 DTEND;TZID=Europe/Istanbul:20261029T213000
 UID:futgg-evo-2495
 DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
- fut.gg/evolutions/2495-relentless/
-URL:https://www.fut.gg/evolutions/2495-relentless/
+ fut.gg/evolutions/2495-relentless-sp-11/
+URL:https://www.fut.gg/evolutions/2495-relentless-sp-11/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏳ EVO tamamlama son gün: Relentless [SP 11]
@@ -336,8 +336,8 @@ DTSTART;TZID=Europe/Istanbul:20261029T210000
 DTEND;TZID=Europe/Istanbul:20261029T213000
 UID:futgg-evo-2494
 DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
- fut.gg/evolutions/2494-striker-glow-up/
-URL:https://www.fut.gg/evolutions/2494-striker-glow-up/
+ fut.gg/evolutions/2494-striker-glow-up-sp-7/
+URL:https://www.fut.gg/evolutions/2494-striker-glow-up-sp-7/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏳ EVO tamamlama son gün: Striker Glow Up [SP 7]
@@ -355,8 +355,8 @@ DTSTART;TZID=Europe/Istanbul:20261029T210000
 DTEND;TZID=Europe/Istanbul:20261029T213000
 UID:futgg-evo-2493
 DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
- fut.gg/evolutions/2493-midfield-polish/
-URL:https://www.fut.gg/evolutions/2493-midfield-polish/
+ fut.gg/evolutions/2493-midfield-polish-sp-1/
+URL:https://www.fut.gg/evolutions/2493-midfield-polish-sp-1/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏳ EVO tamamlama son gün: Midfield Polish [SP+ 1]
