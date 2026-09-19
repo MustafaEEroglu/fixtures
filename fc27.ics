@@ -8,9 +8,28 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:Europe/Istanbul
 BEGIN:VEVENT
+SUMMARY:⏳ SBC bitiyor: Ones to Watch Duo Pick 1
+DTSTART;TZID=Europe/Istanbul:20260926T200000
+DTEND;TZID=Europe/Istanbul:20260926T203000
+UID:futgg-sbc-5258
+DESCRIPTION:SBC bitiş · Players\nhttps://www.fut.gg/sbc/players/27-18-on
+ es-to-watch-duo-pick-1/
+URL:https://www.fut.gg/sbc/players/27-18-ones-to-watch-duo-pick-1/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Ones to Watch Duo Pick 1
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Ones to Watch Duo Pick 1
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Ayyoub Bouaddi
-DTSTART;TZID=Europe/Istanbul:20260925T200000
-DTEND;TZID=Europe/Istanbul:20260925T203000
+DTSTART;TZID=Europe/Istanbul:20260925T200001
+DTEND;TZID=Europe/Istanbul:20260925T203001
 UID:futgg-sbc-5257
 DESCRIPTION:SBC bitiş · Players\nhttps://www.fut.gg/sbc/players/27-17-ay
  youb-bouaddi/
@@ -66,10 +85,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Gold Upgrade
-DTSTART;TZID=Europe/Istanbul:20350820T200000
-DTEND;TZID=Europe/Istanbul:20350820T203000
+DTSTART;TZID=Europe/Istanbul:20350820T200001
+DTEND;TZID=Europe/Istanbul:20350820T203001
 UID:futgg-sbc-5254
-DESCRIPTION:SBC bitiş · Upgrades · ~7\,400 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~7\,350 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-6-gold-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-6-gold-upgrade/
 BEGIN:VALARM
@@ -107,7 +126,7 @@ SUMMARY:⏳ SBC bitiyor: Bronze Upgrade
 DTSTART;TZID=Europe/Istanbul:20350820T200000
 DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5252
-DESCRIPTION:SBC bitiş · Upgrades · ~2\,700 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~2\,250 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-4-bronze-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-4-bronze-upgrade/
 BEGIN:VALARM
@@ -142,8 +161,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Gold Re-Roll
-DTSTART;TZID=Europe/Istanbul:20350820T200000
-DTEND;TZID=Europe/Istanbul:20350820T203000
+DTSTART;TZID=Europe/Istanbul:20350820T200001
+DTEND;TZID=Europe/Istanbul:20350820T203001
 UID:futgg-sbc-5250
 DESCRIPTION:SBC bitiş · Foundations\nhttps://www.fut.gg/sbc/foundations/
  27-9-gold-re-roll/
@@ -218,10 +237,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Intro to SBCs
-DTSTART;TZID=Europe/Istanbul:20350820T200000
-DTEND;TZID=Europe/Istanbul:20350820T203000
+DTSTART;TZID=Europe/Istanbul:20350820T200001
+DTEND;TZID=Europe/Istanbul:20350820T203001
 UID:futgg-sbc-5246
-DESCRIPTION:SBC bitiş · Foundations · ~5\,100 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Foundations · ~4\,950 coin\nhttps://www.fut.gg/
  sbc/foundations/27-1-intro-to-sbcs/
 URL:https://www.fut.gg/sbc/foundations/27-1-intro-to-sbcs/
 BEGIN:VALARM
@@ -232,6 +251,63 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏳ SBC bitiyor: Intro to SBCs
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: Ones to Watch Retro 20
+DTSTART;TZID=Europe/Istanbul:20261021T210000
+DTEND;TZID=Europe/Istanbul:20261021T213000
+UID:futgg-evo-2505
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2505-ones-to-watch-retro-20/
+URL:https://www.fut.gg/evolutions/2505-ones-to-watch-retro-20/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Ones to Watch Retro 20
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Ones to Watch Retro 20
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: Ones to Watch Retro 19
+DTSTART;TZID=Europe/Istanbul:20261021T210000
+DTEND;TZID=Europe/Istanbul:20261021T213000
+UID:futgg-evo-2504
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2504-ones-to-watch-retro-19/
+URL:https://www.fut.gg/evolutions/2504-ones-to-watch-retro-19/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Ones to Watch Retro 19
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Ones to Watch Retro 19
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: Ones to Watch Retro 18
+DTSTART;TZID=Europe/Istanbul:20261021T210000
+DTEND;TZID=Europe/Istanbul:20261021T213000
+UID:futgg-evo-2503
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2503-ones-to-watch-retro-18/
+URL:https://www.fut.gg/evolutions/2503-ones-to-watch-retro-18/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Ones to Watch Retro 18
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Ones to Watch Retro 18
 TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
