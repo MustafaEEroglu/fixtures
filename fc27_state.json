@@ -80,7 +80,24 @@
 "obj-32-noexp": "2026-09-24T10:09:51.667454+00:00",
 "obj-112-noexp": "2026-09-24T10:09:51.667454+00:00",
 "obj-81-noexp": "2026-09-24T10:09:51.667454+00:00",
-"obj-39-noexp": "2026-09-24T10:09:51.667454+00:00"
+"obj-39-noexp": "2026-09-24T10:09:51.667454+00:00",
+"sbc-5264": "2026-09-24T20:00:20.165267+00:00",
+"sbc-5263": "2026-09-24T20:00:20.165267+00:00"
 },
-"new": []
+"new": [
+{
+"uid": "fc27-new-sbc-5264",
+"title": "🆕 Yeni SBC: Marquee Matchups",
+"start": "2026-09-24T22:00:00+00:00",
+"link": "https://www.fut.gg/sbc/challenges/27-19-marquee-matchups/",
+"desc": "Yeni SBC yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-sbc-5263",
+"title": "🆕 Yeni SBC: Intro to Player SBCs",
+"start": "2026-09-24T22:00:00+00:00",
+"link": "https://www.fut.gg/sbc/foundations/27-20-intro-to-player-sbcs/",
+"desc": "Yeni SBC yayında · bitiş 31.08 20:00"
+}
+]
 }
