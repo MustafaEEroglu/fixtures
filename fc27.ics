@@ -9,8 +9,8 @@ X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:Europe/Istanbul
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Madrid Dreams
-DTSTART;TZID=Europe/Istanbul:20260926T200000
-DTEND;TZID=Europe/Istanbul:20260926T203000
+DTSTART;TZID=Europe/Istanbul:20260926T200001
+DTEND;TZID=Europe/Istanbul:20260926T203001
 UID:futgg-sbc-5262
 DESCRIPTION:SBC bitiş · Challenges\nhttps://www.fut.gg/sbc/challenges/27
  -15-madrid-dreams/
@@ -28,8 +28,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: 83+ Upgrade
-DTSTART;TZID=Europe/Istanbul:20260929T200000
-DTEND;TZID=Europe/Istanbul:20260929T203000
+DTSTART;TZID=Europe/Istanbul:20260929T200001
+DTEND;TZID=Europe/Istanbul:20260929T203001
 UID:futgg-sbc-5261
 DESCRIPTION:SBC bitiş · Upgrades\nhttps://www.fut.gg/sbc/upgrades/27-12-
  83-upgrade/
@@ -50,7 +50,7 @@ SUMMARY:⏳ SBC bitiyor: 2x 79+ Upgrade
 DTSTART;TZID=Europe/Istanbul:20260928T200000
 DTEND;TZID=Europe/Istanbul:20260928T203000
 UID:futgg-sbc-5260
-DESCRIPTION:SBC bitiş · Upgrades · ~7\,450 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~7\,300 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-11-2x-79-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-11-2x-79-upgrade/
 BEGIN:VALARM
@@ -66,8 +66,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Ones to Watch Duo Pick 1
-DTSTART;TZID=Europe/Istanbul:20260926T200001
-DTEND;TZID=Europe/Istanbul:20260926T203001
+DTSTART;TZID=Europe/Istanbul:20260926T200000
+DTEND;TZID=Europe/Istanbul:20260926T203000
 UID:futgg-sbc-5258
 DESCRIPTION:SBC bitiş · Players\nhttps://www.fut.gg/sbc/players/27-18-on
  es-to-watch-duo-pick-1/
@@ -123,10 +123,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Gold Upgrade
-DTSTART;TZID=Europe/Istanbul:20350820T200000
-DTEND;TZID=Europe/Istanbul:20350820T203000
+DTSTART;TZID=Europe/Istanbul:20350820T200001
+DTEND;TZID=Europe/Istanbul:20350820T203001
 UID:futgg-sbc-5254
-DESCRIPTION:SBC bitiş · Upgrades · ~9\,650 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~9\,400 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-6-gold-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-6-gold-upgrade/
 BEGIN:VALARM
@@ -180,8 +180,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: League & Nation Advanced
-DTSTART;TZID=Europe/Istanbul:20350831T200000
-DTEND;TZID=Europe/Istanbul:20350831T203000
+DTSTART;TZID=Europe/Istanbul:20350831T200001
+DTEND;TZID=Europe/Istanbul:20350831T203001
 UID:futgg-sbc-5251
 DESCRIPTION:SBC bitiş · Challenges\nhttps://www.fut.gg/sbc/challenges/27
  -10-league-nation-advanced/
@@ -237,8 +237,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Intro to Streamlined SBCs
-DTSTART;TZID=Europe/Istanbul:20350820T200001
-DTEND;TZID=Europe/Istanbul:20350820T203001
+DTSTART;TZID=Europe/Istanbul:20350820T200000
+DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5248
 DESCRIPTION:SBC bitiş · Foundations\nhttps://www.fut.gg/sbc/foundations/
  27-7-getting-started/
@@ -278,7 +278,7 @@ SUMMARY:⏳ SBC bitiyor: Intro to SBCs
 DTSTART;TZID=Europe/Istanbul:20350820T200000
 DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5246
-DESCRIPTION:SBC bitiş · Foundations · ~7\,950 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Foundations · ~6\,450 coin\nhttps://www.fut.gg/
  sbc/foundations/27-1-intro-to-sbcs/
 URL:https://www.fut.gg/sbc/foundations/27-1-intro-to-sbcs/
 BEGIN:VALARM
@@ -669,6 +669,335 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏳ EVO tamamlama son gün: Intro to Pathway Evolutions
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ Objective bitiyor: Tactical Trials
+DTSTART;TZID=Europe/Istanbul:20260925T200000
+DTEND;TZID=Europe/Istanbul:20260925T203000
+UID:futgenie-obj-91-20260925
+DESCRIPTION:Objective bitiş · Campaigns\nhttps://www.futgenie.gg/objecti
+ ves/91
+URL:https://www.futgenie.gg/objectives/91
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Tactical Trials
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Tactical Trials
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ Objective bitiyor: Squad Battles: Champions Qualification Poin
+ ts
+DTSTART;TZID=Europe/Istanbul:20260927T100000
+DTEND;TZID=Europe/Istanbul:20260927T103000
+UID:futgenie-obj-93-20260927
+DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
+ es/93
+URL:https://www.futgenie.gg/objectives/93
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Squad Battles: Champions Qualification 
+ Points
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Squad Battles: Champions Qualification 
+ Points
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ Objective bitiyor: Weekly Rush Points
+DTSTART;TZID=Europe/Istanbul:20260929T200000
+DTEND;TZID=Europe/Istanbul:20260929T203000
+UID:futgenie-obj-72-20260929
+DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
+ es/72
+URL:https://www.futgenie.gg/objectives/72
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Weekly Rush Points
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Weekly Rush Points
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ Objective bitiyor: FC 27 First Gameplay
+DTSTART;TZID=Europe/Istanbul:20260929T200000
+DTEND;TZID=Europe/Istanbul:20260929T203000
+UID:futgenie-obj-90-20260929
+DESCRIPTION:Objective bitiş · F\nhttps://www.futgenie.gg/objectives/90
+URL:https://www.futgenie.gg/objectives/90
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: FC 27 First Gameplay
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: FC 27 First Gameplay
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ Objective bitiyor: Weekly Objectives
+DTSTART;TZID=Europe/Istanbul:20261001T200000
+DTEND;TZID=Europe/Istanbul:20261001T203000
+UID:futgenie-obj-65-20261001
+DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
+ es/65
+URL:https://www.futgenie.gg/objectives/65
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Weekly Objectives
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Weekly Objectives
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ Objective bitiyor: Daily Objectives
+DTSTART;TZID=Europe/Istanbul:20261001T200000
+DTEND;TZID=Europe/Istanbul:20261001T203000
+UID:futgenie-obj-61-20261001
+DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
+ es/61
+URL:https://www.futgenie.gg/objectives/61
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Daily Objectives
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Daily Objectives
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ Objective bitiyor: FC Pro Open Ladder
+DTSTART;TZID=Europe/Istanbul:20261004T200000
+DTEND;TZID=Europe/Istanbul:20261004T203000
+UID:futgenie-obj-108-20261004
+DESCRIPTION:Objective bitiş · F\nhttps://www.futgenie.gg/objectives/108
+URL:https://www.futgenie.gg/objectives/108
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: FC Pro Open Ladder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: FC Pro Open Ladder
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ Objective bitiyor: The Top 500: FC Pro Open Ladder
+DTSTART;TZID=Europe/Istanbul:20261017T200000
+DTEND;TZID=Europe/Istanbul:20261017T203000
+UID:futgenie-obj-107-20261017
+DESCRIPTION:Objective bitiş · F\nhttps://www.futgenie.gg/objectives/107
+URL:https://www.futgenie.gg/objectives/107
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: The Top 500: FC Pro Open Ladder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: The Top 500: FC Pro Open Ladder
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ Objective bitiyor: Ones We Watched Legendary Challenge
+DTSTART;TZID=Europe/Istanbul:20261022T100000
+DTEND;TZID=Europe/Istanbul:20261022T103000
+UID:futgenie-obj-83-20261022
+DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
+ es/83
+URL:https://www.futgenie.gg/objectives/83
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Ones We Watched Legendary Challenge
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Ones We Watched Legendary Challenge
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ Objective bitiyor: Ones We Watched World Class Challenge
+DTSTART;TZID=Europe/Istanbul:20261022T100000
+DTEND;TZID=Europe/Istanbul:20261022T103000
+UID:futgenie-obj-82-20261022
+DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
+ es/82
+URL:https://www.futgenie.gg/objectives/82
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Ones We Watched World Class Challenge
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Ones We Watched World Class Challenge
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ Objective bitiyor: Ones We Watched Professional Challenge
+DTSTART;TZID=Europe/Istanbul:20261022T100000
+DTEND;TZID=Europe/Istanbul:20261022T103000
+UID:futgenie-obj-86-20261022
+DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
+ es/86
+URL:https://www.futgenie.gg/objectives/86
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Ones We Watched Professional Challenge
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Ones We Watched Professional Challenge
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ Objective bitiyor: Ones We Watched Semi-Pro Challenge
+DTSTART;TZID=Europe/Istanbul:20261022T100000
+DTEND;TZID=Europe/Istanbul:20261022T103000
+UID:futgenie-obj-85-20261022
+DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
+ es/85
+URL:https://www.futgenie.gg/objectives/85
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Ones We Watched Semi-Pro Challenge
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Ones We Watched Semi-Pro Challenge
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ Objective bitiyor: Ones We Watched Kick Off Challenge
+DTSTART;TZID=Europe/Istanbul:20261022T100000
+DTEND;TZID=Europe/Istanbul:20261022T103000
+UID:futgenie-obj-84-20261022
+DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
+ es/84
+URL:https://www.futgenie.gg/objectives/84
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Ones We Watched Kick Off Challenge
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Ones We Watched Kick Off Challenge
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ Objective bitiyor: Ones We Watched Challenge Completionist
+DTSTART;TZID=Europe/Istanbul:20261022T100000
+DTEND;TZID=Europe/Istanbul:20261022T103000
+UID:futgenie-obj-87-20261022
+DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
+ es/87
+URL:https://www.futgenie.gg/objectives/87
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Ones We Watched Challenge Completionist
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Ones We Watched Challenge Completionist
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ Objective bitiyor: Season 1: Ones to Watch Exhibition
+DTSTART;TZID=Europe/Istanbul:20261022T100000
+DTEND;TZID=Europe/Istanbul:20261022T103000
+UID:futgenie-obj-88-20261022
+DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
+ es/88
+URL:https://www.futgenie.gg/objectives/88
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Season 1: Ones to Watch Exhibition
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Season 1: Ones to Watch Exhibition
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ Objective bitiyor: Season 1: Ones to Watch Exhibition Weekly P
+ lay
+DTSTART;TZID=Europe/Istanbul:20261022T100000
+DTEND;TZID=Europe/Istanbul:20261022T103000
+UID:futgenie-obj-80-20261022
+DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
+ es/80
+URL:https://www.futgenie.gg/objectives/80
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Season 1: Ones to Watch Exhibition Week
+ ly Play
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Season 1: Ones to Watch Exhibition Week
+ ly Play
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ Objective bitiyor: Season 1: Ones to Watch Exhibition Completi
+ onist
+DTSTART;TZID=Europe/Istanbul:20261022T100000
+DTEND;TZID=Europe/Istanbul:20261022T103000
+UID:futgenie-obj-79-20261022
+DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
+ es/79
+URL:https://www.futgenie.gg/objectives/79
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Season 1: Ones to Watch Exhibition Comp
+ letionist
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Season 1: Ones to Watch Exhibition Comp
+ letionist
 TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
