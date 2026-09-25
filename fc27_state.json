@@ -82,7 +82,29 @@
 "obj-81-noexp": "2026-09-24T10:09:51.667454+00:00",
 "obj-39-noexp": "2026-09-24T10:09:51.667454+00:00",
 "sbc-5264": "2026-09-24T20:00:20.165267+00:00",
-"sbc-5263": "2026-09-24T20:00:20.165267+00:00"
+"sbc-5263": "2026-09-24T20:00:20.165267+00:00",
+"sbc-5266": "2026-09-25T17:14:18.874990+00:00",
+"sbc-5265": "2026-09-25T17:14:18.874990+00:00",
+"evo-2520": "2026-09-25T17:14:18.874990+00:00",
+"evo-2519": "2026-09-25T17:14:18.874990+00:00",
+"evo-2518": "2026-09-25T17:14:18.874990+00:00",
+"evo-2517": "2026-09-25T17:14:18.874990+00:00",
+"evo-2516": "2026-09-25T17:14:18.874990+00:00",
+"evo-2515": "2026-09-25T17:14:18.874990+00:00",
+"evo-2514": "2026-09-25T17:14:18.874990+00:00",
+"evo-2513": "2026-09-25T17:14:18.874990+00:00",
+"evo-2512": "2026-09-25T17:14:18.874990+00:00",
+"evo-2511": "2026-09-25T17:14:18.874990+00:00",
+"evo-2510": "2026-09-25T17:14:18.874990+00:00",
+"evo-2509": "2026-09-25T17:14:18.874990+00:00",
+"evo-2508": "2026-09-25T17:14:18.874990+00:00",
+"obj-113-20261002": "2026-09-25T17:14:18.874990+00:00",
+"obj-109-20261002": "2026-09-25T17:14:18.874990+00:00",
+"obj-37-noexp": "2026-09-25T17:14:18.874990+00:00",
+"obj-35-noexp": "2026-09-25T17:14:18.874990+00:00",
+"obj-34-noexp": "2026-09-25T17:14:18.874990+00:00",
+"obj-123-noexp": "2026-09-25T17:14:18.874990+00:00",
+"obj-33-noexp": "2026-09-25T17:14:18.874990+00:00"
 },
 "new": [
 {
@@ -98,6 +120,160 @@
 "start": "2026-09-24T22:00:00+00:00",
 "link": "https://www.fut.gg/sbc/foundations/27-20-intro-to-player-sbcs/",
 "desc": "Yeni SBC yayında · bitiş 31.08 20:00"
+},
+{
+"uid": "fc27-new-sbc-5266",
+"title": "🆕 Yeni SBC: Antonio Nusa",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.fut.gg/sbc/players/27-25-antonio-nusa/",
+"desc": "Yeni SBC yayında · bitiş 02.10 20:00"
+},
+{
+"uid": "fc27-new-sbc-5265",
+"title": "🆕 Yeni SBC: TOTW Upgrade",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.fut.gg/sbc/upgrades/27-29-totw-upgrade/",
+"desc": "Yeni SBC yayında · bitiş 02.10 20:00"
+},
+{
+"uid": "fc27-new-evo-2520",
+"title": "🆕 Yeni Evolution: LB Roles++",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2520-lb-roles/",
+"desc": "Yeni Evolution yayında · bitiş 25.09 20:00"
+},
+{
+"uid": "fc27-new-evo-2519",
+"title": "🆕 Yeni Evolution: CB Roles++",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2519-cb-roles/",
+"desc": "Yeni Evolution yayında · bitiş 25.09 20:00"
+},
+{
+"uid": "fc27-new-evo-2518",
+"title": "🆕 Yeni Evolution: RB Roles++",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2518-rb-roles/",
+"desc": "Yeni Evolution yayında · bitiş 25.09 20:00"
+},
+{
+"uid": "fc27-new-evo-2517",
+"title": "🆕 Yeni Evolution: RM Roles++",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2517-rm-roles/",
+"desc": "Yeni Evolution yayında · bitiş 25.09 20:00"
+},
+{
+"uid": "fc27-new-evo-2516",
+"title": "🆕 Yeni Evolution: LM Roles++",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2516-lm-roles/",
+"desc": "Yeni Evolution yayında · bitiş 25.09 20:00"
+},
+{
+"uid": "fc27-new-evo-2515",
+"title": "🆕 Yeni Evolution: CDM Roles++",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2515-cdm-roles/",
+"desc": "Yeni Evolution yayında · bitiş 25.09 20:00"
+},
+{
+"uid": "fc27-new-evo-2514",
+"title": "🆕 Yeni Evolution: LW Roles++",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2514-lw-roles/",
+"desc": "Yeni Evolution yayında · bitiş 25.09 20:00"
+},
+{
+"uid": "fc27-new-evo-2513",
+"title": "🆕 Yeni Evolution: GK Roles++",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2513-gk-roles/",
+"desc": "Yeni Evolution yayında · bitiş 25.09 20:00"
+},
+{
+"uid": "fc27-new-evo-2512",
+"title": "🆕 Yeni Evolution: CM Roles++",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2512-cm-roles/",
+"desc": "Yeni Evolution yayında · bitiş 25.09 20:00"
+},
+{
+"uid": "fc27-new-evo-2511",
+"title": "🆕 Yeni Evolution: CAM Roles++",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2511-cam-roles/",
+"desc": "Yeni Evolution yayında · bitiş 25.09 20:00"
+},
+{
+"uid": "fc27-new-evo-2510",
+"title": "🆕 Yeni Evolution: RW Roles++",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2510-rw-roles/",
+"desc": "Yeni Evolution yayında · bitiş 25.09 20:00"
+},
+{
+"uid": "fc27-new-evo-2509",
+"title": "🆕 Yeni Evolution: ST Roles++",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2509-st-roles/",
+"desc": "Yeni Evolution yayında · bitiş 25.09 20:00"
+},
+{
+"uid": "fc27-new-evo-2508",
+"title": "🆕 Yeni Evolution: Frontline Paradox",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2508-frontline-paradox/",
+"desc": "Yeni Evolution yayında · bitiş 05.10 20:00"
+},
+{
+"uid": "fc27-new-obj-113-20261002",
+"title": "🆕 Yeni Objective: Squad Foundations: Shunsuke Mito",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/113",
+"desc": "Yeni Objective yayında · bitiş 02.10 20:00"
+},
+{
+"uid": "fc27-new-obj-109-20261002",
+"title": "🆕 Yeni Objective: Destined for Glory Exhibition",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/109",
+"desc": "Yeni Objective yayında · bitiş 02.10 20:00"
+},
+{
+"uid": "fc27-new-obj-37-noexp",
+"title": "🆕 Yeni Objective: Total Football",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/37",
+"desc": "Yeni Objective yayında"
+},
+{
+"uid": "fc27-new-obj-35-noexp",
+"title": "🆕 Yeni Objective: Rising Through the Ranks",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/35",
+"desc": "Yeni Objective yayında"
+},
+{
+"uid": "fc27-new-obj-34-noexp",
+"title": "🆕 Yeni Objective: First Team Dreams",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/34",
+"desc": "Yeni Objective yayında"
+},
+{
+"uid": "fc27-new-obj-123-noexp",
+"title": "🆕 Yeni Objective: Gallery Foundations",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/123",
+"desc": "Yeni Objective yayında"
+},
+{
+"uid": "fc27-new-obj-33-noexp",
+"title": "🆕 Yeni Objective: The Journey Begins",
+"start": "2026-09-25T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/33",
+"desc": "Yeni Objective yayında"
 }
 ]
 }

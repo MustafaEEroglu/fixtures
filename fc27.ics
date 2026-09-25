@@ -8,6 +8,44 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:Europe/Istanbul
 BEGIN:VEVENT
+SUMMARY:⏳ SBC bitiyor: Antonio Nusa
+DTSTART;TZID=Europe/Istanbul:20261002T200000
+DTEND;TZID=Europe/Istanbul:20261002T203000
+UID:futgg-sbc-5266
+DESCRIPTION:SBC bitiş · Players · ~68\,050 coin\nhttps://www.fut.gg/sbc
+ /players/27-25-antonio-nusa/
+URL:https://www.fut.gg/sbc/players/27-25-antonio-nusa/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Antonio Nusa
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: Antonio Nusa
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ SBC bitiyor: TOTW Upgrade
+DTSTART;TZID=Europe/Istanbul:20261002T200001
+DTEND;TZID=Europe/Istanbul:20261002T203001
+UID:futgg-sbc-5265
+DESCRIPTION:SBC bitiş · Upgrades · ~11\,500 coin\nhttps://www.fut.gg/sb
+ c/upgrades/27-29-totw-upgrade/
+URL:https://www.fut.gg/sbc/upgrades/27-29-totw-upgrade/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: TOTW Upgrade
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: TOTW Upgrade
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Marquee Matchups
 DTSTART;TZID=Europe/Istanbul:20261001T200000
 DTEND;TZID=Europe/Istanbul:20261001T203000
@@ -31,7 +69,7 @@ SUMMARY:⏳ SBC bitiyor: Intro to Player SBCs
 DTSTART;TZID=Europe/Istanbul:20350831T200000
 DTEND;TZID=Europe/Istanbul:20350831T203000
 UID:futgg-sbc-5263
-DESCRIPTION:SBC bitiş · Foundations · ~3\,350 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Foundations · ~3\,450 coin\nhttps://www.fut.gg/
  sbc/foundations/27-20-intro-to-player-sbcs/
 URL:https://www.fut.gg/sbc/foundations/27-20-intro-to-player-sbcs/
 BEGIN:VALARM
@@ -69,7 +107,7 @@ SUMMARY:⏳ SBC bitiyor: 83+ Upgrade
 DTSTART;TZID=Europe/Istanbul:20260929T200000
 DTEND;TZID=Europe/Istanbul:20260929T203000
 UID:futgg-sbc-5261
-DESCRIPTION:SBC bitiş · Upgrades · ~2\,150 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~2\,200 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-12-83-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-12-83-upgrade/
 BEGIN:VALARM
@@ -85,10 +123,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: 2x 79+ Upgrade
-DTSTART;TZID=Europe/Istanbul:20260928T200000
-DTEND;TZID=Europe/Istanbul:20260928T203000
+DTSTART;TZID=Europe/Istanbul:20260928T200001
+DTEND;TZID=Europe/Istanbul:20260928T203001
 UID:futgg-sbc-5260
-DESCRIPTION:SBC bitiş · Upgrades · ~7\,500 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~7\,450 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-11-2x-79-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-11-2x-79-upgrade/
 BEGIN:VALARM
@@ -107,7 +145,7 @@ SUMMARY:⏳ SBC bitiyor: Ones to Watch Duo Pick 1
 DTSTART;TZID=Europe/Istanbul:20260926T200000
 DTEND;TZID=Europe/Istanbul:20260926T203000
 UID:futgg-sbc-5258
-DESCRIPTION:SBC bitiş · Players · ~17\,300 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Players · ~17\,000 coin\nhttps://www.fut.gg/sbc
  /players/27-18-ones-to-watch-duo-pick-1/
 URL:https://www.fut.gg/sbc/players/27-18-ones-to-watch-duo-pick-1/
 BEGIN:VALARM
@@ -122,30 +160,11 @@ TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⏳ SBC bitiyor: Ayyoub Bouaddi
-DTSTART;TZID=Europe/Istanbul:20260925T200000
-DTEND;TZID=Europe/Istanbul:20260925T203000
-UID:futgg-sbc-5257
-DESCRIPTION:SBC bitiş · Players · ~17\,300 coin\nhttps://www.fut.gg/sbc
- /players/27-17-ayyoub-bouaddi/
-URL:https://www.fut.gg/sbc/players/27-17-ayyoub-bouaddi/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ SBC bitiyor: Ayyoub Bouaddi
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ SBC bitiyor: Ayyoub Bouaddi
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Gold Upgrade
-DTSTART;TZID=Europe/Istanbul:20350820T200000
-DTEND;TZID=Europe/Istanbul:20350820T203000
+DTSTART;TZID=Europe/Istanbul:20350820T200001
+DTEND;TZID=Europe/Istanbul:20350820T203001
 UID:futgg-sbc-5254
-DESCRIPTION:SBC bitiş · Upgrades · ~8\,050 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~7\,800 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-6-gold-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-6-gold-upgrade/
 BEGIN:VALARM
@@ -161,10 +180,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Silver Upgrade
-DTSTART;TZID=Europe/Istanbul:20350820T140000
-DTEND;TZID=Europe/Istanbul:20350820T143000
+DTSTART;TZID=Europe/Istanbul:20350820T140001
+DTEND;TZID=Europe/Istanbul:20350820T143001
 UID:futgg-sbc-5253
-DESCRIPTION:SBC bitiş · Upgrades · ~2\,200 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~2\,400 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-5-silver-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-5-silver-upgrade/
 BEGIN:VALARM
@@ -180,10 +199,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Bronze Upgrade
-DTSTART;TZID=Europe/Istanbul:20350820T200000
-DTEND;TZID=Europe/Istanbul:20350820T203000
+DTSTART;TZID=Europe/Istanbul:20350820T200001
+DTEND;TZID=Europe/Istanbul:20350820T203001
 UID:futgg-sbc-5252
-DESCRIPTION:SBC bitiş · Upgrades · ~4\,500 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~4\,600 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-4-bronze-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-4-bronze-upgrade/
 BEGIN:VALARM
@@ -221,7 +240,7 @@ SUMMARY:⏳ SBC bitiyor: Gold Re-Roll
 DTSTART;TZID=Europe/Istanbul:20350820T200000
 DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5250
-DESCRIPTION:SBC bitiş · Foundations · ~2\,150 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Foundations · ~2\,000 coin\nhttps://www.fut.gg/
  sbc/foundations/27-9-gold-re-roll/
 URL:https://www.fut.gg/sbc/foundations/27-9-gold-re-roll/
 BEGIN:VALARM
@@ -259,7 +278,7 @@ SUMMARY:⏳ SBC bitiyor: Intro to Streamlined SBCs
 DTSTART;TZID=Europe/Istanbul:20350820T200000
 DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5248
-DESCRIPTION:SBC bitiş · Foundations · ~8\,250 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Foundations · ~8\,100 coin\nhttps://www.fut.gg/
  sbc/foundations/27-7-getting-started/
 URL:https://www.fut.gg/sbc/foundations/27-7-getting-started/
 BEGIN:VALARM
@@ -297,7 +316,7 @@ SUMMARY:⏳ SBC bitiyor: Intro to SBCs
 DTSTART;TZID=Europe/Istanbul:20350820T200000
 DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5246
-DESCRIPTION:SBC bitiş · Foundations · ~6\,500 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Foundations · ~8\,200 coin\nhttps://www.fut.gg/
  sbc/foundations/27-1-intro-to-sbcs/
 URL:https://www.fut.gg/sbc/foundations/27-1-intro-to-sbcs/
 BEGIN:VALARM
@@ -308,6 +327,253 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏳ SBC bitiyor: Intro to SBCs
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: LB Roles++
+DTSTART;TZID=Europe/Istanbul:20270925T200000
+DTEND;TZID=Europe/Istanbul:20270925T203000
+UID:futgg-evo-2520
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2520-lb-roles/
+URL:https://www.fut.gg/evolutions/2520-lb-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: LB Roles++
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: LB Roles++
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: CB Roles++
+DTSTART;TZID=Europe/Istanbul:20270925T200000
+DTEND;TZID=Europe/Istanbul:20270925T203000
+UID:futgg-evo-2519
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2519-cb-roles/
+URL:https://www.fut.gg/evolutions/2519-cb-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: CB Roles++
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: CB Roles++
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: RB Roles++
+DTSTART;TZID=Europe/Istanbul:20270925T200000
+DTEND;TZID=Europe/Istanbul:20270925T203000
+UID:futgg-evo-2518
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2518-rb-roles/
+URL:https://www.fut.gg/evolutions/2518-rb-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: RB Roles++
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: RB Roles++
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: RM Roles++
+DTSTART;TZID=Europe/Istanbul:20270925T200000
+DTEND;TZID=Europe/Istanbul:20270925T203000
+UID:futgg-evo-2517
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2517-rm-roles/
+URL:https://www.fut.gg/evolutions/2517-rm-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: RM Roles++
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: RM Roles++
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: LM Roles++
+DTSTART;TZID=Europe/Istanbul:20270925T200000
+DTEND;TZID=Europe/Istanbul:20270925T203000
+UID:futgg-evo-2516
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2516-lm-roles/
+URL:https://www.fut.gg/evolutions/2516-lm-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: LM Roles++
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: LM Roles++
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: CDM Roles++
+DTSTART;TZID=Europe/Istanbul:20270925T200000
+DTEND;TZID=Europe/Istanbul:20270925T203000
+UID:futgg-evo-2515
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2515-cdm-roles/
+URL:https://www.fut.gg/evolutions/2515-cdm-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: CDM Roles++
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: CDM Roles++
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: LW Roles++
+DTSTART;TZID=Europe/Istanbul:20270925T200000
+DTEND;TZID=Europe/Istanbul:20270925T203000
+UID:futgg-evo-2514
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2514-lw-roles/
+URL:https://www.fut.gg/evolutions/2514-lw-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: LW Roles++
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: LW Roles++
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: GK Roles++
+DTSTART;TZID=Europe/Istanbul:20270925T200000
+DTEND;TZID=Europe/Istanbul:20270925T203000
+UID:futgg-evo-2513
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2513-gk-roles/
+URL:https://www.fut.gg/evolutions/2513-gk-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: GK Roles++
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: GK Roles++
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: CM Roles++
+DTSTART;TZID=Europe/Istanbul:20270925T200000
+DTEND;TZID=Europe/Istanbul:20270925T203000
+UID:futgg-evo-2512
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2512-cm-roles/
+URL:https://www.fut.gg/evolutions/2512-cm-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: CM Roles++
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: CM Roles++
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: CAM Roles++
+DTSTART;TZID=Europe/Istanbul:20270925T200000
+DTEND;TZID=Europe/Istanbul:20270925T203000
+UID:futgg-evo-2511
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2511-cam-roles/
+URL:https://www.fut.gg/evolutions/2511-cam-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: CAM Roles++
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: CAM Roles++
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: RW Roles++
+DTSTART;TZID=Europe/Istanbul:20270925T200000
+DTEND;TZID=Europe/Istanbul:20270925T203000
+UID:futgg-evo-2510
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2510-rw-roles/
+URL:https://www.fut.gg/evolutions/2510-rw-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: RW Roles++
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: RW Roles++
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: ST Roles++
+DTSTART;TZID=Europe/Istanbul:20270925T200000
+DTEND;TZID=Europe/Istanbul:20270925T203000
+UID:futgg-evo-2509
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2509-st-roles/
+URL:https://www.fut.gg/evolutions/2509-st-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: ST Roles++
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: ST Roles++
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: Frontline Paradox
+DTSTART;TZID=Europe/Istanbul:20261005T200000
+DTEND;TZID=Europe/Istanbul:20261005T203000
+UID:futgg-evo-2508
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2508-frontline-paradox/
+URL:https://www.fut.gg/evolutions/2508-frontline-paradox/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Frontline Paradox
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Frontline Paradox
 TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
@@ -692,25 +958,6 @@ TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Tactical Trials
-DTSTART;TZID=Europe/Istanbul:20260925T200000
-DTEND;TZID=Europe/Istanbul:20260925T203000
-UID:futgenie-obj-91-20260925
-DESCRIPTION:Objective bitiş · Campaigns\nhttps://www.futgenie.gg/objecti
- ves/91
-URL:https://www.futgenie.gg/objectives/91
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Tactical Trials
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Tactical Trials
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⏳ Objective bitiyor: Squad Battles: Champions Qualification Poin
  ts
 DTSTART;TZID=Europe/Istanbul:20260927T100000
@@ -804,6 +1051,44 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏳ Objective bitiyor: Daily Objectives
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ Objective bitiyor: Squad Foundations: Shunsuke Mito
+DTSTART;TZID=Europe/Istanbul:20261002T200000
+DTEND;TZID=Europe/Istanbul:20261002T203000
+UID:futgenie-obj-113-20261002
+DESCRIPTION:Objective bitiş · Campaigns\nhttps://www.futgenie.gg/objecti
+ ves/113
+URL:https://www.futgenie.gg/objectives/113
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Squad Foundations: Shunsuke Mito
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Squad Foundations: Shunsuke Mito
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ Objective bitiyor: Destined for Glory Exhibition
+DTSTART;TZID=Europe/Istanbul:20261002T200000
+DTEND;TZID=Europe/Istanbul:20261002T203000
+UID:futgenie-obj-109-20261002
+DESCRIPTION:Objective bitiş · Live\nhttps://www.futgenie.gg/objectives/1
+ 09
+URL:https://www.futgenie.gg/objectives/109
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Destined for Glory Exhibition
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Destined for Glory Exhibition
 TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
@@ -1410,6 +1695,310 @@ URL:https://www.fut.gg/sbc/foundations/27-20-intro-to-player-sbcs/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:🆕 Yeni SBC: Intro to Player SBCs
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni SBC: Antonio Nusa
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-sbc-5266
+DESCRIPTION:Yeni SBC yayında · bitiş 02.10 20:00\nhttps://www.fut.gg/sb
+ c/players/27-25-antonio-nusa/
+URL:https://www.fut.gg/sbc/players/27-25-antonio-nusa/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni SBC: Antonio Nusa
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni SBC: TOTW Upgrade
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-sbc-5265
+DESCRIPTION:Yeni SBC yayında · bitiş 02.10 20:00\nhttps://www.fut.gg/sb
+ c/upgrades/27-29-totw-upgrade/
+URL:https://www.fut.gg/sbc/upgrades/27-29-totw-upgrade/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni SBC: TOTW Upgrade
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Evolution: LB Roles++
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-evo-2520
+DESCRIPTION:Yeni Evolution yayında · bitiş 25.09 20:00\nhttps://www.fut
+ .gg/evolutions/2520-lb-roles/
+URL:https://www.fut.gg/evolutions/2520-lb-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Evolution: LB Roles++
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Evolution: CB Roles++
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-evo-2519
+DESCRIPTION:Yeni Evolution yayında · bitiş 25.09 20:00\nhttps://www.fut
+ .gg/evolutions/2519-cb-roles/
+URL:https://www.fut.gg/evolutions/2519-cb-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Evolution: CB Roles++
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Evolution: RB Roles++
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-evo-2518
+DESCRIPTION:Yeni Evolution yayında · bitiş 25.09 20:00\nhttps://www.fut
+ .gg/evolutions/2518-rb-roles/
+URL:https://www.fut.gg/evolutions/2518-rb-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Evolution: RB Roles++
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Evolution: RM Roles++
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-evo-2517
+DESCRIPTION:Yeni Evolution yayında · bitiş 25.09 20:00\nhttps://www.fut
+ .gg/evolutions/2517-rm-roles/
+URL:https://www.fut.gg/evolutions/2517-rm-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Evolution: RM Roles++
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Evolution: LM Roles++
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-evo-2516
+DESCRIPTION:Yeni Evolution yayında · bitiş 25.09 20:00\nhttps://www.fut
+ .gg/evolutions/2516-lm-roles/
+URL:https://www.fut.gg/evolutions/2516-lm-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Evolution: LM Roles++
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Evolution: CDM Roles++
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-evo-2515
+DESCRIPTION:Yeni Evolution yayında · bitiş 25.09 20:00\nhttps://www.fut
+ .gg/evolutions/2515-cdm-roles/
+URL:https://www.fut.gg/evolutions/2515-cdm-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Evolution: CDM Roles++
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Evolution: LW Roles++
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-evo-2514
+DESCRIPTION:Yeni Evolution yayında · bitiş 25.09 20:00\nhttps://www.fut
+ .gg/evolutions/2514-lw-roles/
+URL:https://www.fut.gg/evolutions/2514-lw-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Evolution: LW Roles++
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Evolution: GK Roles++
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-evo-2513
+DESCRIPTION:Yeni Evolution yayında · bitiş 25.09 20:00\nhttps://www.fut
+ .gg/evolutions/2513-gk-roles/
+URL:https://www.fut.gg/evolutions/2513-gk-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Evolution: GK Roles++
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Evolution: CM Roles++
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-evo-2512
+DESCRIPTION:Yeni Evolution yayında · bitiş 25.09 20:00\nhttps://www.fut
+ .gg/evolutions/2512-cm-roles/
+URL:https://www.fut.gg/evolutions/2512-cm-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Evolution: CM Roles++
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Evolution: CAM Roles++
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-evo-2511
+DESCRIPTION:Yeni Evolution yayında · bitiş 25.09 20:00\nhttps://www.fut
+ .gg/evolutions/2511-cam-roles/
+URL:https://www.fut.gg/evolutions/2511-cam-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Evolution: CAM Roles++
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Evolution: RW Roles++
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-evo-2510
+DESCRIPTION:Yeni Evolution yayında · bitiş 25.09 20:00\nhttps://www.fut
+ .gg/evolutions/2510-rw-roles/
+URL:https://www.fut.gg/evolutions/2510-rw-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Evolution: RW Roles++
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Evolution: ST Roles++
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-evo-2509
+DESCRIPTION:Yeni Evolution yayında · bitiş 25.09 20:00\nhttps://www.fut
+ .gg/evolutions/2509-st-roles/
+URL:https://www.fut.gg/evolutions/2509-st-roles/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Evolution: ST Roles++
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Evolution: Frontline Paradox
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-evo-2508
+DESCRIPTION:Yeni Evolution yayında · bitiş 05.10 20:00\nhttps://www.fut
+ .gg/evolutions/2508-frontline-paradox/
+URL:https://www.fut.gg/evolutions/2508-frontline-paradox/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Evolution: Frontline Paradox
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Objective: Squad Foundations: Shunsuke Mito
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-obj-113-20261002
+DESCRIPTION:Yeni Objective yayında · bitiş 02.10 20:00\nhttps://www.fut
+ genie.gg/objectives/113
+URL:https://www.futgenie.gg/objectives/113
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Objective: Squad Foundations: Shunsuke Mito
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Objective: Destined for Glory Exhibition
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-obj-109-20261002
+DESCRIPTION:Yeni Objective yayında · bitiş 02.10 20:00\nhttps://www.fut
+ genie.gg/objectives/109
+URL:https://www.futgenie.gg/objectives/109
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Objective: Destined for Glory Exhibition
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Objective: Total Football
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-obj-37-noexp
+DESCRIPTION:Yeni Objective yayında\nhttps://www.futgenie.gg/objectives/37
+URL:https://www.futgenie.gg/objectives/37
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Objective: Total Football
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Objective: Rising Through the Ranks
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-obj-35-noexp
+DESCRIPTION:Yeni Objective yayında\nhttps://www.futgenie.gg/objectives/35
+URL:https://www.futgenie.gg/objectives/35
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Objective: Rising Through the Ranks
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Objective: First Team Dreams
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-obj-34-noexp
+DESCRIPTION:Yeni Objective yayında\nhttps://www.futgenie.gg/objectives/34
+URL:https://www.futgenie.gg/objectives/34
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Objective: First Team Dreams
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Objective: Gallery Foundations
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-obj-123-noexp
+DESCRIPTION:Yeni Objective yayında\nhttps://www.futgenie.gg/objectives/12
+ 3
+URL:https://www.futgenie.gg/objectives/123
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Objective: Gallery Foundations
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Objective: The Journey Begins
+DTSTART;TZID=Europe/Istanbul:20260925T220000
+DTEND;TZID=Europe/Istanbul:20260925T221500
+UID:fc27-new-obj-33-noexp
+DESCRIPTION:Yeni Objective yayında\nhttps://www.futgenie.gg/objectives/33
+URL:https://www.futgenie.gg/objectives/33
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Objective: The Journey Begins
 TRIGGER:P0D
 END:VALARM
 END:VEVENT
