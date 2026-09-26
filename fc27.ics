@@ -12,7 +12,7 @@ SUMMARY:⏳ SBC bitiyor: Antonio Nusa
 DTSTART;TZID=Europe/Istanbul:20261002T200001
 DTEND;TZID=Europe/Istanbul:20261002T203001
 UID:futgg-sbc-5266
-DESCRIPTION:SBC bitiş · Players · ~68\,700 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Players · ~65\,750 coin\nhttps://www.fut.gg/sbc
  /players/27-25-antonio-nusa/
 URL:https://www.fut.gg/sbc/players/27-25-antonio-nusa/
 BEGIN:VALARM
@@ -31,7 +31,7 @@ SUMMARY:⏳ SBC bitiyor: TOTW Upgrade
 DTSTART;TZID=Europe/Istanbul:20261002T200001
 DTEND;TZID=Europe/Istanbul:20261002T203001
 UID:futgg-sbc-5265
-DESCRIPTION:SBC bitiş · Upgrades · ~11\,000 coin\nhttps://www.fut.gg/sb
+DESCRIPTION:SBC bitiş · Upgrades · ~10\,900 coin\nhttps://www.fut.gg/sb
  c/upgrades/27-29-totw-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-29-totw-upgrade/
 BEGIN:VALARM
@@ -69,7 +69,7 @@ SUMMARY:⏳ SBC bitiyor: Intro to Player SBCs
 DTSTART;TZID=Europe/Istanbul:20350831T200000
 DTEND;TZID=Europe/Istanbul:20350831T203000
 UID:futgg-sbc-5263
-DESCRIPTION:SBC bitiş · Foundations · ~3\,450 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Foundations · ~3\,250 coin\nhttps://www.fut.gg/
  sbc/foundations/27-20-intro-to-player-sbcs/
 URL:https://www.fut.gg/sbc/foundations/27-20-intro-to-player-sbcs/
 BEGIN:VALARM
@@ -84,30 +84,11 @@ TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⏳ SBC bitiyor: Madrid Dreams
-DTSTART;TZID=Europe/Istanbul:20260926T200001
-DTEND;TZID=Europe/Istanbul:20260926T203001
-UID:futgg-sbc-5262
-DESCRIPTION:SBC bitiş · Challenges\nhttps://www.fut.gg/sbc/challenges/27
- -15-madrid-dreams/
-URL:https://www.fut.gg/sbc/challenges/27-15-madrid-dreams/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ SBC bitiyor: Madrid Dreams
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ SBC bitiyor: Madrid Dreams
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: 83+ Upgrade
 DTSTART;TZID=Europe/Istanbul:20260929T200001
 DTEND;TZID=Europe/Istanbul:20260929T203001
 UID:futgg-sbc-5261
-DESCRIPTION:SBC bitiş · Upgrades · ~2\,250 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~2\,150 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-12-83-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-12-83-upgrade/
 BEGIN:VALARM
@@ -126,7 +107,7 @@ SUMMARY:⏳ SBC bitiyor: 2x 79+ Upgrade
 DTSTART;TZID=Europe/Istanbul:20260928T200001
 DTEND;TZID=Europe/Istanbul:20260928T203001
 UID:futgg-sbc-5260
-DESCRIPTION:SBC bitiş · Upgrades · ~7\,700 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~7\,400 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-11-2x-79-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-11-2x-79-upgrade/
 BEGIN:VALARM
@@ -141,31 +122,12 @@ TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⏳ SBC bitiyor: Ones to Watch Duo Pick 1
-DTSTART;TZID=Europe/Istanbul:20260926T200001
-DTEND;TZID=Europe/Istanbul:20260926T203001
-UID:futgg-sbc-5258
-DESCRIPTION:SBC bitiş · Players · ~17\,550 coin\nhttps://www.fut.gg/sbc
- /players/27-18-ones-to-watch-duo-pick-1/
-URL:https://www.fut.gg/sbc/players/27-18-ones-to-watch-duo-pick-1/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ SBC bitiyor: Ones to Watch Duo Pick 1
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ SBC bitiyor: Ones to Watch Duo Pick 1
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Gold Upgrade
-DTSTART;TZID=Europe/Istanbul:20350820T200001
-DTEND;TZID=Europe/Istanbul:20350820T203001
+DTSTART;TZID=Europe/Istanbul:20350820T200000
+DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5254
-DESCRIPTION:SBC bitiş · Upgrades · ~10\,900 coin\nhttps://www.fut.gg/sb
- c/upgrades/27-6-gold-upgrade/
+DESCRIPTION:SBC bitiş · Upgrades · ~9\,350 coin\nhttps://www.fut.gg/sbc
+ /upgrades/27-6-gold-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-6-gold-upgrade/
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -183,7 +145,7 @@ SUMMARY:⏳ SBC bitiyor: Silver Upgrade
 DTSTART;TZID=Europe/Istanbul:20350820T140001
 DTEND;TZID=Europe/Istanbul:20350820T143001
 UID:futgg-sbc-5253
-DESCRIPTION:SBC bitiş · Upgrades · ~2\,950 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~2\,600 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-5-silver-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-5-silver-upgrade/
 BEGIN:VALARM
@@ -199,10 +161,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Bronze Upgrade
-DTSTART;TZID=Europe/Istanbul:20350820T200001
-DTEND;TZID=Europe/Istanbul:20350820T203001
+DTSTART;TZID=Europe/Istanbul:20350820T200000
+DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5252
-DESCRIPTION:SBC bitiş · Upgrades · ~4\,750 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~3\,600 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-4-bronze-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-4-bronze-upgrade/
 BEGIN:VALARM
@@ -218,8 +180,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: League & Nation Advanced
-DTSTART;TZID=Europe/Istanbul:20350831T200000
-DTEND;TZID=Europe/Istanbul:20350831T203000
+DTSTART;TZID=Europe/Istanbul:20350831T200001
+DTEND;TZID=Europe/Istanbul:20350831T203001
 UID:futgg-sbc-5251
 DESCRIPTION:SBC bitiş · Challenges\nhttps://www.fut.gg/sbc/challenges/27
  -10-league-nation-advanced/
@@ -240,7 +202,7 @@ SUMMARY:⏳ SBC bitiyor: Gold Re-Roll
 DTSTART;TZID=Europe/Istanbul:20350820T200000
 DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5250
-DESCRIPTION:SBC bitiş · Foundations · ~2\,150 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Foundations · ~2\,100 coin\nhttps://www.fut.gg/
  sbc/foundations/27-9-gold-re-roll/
 URL:https://www.fut.gg/sbc/foundations/27-9-gold-re-roll/
 BEGIN:VALARM
@@ -316,8 +278,8 @@ SUMMARY:⏳ SBC bitiyor: Intro to SBCs
 DTSTART;TZID=Europe/Istanbul:20350820T200000
 DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5246
-DESCRIPTION:SBC bitiş · Foundations · ~12\,150 coin\nhttps://www.fut.gg
- /sbc/foundations/27-1-intro-to-sbcs/
+DESCRIPTION:SBC bitiş · Foundations · ~8\,100 coin\nhttps://www.fut.gg/
+ sbc/foundations/27-1-intro-to-sbcs/
 URL:https://www.fut.gg/sbc/foundations/27-1-intro-to-sbcs/
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -331,59 +293,21 @@ TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⏳ EVO tamamlama son gün: Ones to Watch Retro 20
-DTSTART;TZID=Europe/Istanbul:20261022T100000
-DTEND;TZID=Europe/Istanbul:20261022T103000
-UID:futgg-evo-2523
+SUMMARY:⏳ EVO tamamlama son gün: Pivot Shift
+DTSTART;TZID=Europe/Istanbul:20261006T200000
+DTEND;TZID=Europe/Istanbul:20261006T203000
+UID:futgg-evo-2524
 DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
- fut.gg/evolutions/2523-ones-to-watch-retro-20/
-URL:https://www.fut.gg/evolutions/2523-ones-to-watch-retro-20/
+ fut.gg/evolutions/2524-pivot-shift/
+URL:https://www.fut.gg/evolutions/2524-pivot-shift/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏳ EVO tamamlama son gün: Ones to Watch Retro 20
+DESCRIPTION:⏳ EVO tamamlama son gün: Pivot Shift
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏳ EVO tamamlama son gün: Ones to Watch Retro 20
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ EVO tamamlama son gün: Ones to Watch Retro 18
-DTSTART;TZID=Europe/Istanbul:20261022T100000
-DTEND;TZID=Europe/Istanbul:20261022T103000
-UID:futgg-evo-2522
-DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
- fut.gg/evolutions/2522-ones-to-watch-retro-18/
-URL:https://www.fut.gg/evolutions/2522-ones-to-watch-retro-18/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ EVO tamamlama son gün: Ones to Watch Retro 18
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ EVO tamamlama son gün: Ones to Watch Retro 18
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ EVO tamamlama son gün: Ones to Watch Retro 19
-DTSTART;TZID=Europe/Istanbul:20261022T100000
-DTEND;TZID=Europe/Istanbul:20261022T103000
-UID:futgg-evo-2521
-DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
- fut.gg/evolutions/2521-ones-to-watch-retro-19/
-URL:https://www.fut.gg/evolutions/2521-ones-to-watch-retro-19/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ EVO tamamlama son gün: Ones to Watch Retro 19
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ EVO tamamlama son gün: Ones to Watch Retro 19
+DESCRIPTION:⏳ EVO tamamlama son gün: Pivot Shift
 TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
@@ -1112,25 +1036,6 @@ TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Squad Foundations: Shunsuke Mito
-DTSTART;TZID=Europe/Istanbul:20261002T200000
-DTEND;TZID=Europe/Istanbul:20261002T203000
-UID:futgenie-obj-113-20261002
-DESCRIPTION:Objective bitiş · Campaigns\nhttps://www.futgenie.gg/objecti
- ves/113
-URL:https://www.futgenie.gg/objectives/113
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Squad Foundations: Shunsuke Mito
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Squad Foundations: Shunsuke Mito
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⏳ Objective bitiyor: Destined for Glory Exhibition
 DTSTART;TZID=Europe/Istanbul:20261002T200000
 DTEND;TZID=Europe/Istanbul:20261002T203000
@@ -1146,6 +1051,25 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏳ Objective bitiyor: Destined for Glory Exhibition
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ Objective bitiyor: Squad Foundations: Shunsuke Mito
+DTSTART;TZID=Europe/Istanbul:20261003T200000
+DTEND;TZID=Europe/Istanbul:20261003T203000
+UID:futgenie-obj-113-20261003
+DESCRIPTION:Objective bitiş · Campaigns\nhttps://www.futgenie.gg/objecti
+ ves/113
+URL:https://www.futgenie.gg/objectives/113
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Squad Foundations: Shunsuke Mito
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Squad Foundations: Shunsuke Mito
 TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
@@ -2098,6 +2022,34 @@ URL:https://www.fut.gg/evolutions/2521-ones-to-watch-retro-19/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:🆕 Yeni Evolution: Ones to Watch Retro 19
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Evolution: Pivot Shift
+DTSTART;TZID=Europe/Istanbul:20260926T220000
+DTEND;TZID=Europe/Istanbul:20260926T221500
+UID:fc27-new-evo-2524
+DESCRIPTION:Yeni Evolution yayında · bitiş 06.10 20:00\nhttps://www.fut
+ .gg/evolutions/2524-pivot-shift/
+URL:https://www.fut.gg/evolutions/2524-pivot-shift/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Evolution: Pivot Shift
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Objective: Squad Foundations: Shunsuke Mito
+DTSTART;TZID=Europe/Istanbul:20260926T220000
+DTEND;TZID=Europe/Istanbul:20260926T221500
+UID:fc27-new-obj-113-20261003
+DESCRIPTION:Yeni Objective yayında · bitiş 03.10 20:00\nhttps://www.fut
+ genie.gg/objectives/113
+URL:https://www.futgenie.gg/objectives/113
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Objective: Squad Foundations: Shunsuke Mito
 TRIGGER:P0D
 END:VALARM
 END:VEVENT
