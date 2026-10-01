@@ -123,23 +123,15 @@
 "obj-94-20261004": "2026-09-30T19:22:48.634856+00:00",
 "obj-73-20261006": "2026-09-30T19:22:48.634856+00:00",
 "evo-2532": "2026-10-01T05:58:47.955542+00:00",
-"sbc-5273": "2026-10-01T13:20:03.155708+00:00"
+"sbc-5273": "2026-10-01T13:20:03.155708+00:00",
+"sbc-5275": "2026-10-01T19:33:19.630819+00:00",
+"sbc-5274": "2026-10-01T19:33:19.630819+00:00",
+"evo-2533": "2026-10-01T19:33:19.630819+00:00",
+"obj-66-20261008": "2026-10-01T19:33:19.630819+00:00",
+"obj-62-20261008": "2026-10-01T19:33:19.630819+00:00",
+"obj-77-20261022": "2026-10-01T19:33:19.630819+00:00"
 },
 "new": [
-{
-"uid": "fc27-new-evo-2527",
-"title": "🆕 Yeni Evolution: Gallery Excellence",
-"start": "2026-09-29T18:00:00+00:00",
-"link": "https://www.fut.gg/evolutions/2527-gallery-excellence/",
-"desc": "Yeni Evolution yayında · bitiş 30.09 03:00"
-},
-{
-"uid": "fc27-new-evo-2526",
-"title": "🆕 Yeni Evolution: Season Ladder Excellence [SP 27]",
-"start": "2026-09-29T18:00:00+00:00",
-"link": "https://www.fut.gg/evolutions/2526-season-ladder-excellence-sp-27/",
-"desc": "Yeni Evolution yayında · bitiş 29.10 10:00"
-},
 {
 "uid": "fc27-new-sbc-5272",
 "title": "🆕 Yeni SBC: Davide Frattesi",
@@ -195,6 +187,48 @@
 "start": "2026-10-01T15:00:00+00:00",
 "link": "https://www.fut.gg/sbc/players/27-32-serie-a-potm-september/",
 "desc": "Yeni SBC yayında · bitiş 29.10 16:00"
+},
+{
+"uid": "fc27-new-sbc-5275",
+"title": "🆕 Yeni SBC: Marquee Matchups",
+"start": "2026-10-01T21:00:00+00:00",
+"link": "https://www.fut.gg/sbc/challenges/27-24-marquee-matchups/",
+"desc": "Yeni SBC yayında · bitiş 08.10 20:00"
+},
+{
+"uid": "fc27-new-sbc-5274",
+"title": "🆕 Yeni SBC: Bundesliga POTM September",
+"start": "2026-10-01T21:00:00+00:00",
+"link": "https://www.fut.gg/sbc/players/27-39-bundesliga-potm-september/",
+"desc": "Yeni SBC yayında · bitiş 29.10 18:00"
+},
+{
+"uid": "fc27-new-evo-2533",
+"title": "🆕 Yeni Evolution: Backline Conductor",
+"start": "2026-10-01T21:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2533-backline-conductor/",
+"desc": "Yeni Evolution yayında · bitiş 11.10 20:00"
+},
+{
+"uid": "fc27-new-obj-66-20261008",
+"title": "🆕 Yeni Objective: Weekly Objectives",
+"start": "2026-10-01T21:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/66",
+"desc": "Yeni Objective yayında · bitiş 08.10 20:00"
+},
+{
+"uid": "fc27-new-obj-62-20261008",
+"title": "🆕 Yeni Objective: Daily Objectives",
+"start": "2026-10-01T21:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/62",
+"desc": "Yeni Objective yayında · bitiş 08.10 20:00"
+},
+{
+"uid": "fc27-new-obj-77-20261022",
+"title": "🆕 Yeni Objective: Icon Home Kit",
+"start": "2026-10-01T21:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/77",
+"desc": "Yeni Objective yayında · bitiş 22.10 10:00"
 }
 ]
 }
