@@ -137,7 +137,11 @@
 "evo-2534": "2026-10-02T19:21:11.758162+00:00",
 "obj-124-20261009": "2026-10-02T19:21:11.758162+00:00",
 "evo-2537": "2026-10-03T21:18:56.920323+00:00",
-"obj-120-20261009": "2026-10-03T21:18:56.920323+00:00"
+"obj-120-20261009": "2026-10-03T21:18:56.920323+00:00",
+"sbc-5285": "2026-10-04T19:39:30.395128+00:00",
+"sbc-5284": "2026-10-04T19:39:30.395128+00:00",
+"obj-118-20261007": "2026-10-04T19:39:30.395128+00:00",
+"obj-95-20261011": "2026-10-04T19:39:30.395128+00:00"
 },
 "new": [
 {
@@ -188,6 +192,34 @@
 "start": "2026-10-03T23:00:00+00:00",
 "link": "https://www.futgenie.gg/objectives/120",
 "desc": "Yeni Objective yayında · bitiş 09.10 20:00"
+},
+{
+"uid": "fc27-new-sbc-5285",
+"title": "🆕 Yeni SBC: Tarciane",
+"start": "2026-10-04T21:00:00+00:00",
+"link": "https://www.fut.gg/sbc/players/27-37-tarciane/",
+"desc": "Yeni SBC yayında · bitiş 11.10 20:00"
+},
+{
+"uid": "fc27-new-sbc-5284",
+"title": "🆕 Yeni SBC: Destined for Glory Challenge 3",
+"start": "2026-10-04T21:00:00+00:00",
+"link": "https://www.fut.gg/sbc/challenges/27-27-destined-for-glory-challenge-3/",
+"desc": "Yeni SBC yayında · bitiş 07.10 20:00"
+},
+{
+"uid": "fc27-new-obj-118-20261007",
+"title": "🆕 Yeni Objective: Destined for Glory: Strikers Only",
+"start": "2026-10-04T21:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/118",
+"desc": "Yeni Objective yayında · bitiş 07.10 20:00"
+},
+{
+"uid": "fc27-new-obj-95-20261011",
+"title": "🆕 Yeni Objective: Squad Battles: Champions Qualification Points",
+"start": "2026-10-04T21:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/95",
+"desc": "Yeni Objective yayında · bitiş 11.10 10:00"
 }
 ]
 }
