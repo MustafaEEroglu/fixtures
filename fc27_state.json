@@ -143,37 +143,13 @@
 "obj-118-20261007": "2026-10-04T19:39:30.395128+00:00",
 "obj-95-20261011": "2026-10-04T19:39:30.395128+00:00",
 "sbc-5286": "2026-10-05T22:39:26.196724+00:00",
-"evo-2538": "2026-10-05T22:39:26.196724+00:00"
+"evo-2538": "2026-10-05T22:39:26.196724+00:00",
+"sbc-5288": "2026-10-06T21:00:24.401126+00:00",
+"sbc-5287": "2026-10-06T21:00:24.401126+00:00",
+"evo-2539": "2026-10-06T21:00:24.401126+00:00",
+"obj-75-20261013": "2026-10-06T21:00:24.401126+00:00"
 },
 "new": [
-{
-"uid": "fc27-new-sbc-5285",
-"title": "🆕 Yeni SBC: Tarciane",
-"start": "2026-10-04T21:00:00+00:00",
-"link": "https://www.fut.gg/sbc/players/27-37-tarciane/",
-"desc": "Yeni SBC yayında · bitiş 11.10 20:00"
-},
-{
-"uid": "fc27-new-sbc-5284",
-"title": "🆕 Yeni SBC: Destined for Glory Challenge 3",
-"start": "2026-10-04T21:00:00+00:00",
-"link": "https://www.fut.gg/sbc/challenges/27-27-destined-for-glory-challenge-3/",
-"desc": "Yeni SBC yayında · bitiş 07.10 20:00"
-},
-{
-"uid": "fc27-new-obj-118-20261007",
-"title": "🆕 Yeni Objective: Destined for Glory: Strikers Only",
-"start": "2026-10-04T21:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/118",
-"desc": "Yeni Objective yayında · bitiş 07.10 20:00"
-},
-{
-"uid": "fc27-new-obj-95-20261011",
-"title": "🆕 Yeni Objective: Squad Battles: Champions Qualification Points",
-"start": "2026-10-04T21:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/95",
-"desc": "Yeni Objective yayında · bitiş 11.10 10:00"
-},
 {
 "uid": "fc27-new-sbc-5286",
 "title": "🆕 Yeni SBC: 3x 79+ Upgrade",
@@ -187,6 +163,34 @@
 "start": "2026-10-06T00:00:00+00:00",
 "link": "https://www.fut.gg/evolutions/2538-goal-guardian/",
 "desc": "Yeni Evolution yayında · bitiş 15.10 20:00"
+},
+{
+"uid": "fc27-new-sbc-5288",
+"title": "🆕 Yeni SBC: Liga F POTM September",
+"start": "2026-10-06T23:00:00+00:00",
+"link": "https://www.fut.gg/sbc/players/27-42-liga-f-potm-september/",
+"desc": "Yeni SBC yayında · bitiş 03.11 20:00"
+},
+{
+"uid": "fc27-new-sbc-5287",
+"title": "🆕 Yeni SBC: 5x 80+ Upgrade",
+"start": "2026-10-06T23:00:00+00:00",
+"link": "https://www.fut.gg/sbc/upgrades/27-48-5x-80-upgrade/",
+"desc": "Yeni SBC yayında · bitiş 13.10 20:00"
+},
+{
+"uid": "fc27-new-evo-2539",
+"title": "🆕 Yeni Evolution: Nine Duty",
+"start": "2026-10-06T23:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2539-nine-duty/",
+"desc": "Yeni Evolution yayında · bitiş 22.10 20:00"
+},
+{
+"uid": "fc27-new-obj-75-20261013",
+"title": "🆕 Yeni Objective: Weekly Rush Points",
+"start": "2026-10-06T23:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/75",
+"desc": "Yeni Objective yayında · bitiş 13.10 20:00"
 }
 ]
 }
