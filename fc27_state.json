@@ -147,7 +147,35 @@
 "sbc-5288": "2026-10-06T21:00:24.401126+00:00",
 "sbc-5287": "2026-10-06T21:00:24.401126+00:00",
 "evo-2539": "2026-10-06T21:00:24.401126+00:00",
-"obj-75-20261013": "2026-10-06T21:00:24.401126+00:00"
+"obj-75-20261013": "2026-10-06T21:00:24.401126+00:00",
+"sbc-5290": "2026-10-07T17:26:13.850182+00:00",
+"sbc-5289": "2026-10-07T17:26:13.850182+00:00",
+"evo-2540": "2026-10-07T17:26:13.850182+00:00",
+"obj-98-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-51-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-50-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-46-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-45-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-59-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-58-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-56-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-49-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-55-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-47-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-57-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-48-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-54-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-42-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-41-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-53-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-43-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-38-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-52-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-44-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-40-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-123-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-81-20311001": "2026-10-07T17:26:13.850182+00:00",
+"obj-39-20311001": "2026-10-07T17:26:13.850182+00:00"
 },
 "new": [
 {
@@ -191,6 +219,202 @@
 "start": "2026-10-06T23:00:00+00:00",
 "link": "https://www.futgenie.gg/objectives/75",
 "desc": "Yeni Objective yayında · bitiş 13.10 20:00"
+},
+{
+"uid": "fc27-new-sbc-5290",
+"title": "🆕 Yeni SBC: Max. 86 Base Hero Upgrade",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.fut.gg/sbc/upgrades/27-43-max-86-base-hero-upgrade/",
+"desc": "Yeni SBC yayında · bitiş 14.10 20:00"
+},
+{
+"uid": "fc27-new-sbc-5289",
+"title": "🆕 Yeni SBC: Destined for Glory Challenge 4",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.fut.gg/sbc/challenges/27-28-destined-for-glory-challenge-4/",
+"desc": "Yeni SBC yayında · bitiş 10.10 20:00"
+},
+{
+"uid": "fc27-new-evo-2540",
+"title": "🆕 Yeni Evolution: Batigol Precision",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2540-batigol-precision/",
+"desc": "Yeni Evolution yayında · bitiş 17.10 20:00"
+},
+{
+"uid": "fc27-new-obj-98-20311001",
+"title": "🆕 Yeni Objective: Ted Lasso's Masterclass",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/98",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-51-20311001",
+"title": "🆕 Yeni Objective: Moments Stars Milestone",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/51",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-50-20311001",
+"title": "🆕 Yeni Objective: Rush Milestone",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/50",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-46-20311001",
+"title": "🆕 Yeni Objective: Co-Op Milestone",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/46",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-45-20311001",
+"title": "🆕 Yeni Objective: Draft Milestone",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/45",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-59-20311001",
+"title": "🆕 Yeni Objective: First Owned Mastery",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/59",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-58-20311001",
+"title": "🆕 Yeni Objective: Goals and Assist Mastery",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/58",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-56-20311001",
+"title": "🆕 Yeni Objective: Squad Building Mastery",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/56",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-49-20311001",
+"title": "🆕 Yeni Objective: Squad Building Milestone",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/49",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-55-20311001",
+"title": "🆕 Yeni Objective: Transfer Market Mastery",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/55",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-47-20311001",
+"title": "🆕 Yeni Objective: Transfer Market Milestone",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/47",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-57-20311001",
+"title": "🆕 Yeni Objective: Live Events Mastery",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/57",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-48-20311001",
+"title": "🆕 Yeni Objective: Live Events Milestone",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/48",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-54-20311001",
+"title": "🆕 Yeni Objective: Squad Battles Mastery",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/54",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-42-20311001",
+"title": "🆕 Yeni Objective: Squad Battles Milestone",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/42",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-41-20311001",
+"title": "🆕 Yeni Objective: Total Football",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/41",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-53-20311001",
+"title": "🆕 Yeni Objective: Rivals Mastery",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/53",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-43-20311001",
+"title": "🆕 Yeni Objective: Rivals Milestone",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/43",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-38-20311001",
+"title": "🆕 Yeni Objective: Rising Through the Ranks",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/38",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-52-20311001",
+"title": "🆕 Yeni Objective: Champions Mastery",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/52",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-44-20311001",
+"title": "🆕 Yeni Objective: Champions Milestone",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/44",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-40-20311001",
+"title": "🆕 Yeni Objective: First Team Dreams",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/40",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-123-20311001",
+"title": "🆕 Yeni Objective: Gallery Foundations",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/123",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-81-20311001",
+"title": "🆕 Yeni Objective: Gallery Milestone",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/81",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-obj-39-20311001",
+"title": "🆕 Yeni Objective: The Journey Begins",
+"start": "2026-10-07T19:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/39",
+"desc": "Yeni Objective yayında · bitiş 01.10 20:00"
 }
 ]
 }
