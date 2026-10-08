@@ -175,7 +175,12 @@
 "obj-40-20311001": "2026-10-07T17:26:13.850182+00:00",
 "obj-123-20311001": "2026-10-07T17:26:13.850182+00:00",
 "obj-81-20311001": "2026-10-07T17:26:13.850182+00:00",
-"obj-39-20311001": "2026-10-07T17:26:13.850182+00:00"
+"obj-39-20311001": "2026-10-07T17:26:13.850182+00:00",
+"sbc-5292": "2026-10-08T19:57:57.584231+00:00",
+"sbc-5291": "2026-10-08T19:57:57.584231+00:00",
+"obj-67-20261015": "2026-10-08T19:57:57.584231+00:00",
+"obj-63-20261015": "2026-10-08T19:57:57.584231+00:00",
+"obj-69-20261022": "2026-10-08T19:57:57.584231+00:00"
 },
 "new": [
 {
@@ -401,6 +406,41 @@
 "start": "2026-10-07T19:00:00+00:00",
 "link": "https://www.futgenie.gg/objectives/39",
 "desc": "Yeni Objective yayında · bitiş 01.10 20:00"
+},
+{
+"uid": "fc27-new-sbc-5292",
+"title": "🆕 Yeni SBC: Weslley Pinto Batista",
+"start": "2026-10-08T21:00:00+00:00",
+"link": "https://www.fut.gg/sbc/players/27-44-weslley-pinto-batista/",
+"desc": "Yeni SBC yayında · bitiş 15.10 20:00"
+},
+{
+"uid": "fc27-new-sbc-5291",
+"title": "🆕 Yeni SBC: Marquee Matchups",
+"start": "2026-10-08T21:00:00+00:00",
+"link": "https://www.fut.gg/sbc/challenges/27-36-marquee-matchups/",
+"desc": "Yeni SBC yayında · bitiş 15.10 20:00"
+},
+{
+"uid": "fc27-new-obj-67-20261015",
+"title": "🆕 Yeni Objective: Weekly Objectives",
+"start": "2026-10-08T21:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/67",
+"desc": "Yeni Objective yayında · bitiş 15.10 20:00"
+},
+{
+"uid": "fc27-new-obj-63-20261015",
+"title": "🆕 Yeni Objective: Daily Objectives",
+"start": "2026-10-08T21:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/63",
+"desc": "Yeni Objective yayında · bitiş 15.10 20:00"
+},
+{
+"uid": "fc27-new-obj-69-20261022",
+"title": "🆕 Yeni Objective: Seasonal Objective",
+"start": "2026-10-08T21:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/69",
+"desc": "Yeni Objective yayında · bitiş 22.10 10:00"
 }
 ]
 }
