@@ -188,7 +188,10 @@
 "evo-2541": "2026-10-09T22:40:29.677431+00:00",
 "obj-127-20261016": "2026-10-09T22:40:29.677431+00:00",
 "obj-126-20261016": "2026-10-09T22:40:29.677431+00:00",
-"obj-125-20261016": "2026-10-09T22:40:29.677431+00:00"
+"obj-125-20261016": "2026-10-09T22:40:29.677431+00:00",
+"sbc-5295": "2026-10-10T18:38:17.039409+00:00",
+"evo-2548": "2026-10-10T18:38:17.039409+00:00",
+"obj-129-20261016": "2026-10-10T18:38:17.039409+00:00"
 },
 "new": [
 {
@@ -280,6 +283,27 @@
 "title": "🆕 Yeni Objective: Back to Basics Objective",
 "start": "2026-10-10T00:00:00+00:00",
 "link": "https://www.futgenie.gg/objectives/125",
+"desc": "Yeni Objective yayında · bitiş 16.10 20:00"
+},
+{
+"uid": "fc27-new-sbc-5295",
+"title": "🆕 Yeni SBC: EFL Championship Future Stars Pick",
+"start": "2026-10-10T20:00:00+00:00",
+"link": "https://www.fut.gg/sbc/players/27-51-efl-championship-future-stars-pick/",
+"desc": "Yeni SBC yayında · bitiş 17.10 20:00"
+},
+{
+"uid": "fc27-new-evo-2548",
+"title": "🆕 Yeni Evolution: Playmaker Reborn",
+"start": "2026-10-10T20:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2548-playmaker-reborn/",
+"desc": "Yeni Evolution yayında · bitiş 22.10 10:00"
+},
+{
+"uid": "fc27-new-obj-129-20261016",
+"title": "🆕 Yeni Objective: Future Stars: Claire Hutton",
+"start": "2026-10-10T20:00:00+00:00",
+"link": "https://www.futgenie.gg/objectives/129",
 "desc": "Yeni Objective yayında · bitiş 16.10 20:00"
 }
 ]

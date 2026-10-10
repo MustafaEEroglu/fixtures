@@ -8,11 +8,31 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:Europe/Istanbul
 BEGIN:VEVENT
+SUMMARY:⏳ SBC bitiyor: EFL Championship Future Stars Pick
+DTSTART;TZID=Europe/Istanbul:20261017T200001
+DTEND;TZID=Europe/Istanbul:20261017T203001
+UID:futgg-sbc-5295
+DESCRIPTION:SBC bitiş · Players · ~14\,450 coin\nhttps://www.fut.gg/sbc
+ /players/27-51-efl-championship-future-stars-pick/
+URL:https://www.fut.gg/sbc/players/27-51-efl-championship-future-stars-pic
+ k/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: EFL Championship Future Stars Pick
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ SBC bitiyor: EFL Championship Future Stars Pick
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Carlos Espí
 DTSTART;TZID=Europe/Istanbul:20261016T200001
 DTEND;TZID=Europe/Istanbul:20261016T203001
 UID:futgg-sbc-5294
-DESCRIPTION:SBC bitiş · Players · ~41\,860 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Players · ~42\,350 coin\nhttps://www.fut.gg/sbc
  /players/27-56-carlos-espi/
 URL:https://www.fut.gg/sbc/players/27-56-carlos-espi/
 BEGIN:VALARM
@@ -31,7 +51,7 @@ SUMMARY:⏳ SBC bitiyor: TOTW Upgrade
 DTSTART;TZID=Europe/Istanbul:20261016T200001
 DTEND;TZID=Europe/Istanbul:20261016T203001
 UID:futgg-sbc-5293
-DESCRIPTION:SBC bitiş · Upgrades · ~12\,460 coin\nhttps://www.fut.gg/sb
+DESCRIPTION:SBC bitiş · Upgrades · ~12\,600 coin\nhttps://www.fut.gg/sb
  c/upgrades/27-55-totw-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-55-totw-upgrade/
 BEGIN:VALARM
@@ -50,7 +70,7 @@ SUMMARY:⏳ SBC bitiyor: Weslley Pinto Batista
 DTSTART;TZID=Europe/Istanbul:20261015T200001
 DTEND;TZID=Europe/Istanbul:20261015T203001
 UID:futgg-sbc-5292
-DESCRIPTION:SBC bitiş · Players · ~12\,410 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Players · ~12\,550 coin\nhttps://www.fut.gg/sbc
  /players/27-44-weslley-pinto-batista/
 URL:https://www.fut.gg/sbc/players/27-44-weslley-pinto-batista/
 BEGIN:VALARM
@@ -66,10 +86,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Marquee Matchups
-DTSTART;TZID=Europe/Istanbul:20261015T200000
-DTEND;TZID=Europe/Istanbul:20261015T203000
+DTSTART;TZID=Europe/Istanbul:20261015T200001
+DTEND;TZID=Europe/Istanbul:20261015T203001
 UID:futgg-sbc-5291
-DESCRIPTION:SBC bitiş · Challenges · ~25\,300 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Challenges · ~20\,500 coin\nhttps://www.fut.gg/
  sbc/challenges/27-36-marquee-matchups/
 URL:https://www.fut.gg/sbc/challenges/27-36-marquee-matchups/
 BEGIN:VALARM
@@ -88,7 +108,7 @@ SUMMARY:⏳ SBC bitiyor: Max. 86 Base Hero Upgrade
 DTSTART;TZID=Europe/Istanbul:20261014T200001
 DTEND;TZID=Europe/Istanbul:20261014T203001
 UID:futgg-sbc-5290
-DESCRIPTION:SBC bitiş · Upgrades · ~86\,380 coin\nhttps://www.fut.gg/sb
+DESCRIPTION:SBC bitiş · Upgrades · ~87\,400 coin\nhttps://www.fut.gg/sb
  c/upgrades/27-43-max-86-base-hero-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-43-max-86-base-hero-upgrade/
 BEGIN:VALARM
@@ -103,31 +123,11 @@ TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⏳ SBC bitiyor: Destined for Glory Challenge 4
-DTSTART;TZID=Europe/Istanbul:20261010T200000
-DTEND;TZID=Europe/Istanbul:20261010T203000
-UID:futgg-sbc-5289
-DESCRIPTION:SBC bitiş · Challenges · ~6\,300 coin\nhttps://www.fut.gg/s
- bc/challenges/27-28-destined-for-glory-challenge-4/
-URL:https://www.fut.gg/sbc/challenges/27-28-destined-for-glory-challenge-4
- /
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ SBC bitiyor: Destined for Glory Challenge 4
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ SBC bitiyor: Destined for Glory Challenge 4
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Liga F POTM September
 DTSTART;TZID=Europe/Istanbul:20261103T200001
 DTEND;TZID=Europe/Istanbul:20261103T203001
 UID:futgg-sbc-5288
-DESCRIPTION:SBC bitiş · Players · ~1\,138\,900 coin\nhttps://www.fut.gg
+DESCRIPTION:SBC bitiş · Players · ~1\,152\,450 coin\nhttps://www.fut.gg
  /sbc/players/27-42-liga-f-potm-september/
 URL:https://www.fut.gg/sbc/players/27-42-liga-f-potm-september/
 BEGIN:VALARM
@@ -146,7 +146,7 @@ SUMMARY:⏳ SBC bitiyor: 5x 80+ Upgrade
 DTSTART;TZID=Europe/Istanbul:20261013T200001
 DTEND;TZID=Europe/Istanbul:20261013T203001
 UID:futgg-sbc-5287
-DESCRIPTION:SBC bitiş · Upgrades · ~7\,370 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~7\,450 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-48-5x-80-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-48-5x-80-upgrade/
 BEGIN:VALARM
@@ -165,7 +165,7 @@ SUMMARY:⏳ SBC bitiyor: 3x 79+ Upgrade
 DTSTART;TZID=Europe/Istanbul:20261012T200001
 DTEND;TZID=Europe/Istanbul:20261012T203001
 UID:futgg-sbc-5286
-DESCRIPTION:SBC bitiş · Upgrades · ~6\,600 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~6\,550 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-41-3x-79-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-41-3x-79-upgrade/
 BEGIN:VALARM
@@ -184,7 +184,7 @@ SUMMARY:⏳ SBC bitiyor: Tarciane
 DTSTART;TZID=Europe/Istanbul:20261011T200001
 DTEND;TZID=Europe/Istanbul:20261011T203001
 UID:futgg-sbc-5285
-DESCRIPTION:SBC bitiş · Players · ~19\,320 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Players · ~19\,550 coin\nhttps://www.fut.gg/sbc
  /players/27-37-tarciane/
 URL:https://www.fut.gg/sbc/players/27-37-tarciane/
 BEGIN:VALARM
@@ -203,7 +203,7 @@ SUMMARY:⏳ SBC bitiyor: LALIGA POTM September
 DTSTART;TZID=Europe/Istanbul:20261030T190001
 DTEND;TZID=Europe/Istanbul:20261030T193001
 UID:futgg-sbc-5281
-DESCRIPTION:SBC bitiş · Players · ~1\,316\,090 coin\nhttps://www.fut.gg
+DESCRIPTION:SBC bitiş · Players · ~1\,331\,750 coin\nhttps://www.fut.gg
  /sbc/players/27-33-laliga-potm-september/
 URL:https://www.fut.gg/sbc/players/27-33-laliga-potm-september/
 BEGIN:VALARM
@@ -222,7 +222,7 @@ SUMMARY:⏳ SBC bitiyor: Premier League POTM September
 DTSTART;TZID=Europe/Istanbul:20261030T140001
 DTEND;TZID=Europe/Istanbul:20261030T143001
 UID:futgg-sbc-5276
-DESCRIPTION:SBC bitiş · Players · ~19\,320 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Players · ~19\,550 coin\nhttps://www.fut.gg/sbc
  /players/27-34-premier-league-potm-september/
 URL:https://www.fut.gg/sbc/players/27-34-premier-league-potm-september/
 BEGIN:VALARM
@@ -241,7 +241,7 @@ SUMMARY:⏳ SBC bitiyor: Bundesliga POTM September
 DTSTART;TZID=Europe/Istanbul:20261029T180001
 DTEND;TZID=Europe/Istanbul:20261029T183001
 UID:futgg-sbc-5274
-DESCRIPTION:SBC bitiş · Players · ~708\,820 coin\nhttps://www.fut.gg/sb
+DESCRIPTION:SBC bitiş · Players · ~717\,250 coin\nhttps://www.fut.gg/sb
  c/players/27-39-bundesliga-potm-september/
 URL:https://www.fut.gg/sbc/players/27-39-bundesliga-potm-september/
 BEGIN:VALARM
@@ -260,7 +260,7 @@ SUMMARY:⏳ SBC bitiyor: Serie A POTM September
 DTSTART;TZID=Europe/Istanbul:20261029T160001
 DTEND;TZID=Europe/Istanbul:20261029T163001
 UID:futgg-sbc-5273
-DESCRIPTION:SBC bitiş · Players · ~91\,420 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Players · ~92\,500 coin\nhttps://www.fut.gg/sbc
  /players/27-32-serie-a-potm-september/
 URL:https://www.fut.gg/sbc/players/27-32-serie-a-potm-september/
 BEGIN:VALARM
@@ -279,7 +279,7 @@ SUMMARY:⏳ SBC bitiyor: Intro to Player SBCs
 DTSTART;TZID=Europe/Istanbul:20350831T200000
 DTEND;TZID=Europe/Istanbul:20350831T203000
 UID:futgg-sbc-5263
-DESCRIPTION:SBC bitiş · Foundations · ~4\,200 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Foundations · ~4\,250 coin\nhttps://www.fut.gg/
  sbc/foundations/27-20-intro-to-player-sbcs/
 URL:https://www.fut.gg/sbc/foundations/27-20-intro-to-player-sbcs/
 BEGIN:VALARM
@@ -298,7 +298,7 @@ SUMMARY:⏳ SBC bitiyor: Gold Upgrade
 DTSTART;TZID=Europe/Istanbul:20350820T200001
 DTEND;TZID=Europe/Istanbul:20350820T203001
 UID:futgg-sbc-5254
-DESCRIPTION:SBC bitiş · Upgrades · ~7\,300 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~7\,700 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-6-gold-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-6-gold-upgrade/
 BEGIN:VALARM
@@ -333,8 +333,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Bronze Upgrade
-DTSTART;TZID=Europe/Istanbul:20350820T200000
-DTEND;TZID=Europe/Istanbul:20350820T203000
+DTSTART;TZID=Europe/Istanbul:20350820T200001
+DTEND;TZID=Europe/Istanbul:20350820T203001
 UID:futgg-sbc-5252
 DESCRIPTION:SBC bitiş · Upgrades · ~2\,200 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-4-bronze-upgrade/
@@ -352,10 +352,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: League & Nation Advanced
-DTSTART;TZID=Europe/Istanbul:20350831T200000
-DTEND;TZID=Europe/Istanbul:20350831T203000
+DTSTART;TZID=Europe/Istanbul:20350831T200001
+DTEND;TZID=Europe/Istanbul:20350831T203001
 UID:futgg-sbc-5251
-DESCRIPTION:SBC bitiş · Challenges · ~20\,550 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Challenges · ~22\,150 coin\nhttps://www.fut.gg/
  sbc/challenges/27-10-league-nation-advanced/
 URL:https://www.fut.gg/sbc/challenges/27-10-league-nation-advanced/
 BEGIN:VALARM
@@ -412,7 +412,7 @@ SUMMARY:⏳ SBC bitiyor: Intro to Streamlined SBCs
 DTSTART;TZID=Europe/Istanbul:20350820T200000
 DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5248
-DESCRIPTION:SBC bitiş · Foundations · ~8\,265 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Foundations · ~8\,255 coin\nhttps://www.fut.gg/
  sbc/foundations/27-7-getting-started/
 URL:https://www.fut.gg/sbc/foundations/27-7-getting-started/
 BEGIN:VALARM
@@ -431,7 +431,7 @@ SUMMARY:⏳ SBC bitiyor: Intro to Upgrade SBCs
 DTSTART;TZID=Europe/Istanbul:20350820T200000
 DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5247
-DESCRIPTION:SBC bitiş · Foundations · ~16\,750 coin\nhttps://www.fut.gg
+DESCRIPTION:SBC bitiş · Foundations · ~15\,150 coin\nhttps://www.fut.gg
  /sbc/foundations/27-3-intro-to-upgrade-sbcs/
 URL:https://www.fut.gg/sbc/foundations/27-3-intro-to-upgrade-sbcs/
 BEGIN:VALARM
@@ -450,7 +450,7 @@ SUMMARY:⏳ SBC bitiyor: Intro to SBCs
 DTSTART;TZID=Europe/Istanbul:20350820T200000
 DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5246
-DESCRIPTION:SBC bitiş · Foundations · ~5\,600 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Foundations · ~5\,500 coin\nhttps://www.fut.gg/
  sbc/foundations/27-1-intro-to-sbcs/
 URL:https://www.fut.gg/sbc/foundations/27-1-intro-to-sbcs/
 BEGIN:VALARM
@@ -461,6 +461,25 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏳ SBC bitiyor: Intro to SBCs
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ EVO tamamlama son gün: Playmaker Reborn
+DTSTART;TZID=Europe/Istanbul:20261022T100000
+DTEND;TZID=Europe/Istanbul:20261022T103000
+UID:futgg-evo-2548
+DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
+ fut.gg/evolutions/2548-playmaker-reborn/
+URL:https://www.fut.gg/evolutions/2548-playmaker-reborn/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Playmaker Reborn
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ EVO tamamlama son gün: Playmaker Reborn
 TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
@@ -651,25 +670,6 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏳ EVO tamamlama son gün: Frontline Flair
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ EVO tamamlama son gün: Trust the Keeper
-DTSTART;TZID=Europe/Istanbul:20261010T200000
-DTEND;TZID=Europe/Istanbul:20261010T203000
-UID:futgg-evo-2531
-DESCRIPTION:Evolution'ı bu saate kadar tamamlaman gerekiyor\nhttps://www.
- fut.gg/evolutions/2531-trust-the-keeper/
-URL:https://www.fut.gg/evolutions/2531-trust-the-keeper/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ EVO tamamlama son gün: Trust the Keeper
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ EVO tamamlama son gün: Trust the Keeper
 TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
@@ -1357,6 +1357,25 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏳ Objective bitiyor: Daily Objectives
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏳ Objective bitiyor: Future Stars: Claire Hutton
+DTSTART;TZID=Europe/Istanbul:20261016T200000
+DTEND;TZID=Europe/Istanbul:20261016T203000
+UID:futgenie-obj-129-20261016
+DESCRIPTION:Objective bitiş · Campaigns\nhttps://www.futgenie.gg/objecti
+ ves/129
+URL:https://www.futgenie.gg/objectives/129
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Future Stars: Claire Hutton
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Objective bitiyor: Future Stars: Claire Hutton
 TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
@@ -2669,6 +2688,49 @@ URL:https://www.futgenie.gg/objectives/125
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:🆕 Yeni Objective: Back to Basics Objective
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni SBC: EFL Championship Future Stars Pick
+DTSTART;TZID=Europe/Istanbul:20261010T230000
+DTEND;TZID=Europe/Istanbul:20261010T231500
+UID:fc27-new-sbc-5295
+DESCRIPTION:Yeni SBC yayında · bitiş 17.10 20:00\nhttps://www.fut.gg/sb
+ c/players/27-51-efl-championship-future-stars-pick/
+URL:https://www.fut.gg/sbc/players/27-51-efl-championship-future-stars-pic
+ k/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni SBC: EFL Championship Future Stars Pick
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Evolution: Playmaker Reborn
+DTSTART;TZID=Europe/Istanbul:20261010T230000
+DTEND;TZID=Europe/Istanbul:20261010T231500
+UID:fc27-new-evo-2548
+DESCRIPTION:Yeni Evolution yayında · bitiş 22.10 10:00\nhttps://www.fut
+ .gg/evolutions/2548-playmaker-reborn/
+URL:https://www.fut.gg/evolutions/2548-playmaker-reborn/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Evolution: Playmaker Reborn
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆕 Yeni Objective: Future Stars: Claire Hutton
+DTSTART;TZID=Europe/Istanbul:20261010T230000
+DTEND;TZID=Europe/Istanbul:20261010T231500
+UID:fc27-new-obj-129-20261016
+DESCRIPTION:Yeni Objective yayında · bitiş 16.10 20:00\nhttps://www.fut
+ genie.gg/objectives/129
+URL:https://www.futgenie.gg/objectives/129
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🆕 Yeni Objective: Future Stars: Claire Hutton
 TRIGGER:P0D
 END:VALARM
 END:VEVENT
