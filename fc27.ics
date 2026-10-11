@@ -9,10 +9,10 @@ X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:Europe/Istanbul
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: EFL Championship Future Stars Pick
-DTSTART;TZID=Europe/Istanbul:20261017T200000
-DTEND;TZID=Europe/Istanbul:20261017T203000
+DTSTART;TZID=Europe/Istanbul:20261017T200001
+DTEND;TZID=Europe/Istanbul:20261017T203001
 UID:futgg-sbc-5295
-DESCRIPTION:SBC bitiş · Players · ~15\,810 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Players · ~13\,940 coin\nhttps://www.fut.gg/sbc
  /players/27-51-efl-championship-future-stars-pick/
 URL:https://www.fut.gg/sbc/players/27-51-efl-championship-future-stars-pic
  k/
@@ -29,10 +29,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Carlos Espí
-DTSTART;TZID=Europe/Istanbul:20261016T200000
-DTEND;TZID=Europe/Istanbul:20261016T203000
+DTSTART;TZID=Europe/Istanbul:20261016T200001
+DTEND;TZID=Europe/Istanbul:20261016T203001
 UID:futgg-sbc-5294
-DESCRIPTION:SBC bitiş · Players · ~46\,210 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Players · ~40\,875 coin\nhttps://www.fut.gg/sbc
  /players/27-56-carlos-espi/
 URL:https://www.fut.gg/sbc/players/27-56-carlos-espi/
 BEGIN:VALARM
@@ -48,10 +48,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: TOTW Upgrade
-DTSTART;TZID=Europe/Istanbul:20261016T200000
-DTEND;TZID=Europe/Istanbul:20261016T203000
+DTSTART;TZID=Europe/Istanbul:20261016T200001
+DTEND;TZID=Europe/Istanbul:20261016T203001
 UID:futgg-sbc-5293
-DESCRIPTION:SBC bitiş · Upgrades · ~13\,660 coin\nhttps://www.fut.gg/sb
+DESCRIPTION:SBC bitiş · Upgrades · ~12\,180 coin\nhttps://www.fut.gg/sb
  c/upgrades/27-55-totw-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-55-totw-upgrade/
 BEGIN:VALARM
@@ -67,10 +67,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Weslley Pinto Batista
-DTSTART;TZID=Europe/Istanbul:20261015T200000
-DTEND;TZID=Europe/Istanbul:20261015T203000
+DTSTART;TZID=Europe/Istanbul:20261015T200001
+DTEND;TZID=Europe/Istanbul:20261015T203001
 UID:futgg-sbc-5292
-DESCRIPTION:SBC bitiş · Players · ~13\,660 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Players · ~12\,130 coin\nhttps://www.fut.gg/sbc
  /players/27-44-weslley-pinto-batista/
 URL:https://www.fut.gg/sbc/players/27-44-weslley-pinto-batista/
 BEGIN:VALARM
@@ -89,7 +89,7 @@ SUMMARY:⏳ SBC bitiyor: Marquee Matchups
 DTSTART;TZID=Europe/Istanbul:20261015T200000
 DTEND;TZID=Europe/Istanbul:20261015T203000
 UID:futgg-sbc-5291
-DESCRIPTION:SBC bitiş · Challenges · ~33\,050 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Challenges · ~19\,050 coin\nhttps://www.fut.gg/
  sbc/challenges/27-36-marquee-matchups/
 URL:https://www.fut.gg/sbc/challenges/27-36-marquee-matchups/
 BEGIN:VALARM
@@ -105,10 +105,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Max. 86 Base Hero Upgrade
-DTSTART;TZID=Europe/Istanbul:20261014T200000
-DTEND;TZID=Europe/Istanbul:20261014T203000
+DTSTART;TZID=Europe/Istanbul:20261014T200001
+DTEND;TZID=Europe/Istanbul:20261014T203001
 UID:futgg-sbc-5290
-DESCRIPTION:SBC bitiş · Upgrades · ~95\,500 coin\nhttps://www.fut.gg/sb
+DESCRIPTION:SBC bitiş · Upgrades · ~84\,335 coin\nhttps://www.fut.gg/sb
  c/upgrades/27-43-max-86-base-hero-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-43-max-86-base-hero-upgrade/
 BEGIN:VALARM
@@ -124,10 +124,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Liga F POTM September
-DTSTART;TZID=Europe/Istanbul:20261103T200000
-DTEND;TZID=Europe/Istanbul:20261103T203000
+DTSTART;TZID=Europe/Istanbul:20261103T200001
+DTEND;TZID=Europe/Istanbul:20261103T203001
 UID:futgg-sbc-5288
-DESCRIPTION:SBC bitiş · Players · ~1\,260\,790 coin\nhttps://www.fut.gg
+DESCRIPTION:SBC bitiş · Players · ~1\,111\,800 coin\nhttps://www.fut.gg
  /sbc/players/27-42-liga-f-potm-september/
 URL:https://www.fut.gg/sbc/players/27-42-liga-f-potm-september/
 BEGIN:VALARM
@@ -143,10 +143,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: 5x 80+ Upgrade
-DTSTART;TZID=Europe/Istanbul:20261013T200000
-DTEND;TZID=Europe/Istanbul:20261013T203000
+DTSTART;TZID=Europe/Istanbul:20261013T200001
+DTEND;TZID=Europe/Istanbul:20261013T203001
 UID:futgg-sbc-5287
-DESCRIPTION:SBC bitiş · Upgrades · ~8\,080 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~7\,210 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-48-5x-80-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-48-5x-80-upgrade/
 BEGIN:VALARM
@@ -162,10 +162,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: 3x 79+ Upgrade
-DTSTART;TZID=Europe/Istanbul:20261012T200000
-DTEND;TZID=Europe/Istanbul:20261012T203000
+DTSTART;TZID=Europe/Istanbul:20261012T200001
+DTEND;TZID=Europe/Istanbul:20261012T203001
 UID:futgg-sbc-5286
-DESCRIPTION:SBC bitiş · Upgrades · ~6\,550 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~6\,500 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-41-3x-79-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-41-3x-79-upgrade/
 BEGIN:VALARM
@@ -181,10 +181,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Tarciane
-DTSTART;TZID=Europe/Istanbul:20261011T200000
-DTEND;TZID=Europe/Istanbul:20261011T203000
+DTSTART;TZID=Europe/Istanbul:20261011T200001
+DTEND;TZID=Europe/Istanbul:20261011T203001
 UID:futgg-sbc-5285
-DESCRIPTION:SBC bitiş · Players · ~21\,390 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Players · ~18\,860 coin\nhttps://www.fut.gg/sbc
  /players/27-37-tarciane/
 URL:https://www.fut.gg/sbc/players/27-37-tarciane/
 BEGIN:VALARM
@@ -200,10 +200,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: LALIGA POTM September
-DTSTART;TZID=Europe/Istanbul:20261030T190000
-DTEND;TZID=Europe/Istanbul:20261030T193000
+DTSTART;TZID=Europe/Istanbul:20261030T190001
+DTEND;TZID=Europe/Istanbul:20261030T193001
 UID:futgg-sbc-5281
-DESCRIPTION:SBC bitiş · Players · ~1\,457\,020 coin\nhttps://www.fut.gg
+DESCRIPTION:SBC bitiş · Players · ~1\,284\,770 coin\nhttps://www.fut.gg
  /sbc/players/27-33-laliga-potm-september/
 URL:https://www.fut.gg/sbc/players/27-33-laliga-potm-september/
 BEGIN:VALARM
@@ -219,10 +219,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Premier League POTM September
-DTSTART;TZID=Europe/Istanbul:20261030T140000
-DTEND;TZID=Europe/Istanbul:20261030T143000
+DTSTART;TZID=Europe/Istanbul:20261030T140001
+DTEND;TZID=Europe/Istanbul:20261030T143001
 UID:futgg-sbc-5276
-DESCRIPTION:SBC bitiş · Players · ~21\,390 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Players · ~18\,860 coin\nhttps://www.fut.gg/sbc
  /players/27-34-premier-league-potm-september/
 URL:https://www.fut.gg/sbc/players/27-34-premier-league-potm-september/
 BEGIN:VALARM
@@ -238,10 +238,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Bundesliga POTM September
-DTSTART;TZID=Europe/Istanbul:20261029T180000
-DTEND;TZID=Europe/Istanbul:20261029T183000
+DTSTART;TZID=Europe/Istanbul:20261029T180001
+DTEND;TZID=Europe/Istanbul:20261029T183001
 UID:futgg-sbc-5274
-DESCRIPTION:SBC bitiş · Players · ~784\,630 coin\nhttps://www.fut.gg/sb
+DESCRIPTION:SBC bitiş · Players · ~691\,955 coin\nhttps://www.fut.gg/sb
  c/players/27-39-bundesliga-potm-september/
 URL:https://www.fut.gg/sbc/players/27-39-bundesliga-potm-september/
 BEGIN:VALARM
@@ -257,11 +257,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Serie A POTM September
-DTSTART;TZID=Europe/Istanbul:20261029T160000
-DTEND;TZID=Europe/Istanbul:20261029T163000
+DTSTART;TZID=Europe/Istanbul:20261029T160001
+DTEND;TZID=Europe/Istanbul:20261029T163001
 UID:futgg-sbc-5273
-DESCRIPTION:SBC bitiş · Players · ~101\,080 coin\nhttps://www.fut.gg/sb
- c/players/27-32-serie-a-potm-september/
+DESCRIPTION:SBC bitiş · Players · ~89\,260 coin\nhttps://www.fut.gg/sbc
+ /players/27-32-serie-a-potm-september/
 URL:https://www.fut.gg/sbc/players/27-32-serie-a-potm-september/
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -279,7 +279,7 @@ SUMMARY:⏳ SBC bitiyor: Intro to Player SBCs
 DTSTART;TZID=Europe/Istanbul:20350831T200000
 DTEND;TZID=Europe/Istanbul:20350831T203000
 UID:futgg-sbc-5263
-DESCRIPTION:SBC bitiş · Foundations · ~4\,650 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Foundations · ~4\,100 coin\nhttps://www.fut.gg/
  sbc/foundations/27-20-intro-to-player-sbcs/
 URL:https://www.fut.gg/sbc/foundations/27-20-intro-to-player-sbcs/
 BEGIN:VALARM
@@ -298,7 +298,7 @@ SUMMARY:⏳ SBC bitiyor: Gold Upgrade
 DTSTART;TZID=Europe/Istanbul:20350820T200000
 DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5254
-DESCRIPTION:SBC bitiş · Upgrades · ~7\,150 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~7\,200 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-6-gold-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-6-gold-upgrade/
 BEGIN:VALARM
@@ -314,8 +314,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Silver Upgrade
-DTSTART;TZID=Europe/Istanbul:20350820T140000
-DTEND;TZID=Europe/Istanbul:20350820T143000
+DTSTART;TZID=Europe/Istanbul:20350820T140001
+DTEND;TZID=Europe/Istanbul:20350820T143001
 UID:futgg-sbc-5253
 DESCRIPTION:SBC bitiş · Upgrades · ~2\,200 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-5-silver-upgrade/
@@ -333,8 +333,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Bronze Upgrade
-DTSTART;TZID=Europe/Istanbul:20350820T200001
-DTEND;TZID=Europe/Istanbul:20350820T203001
+DTSTART;TZID=Europe/Istanbul:20350820T200000
+DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5252
 DESCRIPTION:SBC bitiş · Upgrades · ~2\,200 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-4-bronze-upgrade/
@@ -355,7 +355,7 @@ SUMMARY:⏳ SBC bitiyor: League & Nation Advanced
 DTSTART;TZID=Europe/Istanbul:20350831T200000
 DTEND;TZID=Europe/Istanbul:20350831T203000
 UID:futgg-sbc-5251
-DESCRIPTION:SBC bitiş · Challenges · ~20\,750 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Challenges · ~21\,650 coin\nhttps://www.fut.gg/
  sbc/challenges/27-10-league-nation-advanced/
 URL:https://www.fut.gg/sbc/challenges/27-10-league-nation-advanced/
 BEGIN:VALARM
@@ -374,7 +374,7 @@ SUMMARY:⏳ SBC bitiyor: Gold Re-Roll
 DTSTART;TZID=Europe/Istanbul:20350820T200000
 DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5250
-DESCRIPTION:SBC bitiş · Foundations · ~2\,390 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Foundations · ~2\,300 coin\nhttps://www.fut.gg/
  sbc/foundations/27-9-gold-re-roll/
 URL:https://www.fut.gg/sbc/foundations/27-9-gold-re-roll/
 BEGIN:VALARM
@@ -412,7 +412,7 @@ SUMMARY:⏳ SBC bitiyor: Intro to Streamlined SBCs
 DTSTART;TZID=Europe/Istanbul:20350820T200000
 DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5248
-DESCRIPTION:SBC bitiş · Foundations · ~8\,280 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Foundations · ~8\,250 coin\nhttps://www.fut.gg/
  sbc/foundations/27-7-getting-started/
 URL:https://www.fut.gg/sbc/foundations/27-7-getting-started/
 BEGIN:VALARM
@@ -431,7 +431,7 @@ SUMMARY:⏳ SBC bitiyor: Intro to Upgrade SBCs
 DTSTART;TZID=Europe/Istanbul:20350820T200000
 DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5247
-DESCRIPTION:SBC bitiş · Foundations · ~14\,450 coin\nhttps://www.fut.gg
+DESCRIPTION:SBC bitiş · Foundations · ~14\,000 coin\nhttps://www.fut.gg
  /sbc/foundations/27-3-intro-to-upgrade-sbcs/
 URL:https://www.fut.gg/sbc/foundations/27-3-intro-to-upgrade-sbcs/
 BEGIN:VALARM
@@ -450,7 +450,7 @@ SUMMARY:⏳ SBC bitiyor: Intro to SBCs
 DTSTART;TZID=Europe/Istanbul:20350820T200000
 DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5246
-DESCRIPTION:SBC bitiş · Foundations · ~6\,000 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Foundations · ~4\,750 coin\nhttps://www.fut.gg/
  sbc/foundations/27-1-intro-to-sbcs/
 URL:https://www.fut.gg/sbc/foundations/27-1-intro-to-sbcs/
 BEGIN:VALARM
@@ -1278,869 +1278,6 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏳ EVO tamamlama son gün: Intro to Pathway Evolutions
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Squad Battles: Champions Qualification Poin
- ts
-DTSTART;TZID=Europe/Istanbul:20261011T100000
-DTEND;TZID=Europe/Istanbul:20261011T103000
-UID:futgenie-obj-95-20261011
-DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
- es/95
-URL:https://www.futgenie.gg/objectives/95
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Squad Battles: Champions Qualification 
- Points
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Squad Battles: Champions Qualification 
- Points
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Weekly Rush Points
-DTSTART;TZID=Europe/Istanbul:20261013T200000
-DTEND;TZID=Europe/Istanbul:20261013T203000
-UID:futgenie-obj-75-20261013
-DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
- es/75
-URL:https://www.futgenie.gg/objectives/75
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Weekly Rush Points
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Weekly Rush Points
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Weekly Objectives
-DTSTART;TZID=Europe/Istanbul:20261015T200000
-DTEND;TZID=Europe/Istanbul:20261015T203000
-UID:futgenie-obj-67-20261015
-DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
- es/67
-URL:https://www.futgenie.gg/objectives/67
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Weekly Objectives
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Weekly Objectives
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Daily Objectives
-DTSTART;TZID=Europe/Istanbul:20261015T200000
-DTEND;TZID=Europe/Istanbul:20261015T203000
-UID:futgenie-obj-63-20261015
-DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
- es/63
-URL:https://www.futgenie.gg/objectives/63
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Daily Objectives
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Daily Objectives
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Future Stars: Claire Hutton
-DTSTART;TZID=Europe/Istanbul:20261016T200000
-DTEND;TZID=Europe/Istanbul:20261016T203000
-UID:futgenie-obj-129-20261016
-DESCRIPTION:Objective bitiş · Campaigns\nhttps://www.futgenie.gg/objecti
- ves/129
-URL:https://www.futgenie.gg/objectives/129
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Future Stars: Claire Hutton
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Future Stars: Claire Hutton
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Future Stars Celebration
-DTSTART;TZID=Europe/Istanbul:20261016T200000
-DTEND;TZID=Europe/Istanbul:20261016T203000
-UID:futgenie-obj-127-20261016
-DESCRIPTION:Objective bitiş · Campaigns\nhttps://www.futgenie.gg/objecti
- ves/127
-URL:https://www.futgenie.gg/objectives/127
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Future Stars Celebration
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Future Stars Celebration
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Back to Basics Bonus Objective
-DTSTART;TZID=Europe/Istanbul:20261016T200000
-DTEND;TZID=Europe/Istanbul:20261016T203000
-UID:futgenie-obj-126-20261016
-DESCRIPTION:Objective bitiş · Campaigns\nhttps://www.futgenie.gg/objecti
- ves/126
-URL:https://www.futgenie.gg/objectives/126
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Back to Basics Bonus Objective
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Back to Basics Bonus Objective
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Back to Basics Objective
-DTSTART;TZID=Europe/Istanbul:20261016T200000
-DTEND;TZID=Europe/Istanbul:20261016T203000
-UID:futgenie-obj-125-20261016
-DESCRIPTION:Objective bitiş · Campaigns\nhttps://www.futgenie.gg/objecti
- ves/125
-URL:https://www.futgenie.gg/objectives/125
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Back to Basics Objective
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Back to Basics Objective
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: The Top 500: FC Pro Open Ladder
-DTSTART;TZID=Europe/Istanbul:20261017T200000
-DTEND;TZID=Europe/Istanbul:20261017T203000
-UID:futgenie-obj-107-20261017
-DESCRIPTION:Objective bitiş · F\nhttps://www.futgenie.gg/objectives/107
-URL:https://www.futgenie.gg/objectives/107
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: The Top 500: FC Pro Open Ladder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: The Top 500: FC Pro Open Ladder
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Ones We Watched Legendary Challenge
-DTSTART;TZID=Europe/Istanbul:20261022T100000
-DTEND;TZID=Europe/Istanbul:20261022T103000
-UID:futgenie-obj-83-20261022
-DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
- es/83
-URL:https://www.futgenie.gg/objectives/83
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Ones We Watched Legendary Challenge
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Ones We Watched Legendary Challenge
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Ones We Watched World Class Challenge
-DTSTART;TZID=Europe/Istanbul:20261022T100000
-DTEND;TZID=Europe/Istanbul:20261022T103000
-UID:futgenie-obj-82-20261022
-DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
- es/82
-URL:https://www.futgenie.gg/objectives/82
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Ones We Watched World Class Challenge
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Ones We Watched World Class Challenge
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Ones We Watched Professional Challenge
-DTSTART;TZID=Europe/Istanbul:20261022T100000
-DTEND;TZID=Europe/Istanbul:20261022T103000
-UID:futgenie-obj-86-20261022
-DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
- es/86
-URL:https://www.futgenie.gg/objectives/86
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Ones We Watched Professional Challenge
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Ones We Watched Professional Challenge
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Ones We Watched Semi-Pro Challenge
-DTSTART;TZID=Europe/Istanbul:20261022T100000
-DTEND;TZID=Europe/Istanbul:20261022T103000
-UID:futgenie-obj-85-20261022
-DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
- es/85
-URL:https://www.futgenie.gg/objectives/85
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Ones We Watched Semi-Pro Challenge
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Ones We Watched Semi-Pro Challenge
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Ones We Watched Kick Off Challenge
-DTSTART;TZID=Europe/Istanbul:20261022T100000
-DTEND;TZID=Europe/Istanbul:20261022T103000
-UID:futgenie-obj-84-20261022
-DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
- es/84
-URL:https://www.futgenie.gg/objectives/84
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Ones We Watched Kick Off Challenge
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Ones We Watched Kick Off Challenge
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Ones We Watched Challenge Completionist
-DTSTART;TZID=Europe/Istanbul:20261022T100000
-DTEND;TZID=Europe/Istanbul:20261022T103000
-UID:futgenie-obj-87-20261022
-DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
- es/87
-URL:https://www.futgenie.gg/objectives/87
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Ones We Watched Challenge Completionist
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Ones We Watched Challenge Completionist
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Seasonal Objective
-DTSTART;TZID=Europe/Istanbul:20261022T100000
-DTEND;TZID=Europe/Istanbul:20261022T103000
-UID:futgenie-obj-69-20261022
-DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
- es/69
-URL:https://www.futgenie.gg/objectives/69
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Seasonal Objective
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Seasonal Objective
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Icon Home Kit
-DTSTART;TZID=Europe/Istanbul:20261022T100000
-DTEND;TZID=Europe/Istanbul:20261022T103000
-UID:futgenie-obj-77-20261022
-DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
- es/77
-URL:https://www.futgenie.gg/objectives/77
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Icon Home Kit
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Icon Home Kit
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Season 1: Ones to Watch Exhibition
-DTSTART;TZID=Europe/Istanbul:20261022T100000
-DTEND;TZID=Europe/Istanbul:20261022T103000
-UID:futgenie-obj-88-20261022
-DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
- es/88
-URL:https://www.futgenie.gg/objectives/88
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Season 1: Ones to Watch Exhibition
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Season 1: Ones to Watch Exhibition
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Season 1: Ones to Watch Exhibition Weekly P
- lay
-DTSTART;TZID=Europe/Istanbul:20261022T100000
-DTEND;TZID=Europe/Istanbul:20261022T103000
-UID:futgenie-obj-80-20261022
-DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
- es/80
-URL:https://www.futgenie.gg/objectives/80
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Season 1: Ones to Watch Exhibition Week
- ly Play
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Season 1: Ones to Watch Exhibition Week
- ly Play
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Season 1: Ones to Watch Exhibition Completi
- onist
-DTSTART;TZID=Europe/Istanbul:20261022T100000
-DTEND;TZID=Europe/Istanbul:20261022T103000
-UID:futgenie-obj-79-20261022
-DESCRIPTION:Objective bitiş · Seasonal\nhttps://www.futgenie.gg/objectiv
- es/79
-URL:https://www.futgenie.gg/objectives/79
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Season 1: Ones to Watch Exhibition Comp
- letionist
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Season 1: Ones to Watch Exhibition Comp
- letionist
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Ted Lasso's Masterclass
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-98-20311001
-DESCRIPTION:Objective bitiş · Milestones\nhttps://www.futgenie.gg/object
- ives/98
-URL:https://www.futgenie.gg/objectives/98
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Ted Lasso's Masterclass
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Ted Lasso's Masterclass
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Moments Stars Milestone
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-51-20311001
-DESCRIPTION:Objective bitiş · Milestones\nhttps://www.futgenie.gg/object
- ives/51
-URL:https://www.futgenie.gg/objectives/51
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Moments Stars Milestone
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Moments Stars Milestone
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Rush Milestone
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-50-20311001
-DESCRIPTION:Objective bitiş · Milestones\nhttps://www.futgenie.gg/object
- ives/50
-URL:https://www.futgenie.gg/objectives/50
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Rush Milestone
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Rush Milestone
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Co-Op Milestone
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-46-20311001
-DESCRIPTION:Objective bitiş · Milestones\nhttps://www.futgenie.gg/object
- ives/46
-URL:https://www.futgenie.gg/objectives/46
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Co-Op Milestone
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Co-Op Milestone
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Draft Milestone
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-45-20311001
-DESCRIPTION:Objective bitiş · Milestones\nhttps://www.futgenie.gg/object
- ives/45
-URL:https://www.futgenie.gg/objectives/45
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Draft Milestone
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Draft Milestone
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: First Owned Mastery
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-59-20311001
-DESCRIPTION:Objective bitiş · Mastery\nhttps://www.futgenie.gg/objective
- s/59
-URL:https://www.futgenie.gg/objectives/59
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: First Owned Mastery
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: First Owned Mastery
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Goals and Assist Mastery
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-58-20311001
-DESCRIPTION:Objective bitiş · Mastery\nhttps://www.futgenie.gg/objective
- s/58
-URL:https://www.futgenie.gg/objectives/58
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Goals and Assist Mastery
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Goals and Assist Mastery
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Squad Building Mastery
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-56-20311001
-DESCRIPTION:Objective bitiş · Mastery\nhttps://www.futgenie.gg/objective
- s/56
-URL:https://www.futgenie.gg/objectives/56
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Squad Building Mastery
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Squad Building Mastery
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Squad Building Milestone
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-49-20311001
-DESCRIPTION:Objective bitiş · Milestones\nhttps://www.futgenie.gg/object
- ives/49
-URL:https://www.futgenie.gg/objectives/49
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Squad Building Milestone
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Squad Building Milestone
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Transfer Market Mastery
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-55-20311001
-DESCRIPTION:Objective bitiş · Mastery\nhttps://www.futgenie.gg/objective
- s/55
-URL:https://www.futgenie.gg/objectives/55
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Transfer Market Mastery
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Transfer Market Mastery
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Transfer Market Milestone
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-47-20311001
-DESCRIPTION:Objective bitiş · Milestones\nhttps://www.futgenie.gg/object
- ives/47
-URL:https://www.futgenie.gg/objectives/47
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Transfer Market Milestone
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Transfer Market Milestone
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Live Events Mastery
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-57-20311001
-DESCRIPTION:Objective bitiş · Mastery\nhttps://www.futgenie.gg/objective
- s/57
-URL:https://www.futgenie.gg/objectives/57
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Live Events Mastery
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Live Events Mastery
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Live Events Milestone
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-48-20311001
-DESCRIPTION:Objective bitiş · Milestones\nhttps://www.futgenie.gg/object
- ives/48
-URL:https://www.futgenie.gg/objectives/48
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Live Events Milestone
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Live Events Milestone
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Squad Battles Mastery
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-54-20311001
-DESCRIPTION:Objective bitiş · Mastery\nhttps://www.futgenie.gg/objective
- s/54
-URL:https://www.futgenie.gg/objectives/54
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Squad Battles Mastery
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Squad Battles Mastery
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Squad Battles Milestone
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-42-20311001
-DESCRIPTION:Objective bitiş · Milestones\nhttps://www.futgenie.gg/object
- ives/42
-URL:https://www.futgenie.gg/objectives/42
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Squad Battles Milestone
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Squad Battles Milestone
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Total Football
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-41-20311001
-DESCRIPTION:Objective bitiş · Foundations\nhttps://www.futgenie.gg/objec
- tives/41
-URL:https://www.futgenie.gg/objectives/41
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Total Football
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Total Football
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Rivals Mastery
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-53-20311001
-DESCRIPTION:Objective bitiş · Mastery\nhttps://www.futgenie.gg/objective
- s/53
-URL:https://www.futgenie.gg/objectives/53
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Rivals Mastery
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Rivals Mastery
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Rivals Milestone
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-43-20311001
-DESCRIPTION:Objective bitiş · Milestones\nhttps://www.futgenie.gg/object
- ives/43
-URL:https://www.futgenie.gg/objectives/43
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Rivals Milestone
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Rivals Milestone
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Rising Through the Ranks
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-38-20311001
-DESCRIPTION:Objective bitiş · Foundations\nhttps://www.futgenie.gg/objec
- tives/38
-URL:https://www.futgenie.gg/objectives/38
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Rising Through the Ranks
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Rising Through the Ranks
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Champions Mastery
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-52-20311001
-DESCRIPTION:Objective bitiş · Mastery\nhttps://www.futgenie.gg/objective
- s/52
-URL:https://www.futgenie.gg/objectives/52
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Champions Mastery
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Champions Mastery
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Champions Milestone
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-44-20311001
-DESCRIPTION:Objective bitiş · Milestones\nhttps://www.futgenie.gg/object
- ives/44
-URL:https://www.futgenie.gg/objectives/44
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Champions Milestone
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Champions Milestone
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: First Team Dreams
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-40-20311001
-DESCRIPTION:Objective bitiş · Foundations\nhttps://www.futgenie.gg/objec
- tives/40
-URL:https://www.futgenie.gg/objectives/40
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: First Team Dreams
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: First Team Dreams
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Gallery Foundations
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-123-20311001
-DESCRIPTION:Objective bitiş · Milestones\nhttps://www.futgenie.gg/object
- ives/123
-URL:https://www.futgenie.gg/objectives/123
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Gallery Foundations
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Gallery Foundations
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: Gallery Milestone
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-81-20311001
-DESCRIPTION:Objective bitiş · Milestones\nhttps://www.futgenie.gg/object
- ives/81
-URL:https://www.futgenie.gg/objectives/81
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Gallery Milestone
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: Gallery Milestone
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏳ Objective bitiyor: The Journey Begins
-DTSTART;TZID=Europe/Istanbul:20311001T200000
-DTEND;TZID=Europe/Istanbul:20311001T203000
-UID:futgenie-obj-39-20311001
-DESCRIPTION:Objective bitiş · Foundations\nhttps://www.futgenie.gg/objec
- tives/39
-URL:https://www.futgenie.gg/objectives/39
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: The Journey Begins
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏳ Objective bitiyor: The Journey Begins
 TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
