@@ -222,30 +222,12 @@
 "obj-6-noexp": "2026-10-11T18:56:48.820652+00:00",
 "obj-12-noexp": "2026-10-11T18:56:48.820652+00:00",
 "obj-18-noexp": "2026-10-11T18:56:48.820652+00:00",
-"obj-24-noexp": "2026-10-11T18:56:48.820652+00:00"
+"obj-24-noexp": "2026-10-11T18:56:48.820652+00:00",
+"sbc-5299": "2026-10-12T23:00:54.938835+00:00",
+"sbc-5298": "2026-10-12T23:00:54.938835+00:00",
+"evo-2550": "2026-10-12T23:00:54.938835+00:00"
 },
 "new": [
-{
-"uid": "fc27-new-sbc-5295",
-"title": "🆕 Yeni SBC: EFL Championship Future Stars Pick",
-"start": "2026-10-10T20:00:00+00:00",
-"link": "https://www.fut.gg/sbc/players/27-51-efl-championship-future-stars-pick/",
-"desc": "Yeni SBC yayında · bitiş 17.10 20:00"
-},
-{
-"uid": "fc27-new-evo-2548",
-"title": "🆕 Yeni Evolution: Playmaker Reborn",
-"start": "2026-10-10T20:00:00+00:00",
-"link": "https://www.fut.gg/evolutions/2548-playmaker-reborn/",
-"desc": "Yeni Evolution yayında · bitiş 22.10 10:00"
-},
-{
-"uid": "fc27-new-obj-129-20261016",
-"title": "🆕 Yeni Objective: Future Stars: Claire Hutton",
-"start": "2026-10-10T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/129",
-"desc": "Yeni Objective yayında · bitiş 16.10 20:00"
-},
 {
 "uid": "fc27-new-sbc-5297",
 "title": "🆕 Yeni SBC: Base Hero Matchday Player Pick",
@@ -462,6 +444,27 @@
 "start": "2026-10-11T20:00:00+00:00",
 "link": "https://www.futgenie.gg/objectives/24",
 "desc": "Yeni Objective yayında"
+},
+{
+"uid": "fc27-new-sbc-5299",
+"title": "🆕 Yeni SBC: Süper Lig Future Stars Pick",
+"start": "2026-10-13T01:00:00+00:00",
+"link": "https://www.fut.gg/sbc/players/27-54-super-lig-future-stars-pick/",
+"desc": "Yeni SBC yayında · bitiş 19.10 20:00"
+},
+{
+"uid": "fc27-new-sbc-5298",
+"title": "🆕 Yeni SBC: 3x 79+ Upgrade",
+"start": "2026-10-13T01:00:00+00:00",
+"link": "https://www.fut.gg/sbc/upgrades/27-49-3x-79-upgrade/",
+"desc": "Yeni SBC yayında · bitiş 19.10 20:00"
+},
+{
+"uid": "fc27-new-evo-2550",
+"title": "🆕 Yeni Evolution: Touchline Magic",
+"start": "2026-10-13T01:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2550-touchline-magic/",
+"desc": "Yeni Evolution yayında · bitiş 22.10 20:00"
 }
 ]
 }
