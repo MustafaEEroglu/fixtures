@@ -225,7 +225,8 @@
 "obj-24-noexp": "2026-10-11T18:56:48.820652+00:00",
 "sbc-5299": "2026-10-12T23:00:54.938835+00:00",
 "sbc-5298": "2026-10-12T23:00:54.938835+00:00",
-"evo-2550": "2026-10-12T23:00:54.938835+00:00"
+"evo-2550": "2026-10-12T23:00:54.938835+00:00",
+"sbc-5300": "2026-10-13T16:01:30.549588+00:00"
 },
 "new": [
 {
@@ -465,6 +466,13 @@
 "start": "2026-10-13T01:00:00+00:00",
 "link": "https://www.fut.gg/evolutions/2550-touchline-magic/",
 "desc": "Yeni Evolution yayında · bitiş 22.10 20:00"
+},
+{
+"uid": "fc27-new-sbc-5300",
+"title": "🆕 Yeni SBC: Ligue 1 POTM September",
+"start": "2026-10-13T18:00:00+00:00",
+"link": "https://www.fut.gg/sbc/players/27-58-ligue-1-potm-september/",
+"desc": "Yeni SBC yayında · bitiş 10.11 20:00"
 }
 ]
 }
