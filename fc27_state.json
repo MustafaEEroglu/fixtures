@@ -226,226 +226,12 @@
 "sbc-5299": "2026-10-12T23:00:54.938835+00:00",
 "sbc-5298": "2026-10-12T23:00:54.938835+00:00",
 "evo-2550": "2026-10-12T23:00:54.938835+00:00",
-"sbc-5300": "2026-10-13T16:01:30.549588+00:00"
+"sbc-5300": "2026-10-13T16:01:30.549588+00:00",
+"sbc-5302": "2026-10-13T21:17:20.729118+00:00",
+"sbc-5301": "2026-10-13T21:17:20.729118+00:00",
+"evo-2551": "2026-10-13T21:17:20.729118+00:00"
 },
 "new": [
-{
-"uid": "fc27-new-sbc-5297",
-"title": "🆕 Yeni SBC: Base Hero Matchday Player Pick",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.fut.gg/sbc/players/27-52-base-hero-matchday-player-pick/",
-"desc": "Yeni SBC yayında · bitiş 18.10 20:00"
-},
-{
-"uid": "fc27-new-sbc-5296",
-"title": "🆕 Yeni SBC: Future Stars Challenge 1",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.fut.gg/sbc/challenges/27-46-future-stars-challenge-1/",
-"desc": "Yeni SBC yayında · bitiş 14.10 20:00"
-},
-{
-"uid": "fc27-new-evo-2549",
-"title": "🆕 Yeni Evolution: Future Stars Academy II",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.fut.gg/evolutions/2549-future-stars-academy-ii/",
-"desc": "Yeni Evolution yayında · bitiş 26.10 21:00"
-},
-{
-"uid": "fc27-new-obj-1-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/1",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-7-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/7",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-13-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/13",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-19-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/19",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-25-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/25",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-2-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/2",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-8-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/8",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-14-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/14",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-20-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/20",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-26-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/26",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-3-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/3",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-9-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/9",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-15-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/15",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-21-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/21",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-27-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/27",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-4-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/4",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-10-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/10",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-16-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/16",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-22-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/22",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-28-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/28",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-5-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/5",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-11-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/11",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-17-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/17",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-23-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/23",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-6-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/6",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-12-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/12",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-18-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/18",
-"desc": "Yeni Objective yayında"
-},
-{
-"uid": "fc27-new-obj-24-noexp",
-"title": "🆕 Yeni Objective: No expiry",
-"start": "2026-10-11T20:00:00+00:00",
-"link": "https://www.futgenie.gg/objectives/24",
-"desc": "Yeni Objective yayında"
-},
 {
 "uid": "fc27-new-sbc-5299",
 "title": "🆕 Yeni SBC: Süper Lig Future Stars Pick",
@@ -473,6 +259,27 @@
 "start": "2026-10-13T18:00:00+00:00",
 "link": "https://www.fut.gg/sbc/players/27-58-ligue-1-potm-september/",
 "desc": "Yeni SBC yayında · bitiş 10.11 20:00"
+},
+{
+"uid": "fc27-new-sbc-5302",
+"title": "🆕 Yeni SBC: Xavi Espart",
+"start": "2026-10-13T23:00:00+00:00",
+"link": "https://www.fut.gg/sbc/players/27-50-xavi-espart/",
+"desc": "Yeni SBC yayında · bitiş 20.10 20:00"
+},
+{
+"uid": "fc27-new-sbc-5301",
+"title": "🆕 Yeni SBC: 5x 80+ Upgrade",
+"start": "2026-10-13T23:00:00+00:00",
+"link": "https://www.fut.gg/sbc/upgrades/27-57-5x-80-upgrade/",
+"desc": "Yeni SBC yayında · bitiş 20.10 20:00"
+},
+{
+"uid": "fc27-new-evo-2551",
+"title": "🆕 Yeni Evolution: Future Stars Academy III",
+"start": "2026-10-13T23:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2551-future-stars-academy-iii/",
+"desc": "Yeni Evolution yayında · bitiş 26.10 20:00"
 }
 ]
 }
