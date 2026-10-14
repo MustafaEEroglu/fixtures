@@ -229,7 +229,9 @@
 "sbc-5300": "2026-10-13T16:01:30.549588+00:00",
 "sbc-5302": "2026-10-13T21:17:20.729118+00:00",
 "sbc-5301": "2026-10-13T21:17:20.729118+00:00",
-"evo-2551": "2026-10-13T21:17:20.729118+00:00"
+"evo-2551": "2026-10-13T21:17:20.729118+00:00",
+"sbc-5303": "2026-10-14T18:38:55.086708+00:00",
+"evo-2552": "2026-10-14T18:38:55.086708+00:00"
 },
 "new": [
 {
@@ -280,6 +282,20 @@
 "start": "2026-10-13T23:00:00+00:00",
 "link": "https://www.fut.gg/evolutions/2551-future-stars-academy-iii/",
 "desc": "Yeni Evolution yayında · bitiş 26.10 20:00"
+},
+{
+"uid": "fc27-new-sbc-5303",
+"title": "🆕 Yeni SBC: Future Stars Challenge 2",
+"start": "2026-10-14T20:00:00+00:00",
+"link": "https://www.fut.gg/sbc/challenges/27-47-future-stars-challenge-2/",
+"desc": "Yeni SBC yayında · bitiş 17.10 20:00"
+},
+{
+"uid": "fc27-new-evo-2552",
+"title": "🆕 Yeni Evolution: Side Step",
+"start": "2026-10-14T20:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2552-side-step/",
+"desc": "Yeni Evolution yayında · bitiş 24.10 20:00"
 }
 ]
 }
