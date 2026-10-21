@@ -300,7 +300,10 @@
 "sbc-5311": "2026-10-19T19:57:41.955440+00:00",
 "evo-2603": "2026-10-19T19:57:41.955440+00:00",
 "sbc-5314": "2026-10-20T17:10:42.011050+00:00",
-"sbc-5313": "2026-10-20T17:10:42.011050+00:00"
+"sbc-5313": "2026-10-20T17:10:42.011050+00:00",
+"sbc-5316": "2026-10-21T18:40:08.367768+00:00",
+"sbc-5315": "2026-10-21T18:40:08.367768+00:00",
+"evo-2604": "2026-10-21T18:40:08.367768+00:00"
 },
 "new": [
 {
@@ -337,6 +340,27 @@
 "start": "2026-10-20T19:00:00+00:00",
 "link": "https://www.fut.gg/sbc/upgrades/27-71-2x-83-upgrade/",
 "desc": "Yeni SBC yayında · bitiş 27.10 21:00"
+},
+{
+"uid": "fc27-new-sbc-5316",
+"title": "🆕 Yeni SBC: NWSL Future Stars Player Pick",
+"start": "2026-10-21T20:00:00+00:00",
+"link": "https://www.fut.gg/sbc/players/27-67-nwsl-future-stars-player-pick/",
+"desc": "Yeni SBC yayında · bitiş 28.10 21:00"
+},
+{
+"uid": "fc27-new-sbc-5315",
+"title": "🆕 Yeni SBC: Future Stars Challenge 4",
+"start": "2026-10-21T20:00:00+00:00",
+"link": "https://www.fut.gg/sbc/challenges/27-65-future-stars-challenge-4/",
+"desc": "Yeni SBC yayında · bitiş 24.10 20:00"
+},
+{
+"uid": "fc27-new-evo-2604",
+"title": "🆕 Yeni Evolution: Side Stopper",
+"start": "2026-10-21T20:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2604-side-stopper/",
+"desc": "Yeni Evolution yayında · bitiş 31.10 21:00"
 }
 ]
 }
