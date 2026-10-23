@@ -320,7 +320,21 @@
 "evo-2607": "2026-10-22T11:56:31.706002+00:00",
 "evo-2606": "2026-10-22T11:56:31.706002+00:00",
 "evo-2605": "2026-10-22T11:56:31.706002+00:00",
-"sbc-5317": "2026-10-22T17:13:02.499374+00:00"
+"sbc-5317": "2026-10-22T17:13:02.499374+00:00",
+"sbc-5320": "2026-10-23T18:23:18.433738+00:00",
+"sbc-5319": "2026-10-23T18:23:18.433738+00:00",
+"sbc-5318": "2026-10-23T18:23:18.433738+00:00",
+"evo-2631": "2026-10-23T18:23:18.433738+00:00",
+"evo-2630": "2026-10-23T18:23:18.433738+00:00",
+"evo-2629": "2026-10-23T18:23:18.433738+00:00",
+"evo-2628": "2026-10-23T18:23:18.433738+00:00",
+"evo-2627": "2026-10-23T18:23:18.433738+00:00",
+"evo-2626": "2026-10-23T18:23:18.433738+00:00",
+"evo-2625": "2026-10-23T18:23:18.433738+00:00",
+"evo-2624": "2026-10-23T18:23:18.433738+00:00",
+"evo-2623": "2026-10-23T18:23:18.433738+00:00",
+"evo-2622": "2026-10-23T18:23:18.433738+00:00",
+"evo-2621": "2026-10-23T18:23:18.433738+00:00"
 },
 "new": [
 {
@@ -462,6 +476,104 @@
 "start": "2026-10-22T19:00:00+00:00",
 "link": "https://www.fut.gg/sbc/challenges/27-59-marquee-matchups/",
 "desc": "Yeni SBC yayında · bitiş 29.10 21:00"
+},
+{
+"uid": "fc27-new-sbc-5320",
+"title": "🆕 Yeni SBC: Nick Woltemade",
+"start": "2026-10-23T20:00:00+00:00",
+"link": "https://www.fut.gg/sbc/players/27-79-nick-woltemade/",
+"desc": "Yeni SBC yayında · bitiş 30.10 21:00"
+},
+{
+"uid": "fc27-new-sbc-5319",
+"title": "🆕 Yeni SBC: 81+ TOTW 1-6 Upgrade",
+"start": "2026-10-23T20:00:00+00:00",
+"link": "https://www.fut.gg/sbc/upgrades/27-86-81-totw-1-6-upgrade/",
+"desc": "Yeni SBC yayında · bitiş 30.10 21:00"
+},
+{
+"uid": "fc27-new-sbc-5318",
+"title": "🆕 Yeni SBC: Spooky Nights",
+"start": "2026-10-23T20:00:00+00:00",
+"link": "https://www.fut.gg/sbc/challenges/27-72-spooky-nights/",
+"desc": "Yeni SBC yayında · bitiş 26.10 21:00"
+},
+{
+"uid": "fc27-new-evo-2631",
+"title": "🆕 Yeni Evolution: Center Spectre",
+"start": "2026-10-23T20:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2631-center-spectre/",
+"desc": "Yeni Evolution yayında · bitiş 02.11 21:00"
+},
+{
+"uid": "fc27-new-evo-2630",
+"title": "🆕 Yeni Evolution: Pinged Pass",
+"start": "2026-10-23T20:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2630-pinged-pass/",
+"desc": "Yeni Evolution yayında · bitiş 30.09 03:00"
+},
+{
+"uid": "fc27-new-evo-2629",
+"title": "🆕 Yeni Evolution: Anticipate",
+"start": "2026-10-23T20:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2629-anticipate/",
+"desc": "Yeni Evolution yayında · bitiş 30.09 03:00"
+},
+{
+"uid": "fc27-new-evo-2628",
+"title": "🆕 Yeni Evolution: Ultimate Scream Retro 17",
+"start": "2026-10-23T20:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2628-ultimate-scream-retro-17/",
+"desc": "Yeni Evolution yayında · bitiş 17.11 21:00"
+},
+{
+"uid": "fc27-new-evo-2627",
+"title": "🆕 Yeni Evolution: Ultimate Scream Retro 19",
+"start": "2026-10-23T20:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2627-ultimate-scream-retro-19/",
+"desc": "Yeni Evolution yayında · bitiş 17.11 21:00"
+},
+{
+"uid": "fc27-new-evo-2626",
+"title": "🆕 Yeni Evolution: Ultimate Scream",
+"start": "2026-10-23T20:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2626-ultimate-scream/",
+"desc": "Yeni Evolution yayında · bitiş 17.11 21:00"
+},
+{
+"uid": "fc27-new-evo-2625",
+"title": "🆕 Yeni Evolution: Ultimate Scream Retro 20",
+"start": "2026-10-23T20:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2625-ultimate-scream-retro-20/",
+"desc": "Yeni Evolution yayında · bitiş 17.11 21:00"
+},
+{
+"uid": "fc27-new-evo-2624",
+"title": "🆕 Yeni Evolution: Batigol Precision",
+"start": "2026-10-23T20:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2624-batigol-precision/",
+"desc": "Yeni Evolution yayında · bitiş 30.09 03:00"
+},
+{
+"uid": "fc27-new-evo-2623",
+"title": "🆕 Yeni Evolution: Wicked Winger",
+"start": "2026-10-23T20:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2623-wicked-winger/",
+"desc": "Yeni Evolution yayında · bitiş 27.11 21:00"
+},
+{
+"uid": "fc27-new-evo-2622",
+"title": "🆕 Yeni Evolution: The Haunted Wall",
+"start": "2026-10-23T20:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2622-the-haunted-wall/",
+"desc": "Yeni Evolution yayında · bitiş 27.11 21:00"
+},
+{
+"uid": "fc27-new-evo-2621",
+"title": "🆕 Yeni Evolution: Shadow Striker++",
+"start": "2026-10-23T20:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2621-shadow-striker/",
+"desc": "Yeni Evolution yayında · bitiş 30.09 03:00"
 }
 ]
 }
