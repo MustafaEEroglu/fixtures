@@ -334,7 +334,12 @@
 "evo-2624": "2026-10-23T18:23:18.433738+00:00",
 "evo-2623": "2026-10-23T18:23:18.433738+00:00",
 "evo-2622": "2026-10-23T18:23:18.433738+00:00",
-"evo-2621": "2026-10-23T18:23:18.433738+00:00"
+"evo-2621": "2026-10-23T18:23:18.433738+00:00",
+"sbc-5321": "2026-10-24T18:48:30.366430+00:00",
+"evo-2635": "2026-10-24T18:48:30.366430+00:00",
+"evo-2634": "2026-10-24T18:48:30.366430+00:00",
+"evo-2633": "2026-10-24T18:48:30.366430+00:00",
+"evo-2632": "2026-10-24T18:48:30.366430+00:00"
 },
 "new": [
 {
@@ -441,6 +446,41 @@
 "start": "2026-10-23T20:00:00+00:00",
 "link": "https://www.fut.gg/evolutions/2621-shadow-striker/",
 "desc": "Yeni Evolution yayında · bitiş 30.09 03:00"
+},
+{
+"uid": "fc27-new-sbc-5321",
+"title": "🆕 Yeni SBC: Emre Mor",
+"start": "2026-10-24T20:00:00+00:00",
+"link": "https://www.fut.gg/sbc/players/27-85-emre-mor/",
+"desc": "Yeni SBC yayında · bitiş 31.10 21:00"
+},
+{
+"uid": "fc27-new-evo-2635",
+"title": "🆕 Yeni Evolution: Ultimate Scream Retro 19",
+"start": "2026-10-24T20:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2635-ultimate-scream-retro-19/",
+"desc": "Yeni Evolution yayında · bitiş 07.11 21:00"
+},
+{
+"uid": "fc27-new-evo-2634",
+"title": "🆕 Yeni Evolution: Ultimate Scream Retro 17",
+"start": "2026-10-24T20:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2634-ultimate-scream-retro-17/",
+"desc": "Yeni Evolution yayında · bitiş 07.11 21:00"
+},
+{
+"uid": "fc27-new-evo-2633",
+"title": "🆕 Yeni Evolution: Ultimate Scream Retro 20",
+"start": "2026-10-24T20:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2633-ultimate-scream-retro-20/",
+"desc": "Yeni Evolution yayında · bitiş 07.11 21:00"
+},
+{
+"uid": "fc27-new-evo-2632",
+"title": "🆕 Yeni Evolution: Creep Inside",
+"start": "2026-10-24T20:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2632-creep-inside/",
+"desc": "Yeni Evolution yayında · bitiş 03.11 21:00"
 }
 ]
 }
