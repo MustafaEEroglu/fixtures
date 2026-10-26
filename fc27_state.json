@@ -344,44 +344,12 @@
 "sbc-5324": "2026-10-25T20:53:05.849648+00:00",
 "sbc-5323": "2026-10-25T20:53:05.849648+00:00",
 "sbc-5322": "2026-10-25T20:53:05.849648+00:00",
-"evo-2636": "2026-10-25T20:53:05.849648+00:00"
+"evo-2636": "2026-10-25T20:53:05.849648+00:00",
+"sbc-5326": "2026-10-26T21:01:42.495173+00:00",
+"evo-2638": "2026-10-26T21:01:42.495173+00:00",
+"evo-2637": "2026-10-26T21:01:42.495173+00:00"
 },
 "new": [
-{
-"uid": "fc27-new-sbc-5321",
-"title": "🆕 Yeni SBC: Emre Mor",
-"start": "2026-10-24T20:00:00+00:00",
-"link": "https://www.fut.gg/sbc/players/27-85-emre-mor/",
-"desc": "Yeni SBC yayında · bitiş 31.10 21:00"
-},
-{
-"uid": "fc27-new-evo-2635",
-"title": "🆕 Yeni Evolution: Ultimate Scream Retro 19",
-"start": "2026-10-24T20:00:00+00:00",
-"link": "https://www.fut.gg/evolutions/2635-ultimate-scream-retro-19/",
-"desc": "Yeni Evolution yayında · bitiş 07.11 21:00"
-},
-{
-"uid": "fc27-new-evo-2634",
-"title": "🆕 Yeni Evolution: Ultimate Scream Retro 17",
-"start": "2026-10-24T20:00:00+00:00",
-"link": "https://www.fut.gg/evolutions/2634-ultimate-scream-retro-17/",
-"desc": "Yeni Evolution yayında · bitiş 07.11 21:00"
-},
-{
-"uid": "fc27-new-evo-2633",
-"title": "🆕 Yeni Evolution: Ultimate Scream Retro 20",
-"start": "2026-10-24T20:00:00+00:00",
-"link": "https://www.fut.gg/evolutions/2633-ultimate-scream-retro-20/",
-"desc": "Yeni Evolution yayında · bitiş 07.11 21:00"
-},
-{
-"uid": "fc27-new-evo-2632",
-"title": "🆕 Yeni Evolution: Creep Inside",
-"start": "2026-10-24T20:00:00+00:00",
-"link": "https://www.fut.gg/evolutions/2632-creep-inside/",
-"desc": "Yeni Evolution yayında · bitiş 03.11 21:00"
-},
 {
 "uid": "fc27-new-sbc-5325",
 "title": "🆕 Yeni SBC: Base Hero Player Pick",
@@ -416,6 +384,27 @@
 "start": "2026-10-25T22:00:00+00:00",
 "link": "https://www.fut.gg/evolutions/2636-witching-hour/",
 "desc": "Yeni Evolution yayında · bitiş 04.11 21:00"
+},
+{
+"uid": "fc27-new-sbc-5326",
+"title": "🆕 Yeni SBC: 3x 79+ Upgrade",
+"start": "2026-10-26T23:00:00+00:00",
+"link": "https://www.fut.gg/sbc/upgrades/27-70-3x-79-upgrade/",
+"desc": "Yeni SBC yayında · bitiş 02.11 21:00"
+},
+{
+"uid": "fc27-new-evo-2638",
+"title": "🆕 Yeni Evolution: FC Pro Competitor Badge",
+"start": "2026-10-26T23:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2638-fc-pro-competitor-badge/",
+"desc": "Yeni Evolution yayında · bitiş 17.11 21:00"
+},
+{
+"uid": "fc27-new-evo-2637",
+"title": "🆕 Yeni Evolution: Rise From the Grave",
+"start": "2026-10-26T23:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2637-rise-from-the-grave/",
+"desc": "Yeni Evolution yayında · bitiş 26.11 21:00"
 }
 ]
 }
