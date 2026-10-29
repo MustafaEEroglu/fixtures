@@ -355,7 +355,11 @@
 "sbc-5331": "2026-10-28T22:37:19.495468+00:00",
 "sbc-5330": "2026-10-28T22:37:19.495468+00:00",
 "sbc-5329": "2026-10-28T22:37:19.495468+00:00",
-"evo-2639": "2026-10-28T22:37:19.495468+00:00"
+"evo-2639": "2026-10-28T22:37:19.495468+00:00",
+"sbc-5337": "2026-10-29T19:39:26.015462+00:00",
+"sbc-5336": "2026-10-29T19:39:26.015462+00:00",
+"sbc-5335": "2026-10-29T19:39:26.015462+00:00",
+"sbc-5334": "2026-10-29T19:39:26.015462+00:00"
 },
 "new": [
 {
@@ -413,6 +417,34 @@
 "start": "2026-10-29T00:00:00+00:00",
 "link": "https://www.fut.gg/evolutions/2639-bone-builder/",
 "desc": "Yeni Evolution yayında · bitiş 07.11 21:00"
+},
+{
+"uid": "fc27-new-sbc-5337",
+"title": "🆕 Yeni SBC: Ramiro Árciga",
+"start": "2026-10-29T21:00:00+00:00",
+"link": "https://www.fut.gg/sbc/players/27-89-ramiro-arciga/",
+"desc": "Yeni SBC yayında · bitiş 01.11 04:00"
+},
+{
+"uid": "fc27-new-sbc-5336",
+"title": "🆕 Yeni SBC: Víctor Guzmán",
+"start": "2026-10-29T21:00:00+00:00",
+"link": "https://www.fut.gg/sbc/players/27-88-victor-guzman/",
+"desc": "Yeni SBC yayında · bitiş 01.11 04:00"
+},
+{
+"uid": "fc27-new-sbc-5335",
+"title": "🆕 Yeni SBC: 1 of 4 Chemistry Styles Pick",
+"start": "2026-10-29T21:00:00+00:00",
+"link": "https://www.fut.gg/sbc/upgrades/27-104-1-of-4-chemistry-styles-pick/",
+"desc": "Yeni SBC yayında · bitiş 12.11 21:00"
+},
+{
+"uid": "fc27-new-sbc-5334",
+"title": "🆕 Yeni SBC: Marquee Matchups",
+"start": "2026-10-29T21:00:00+00:00",
+"link": "https://www.fut.gg/sbc/challenges/27-78-marquee-matchups/",
+"desc": "Yeni SBC yayında · bitiş 05.11 21:00"
 }
 ]
 }
