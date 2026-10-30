@@ -359,7 +359,13 @@
 "sbc-5337": "2026-10-29T19:39:26.015462+00:00",
 "sbc-5336": "2026-10-29T19:39:26.015462+00:00",
 "sbc-5335": "2026-10-29T19:39:26.015462+00:00",
-"sbc-5334": "2026-10-29T19:39:26.015462+00:00"
+"sbc-5334": "2026-10-29T19:39:26.015462+00:00",
+"sbc-5340": "2026-10-30T19:25:14.561567+00:00",
+"sbc-5339": "2026-10-30T19:25:14.561567+00:00",
+"sbc-5338": "2026-10-30T19:25:14.561567+00:00",
+"evo-2642": "2026-10-30T19:25:14.561567+00:00",
+"evo-2641": "2026-10-30T19:25:14.561567+00:00",
+"evo-2640": "2026-10-30T19:25:14.561567+00:00"
 },
 "new": [
 {
@@ -431,6 +437,48 @@
 "start": "2026-10-29T21:00:00+00:00",
 "link": "https://www.fut.gg/sbc/challenges/27-78-marquee-matchups/",
 "desc": "Yeni SBC yayında · bitiş 05.11 21:00"
+},
+{
+"uid": "fc27-new-sbc-5340",
+"title": "🆕 Yeni SBC: Tijjani Reijnders",
+"start": "2026-10-30T21:00:00+00:00",
+"link": "https://www.fut.gg/sbc/players/27-95-tijjani-reijnders/",
+"desc": "Yeni SBC yayında · bitiş 06.11 21:00"
+},
+{
+"uid": "fc27-new-sbc-5339",
+"title": "🆕 Yeni SBC: 81+ TOTW 1-7 Upgrade",
+"start": "2026-10-30T21:00:00+00:00",
+"link": "https://www.fut.gg/sbc/upgrades/27-102-81-totw-1-7-upgrade/",
+"desc": "Yeni SBC yayında · bitiş 06.11 21:00"
+},
+{
+"uid": "fc27-new-sbc-5338",
+"title": "🆕 Yeni SBC: Freaky Zombie",
+"start": "2026-10-30T21:00:00+00:00",
+"link": "https://www.fut.gg/sbc/challenges/27-75-freaky-zombie/",
+"desc": "Yeni SBC yayında · bitiş 06.11 21:00"
+},
+{
+"uid": "fc27-new-evo-2642",
+"title": "🆕 Yeni Evolution: False Seven",
+"start": "2026-10-30T21:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2642-false-seven/",
+"desc": "Yeni Evolution yayında · bitiş 09.11 21:00"
+},
+{
+"uid": "fc27-new-evo-2641",
+"title": "🆕 Yeni Evolution: Ultimate Scream Regular Badge",
+"start": "2026-10-30T21:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2641-ultimate-scream-regular-badge/",
+"desc": "Yeni Evolution yayında · bitiş 10.11 21:00"
+},
+{
+"uid": "fc27-new-evo-2640",
+"title": "🆕 Yeni Evolution: Ultimate Scream Hero Badge",
+"start": "2026-10-30T21:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2640-ultimate-scream-hero-badge/",
+"desc": "Yeni Evolution yayında · bitiş 10.11 21:00"
 }
 ]
 }
