@@ -370,7 +370,9 @@
 "evo-2645": "2026-10-31T18:35:11.125911+00:00",
 "evo-2644": "2026-10-31T18:35:11.125911+00:00",
 "evo-2643": "2026-10-31T18:35:11.125911+00:00",
-"evo-2646": "2026-11-01T13:28:11.957738+00:00"
+"evo-2646": "2026-11-01T13:28:11.957738+00:00",
+"sbc-5343": "2026-11-01T18:57:04.749736+00:00",
+"sbc-5342": "2026-11-01T18:57:04.749736+00:00"
 },
 "new": [
 {
@@ -449,6 +451,20 @@
 "start": "2026-11-01T15:00:00+00:00",
 "link": "https://www.fut.gg/evolutions/2646-luiz-legacy/",
 "desc": "Yeni Evolution yayında · bitiş 30.09 03:00"
+},
+{
+"uid": "fc27-new-sbc-5343",
+"title": "🆕 Yeni SBC: Lea Schüller",
+"start": "2026-11-01T20:00:00+00:00",
+"link": "https://www.fut.gg/sbc/players/27-98-lea-schuller/",
+"desc": "Yeni SBC yayında · bitiş 08.11 21:00"
+},
+{
+"uid": "fc27-new-sbc-5342",
+"title": "🆕 Yeni SBC: Pumpkin Seeds",
+"start": "2026-11-01T20:00:00+00:00",
+"link": "https://www.fut.gg/sbc/challenges/27-76-pumpkin-seeds/",
+"desc": "Yeni SBC yayında · bitiş 06.11 21:00"
 }
 ]
 }
