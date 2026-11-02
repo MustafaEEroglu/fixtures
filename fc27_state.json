@@ -372,37 +372,16 @@
 "evo-2643": "2026-10-31T18:35:11.125911+00:00",
 "evo-2646": "2026-11-01T13:28:11.957738+00:00",
 "sbc-5343": "2026-11-01T18:57:04.749736+00:00",
-"sbc-5342": "2026-11-01T18:57:04.749736+00:00"
+"sbc-5342": "2026-11-01T18:57:04.749736+00:00",
+"sbc-5349": "2026-11-02T23:33:22.675489+00:00",
+"sbc-5348": "2026-11-02T23:33:22.675489+00:00",
+"sbc-5347": "2026-11-02T23:33:22.675489+00:00",
+"sbc-5346": "2026-11-02T23:33:22.675489+00:00",
+"sbc-5345": "2026-11-02T23:33:22.675489+00:00",
+"sbc-5344": "2026-11-02T23:33:22.675489+00:00",
+"evo-2647": "2026-11-02T23:33:22.675489+00:00"
 },
 "new": [
-{
-"uid": "fc27-new-sbc-5341",
-"title": "🆕 Yeni SBC: Jonny",
-"start": "2026-10-31T20:00:00+00:00",
-"link": "https://www.fut.gg/sbc/players/27-106-jonny/",
-"desc": "Yeni SBC yayında · bitiş 07.11 21:00"
-},
-{
-"uid": "fc27-new-evo-2645",
-"title": "🆕 Yeni Evolution: Green Classic Arrow Spin",
-"start": "2026-10-31T20:00:00+00:00",
-"link": "https://www.fut.gg/evolutions/2645-green-classic-arrow-spin/",
-"desc": "Yeni Evolution yayında · bitiş 14.11 21:00"
-},
-{
-"uid": "fc27-new-evo-2644",
-"title": "🆕 Yeni Evolution: Red Fire",
-"start": "2026-10-31T20:00:00+00:00",
-"link": "https://www.fut.gg/evolutions/2644-red-fire/",
-"desc": "Yeni Evolution yayında · bitiş 14.11 21:00"
-},
-{
-"uid": "fc27-new-evo-2643",
-"title": "🆕 Yeni Evolution: Two Faces of Fear",
-"start": "2026-10-31T20:00:00+00:00",
-"link": "https://www.fut.gg/evolutions/2643-two-faces-of-fear/",
-"desc": "Yeni Evolution yayında · bitiş 10.11 21:00"
-},
 {
 "uid": "fc27-new-evo-2646",
 "title": "🆕 Yeni Evolution: Luiz Legacy",
@@ -423,6 +402,55 @@
 "start": "2026-11-01T20:00:00+00:00",
 "link": "https://www.fut.gg/sbc/challenges/27-76-pumpkin-seeds/",
 "desc": "Yeni SBC yayında · bitiş 06.11 21:00"
+},
+{
+"uid": "fc27-new-sbc-5349",
+"title": "🆕 Yeni SBC: 1 of 3 79+ Gold Player Pick",
+"start": "2026-11-03T01:00:00+00:00",
+"link": "https://www.fut.gg/sbc/upgrades/27-105-1-of-3-79-gold-player-pick/",
+"desc": "Yeni SBC yayında · bitiş 09.11 21:00"
+},
+{
+"uid": "fc27-new-sbc-5348",
+"title": "🆕 Yeni SBC: Max. 88 Base Hero Upgrade",
+"start": "2026-11-03T01:00:00+00:00",
+"link": "https://www.fut.gg/sbc/upgrades/27-101-max-88-base-hero-upgrade/",
+"desc": "Yeni SBC yayında · bitiş 08.11 21:00"
+},
+{
+"uid": "fc27-new-sbc-5347",
+"title": "🆕 Yeni SBC: MLS & NWSL",
+"start": "2026-11-03T01:00:00+00:00",
+"link": "https://www.fut.gg/sbc/upgrades/27-100-mls-nwsl/",
+"desc": "Yeni SBC yayında · bitiş 06.12 21:00"
+},
+{
+"uid": "fc27-new-sbc-5346",
+"title": "🆕 Yeni SBC: Serie A & ROSHN Saudi League",
+"start": "2026-11-03T01:00:00+00:00",
+"link": "https://www.fut.gg/sbc/upgrades/27-99-serie-a-roshn-saudi-league/",
+"desc": "Yeni SBC yayında · bitiş 06.12 21:00"
+},
+{
+"uid": "fc27-new-sbc-5345",
+"title": "🆕 Yeni SBC: LALIGA & Liga F",
+"start": "2026-11-03T01:00:00+00:00",
+"link": "https://www.fut.gg/sbc/upgrades/27-94-laliga-liga-f/",
+"desc": "Yeni SBC yayında · bitiş 06.12 21:00"
+},
+{
+"uid": "fc27-new-sbc-5344",
+"title": "🆕 Yeni SBC: Premier League & Barclays WSL",
+"start": "2026-11-03T01:00:00+00:00",
+"link": "https://www.fut.gg/sbc/upgrades/27-93-premier-league-barclays-wsl/",
+"desc": "Yeni SBC yayında · bitiş 06.12 21:00"
+},
+{
+"uid": "fc27-new-evo-2647",
+"title": "🆕 Yeni Evolution: No Soul Shall Pass",
+"start": "2026-11-03T01:00:00+00:00",
+"link": "https://www.fut.gg/evolutions/2647-no-soul-shall-pass/",
+"desc": "Yeni Evolution yayında · bitiş 12.11 21:00"
 }
 ]
 }
