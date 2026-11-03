@@ -379,23 +379,12 @@
 "sbc-5346": "2026-11-02T23:33:22.675489+00:00",
 "sbc-5345": "2026-11-02T23:33:22.675489+00:00",
 "sbc-5344": "2026-11-02T23:33:22.675489+00:00",
-"evo-2647": "2026-11-02T23:33:22.675489+00:00"
+"evo-2647": "2026-11-02T23:33:22.675489+00:00",
+"sbc-5352": "2026-11-03T23:25:42.416996+00:00",
+"sbc-5351": "2026-11-03T23:25:42.416996+00:00",
+"sbc-5350": "2026-11-03T23:25:42.416996+00:00"
 },
 "new": [
-{
-"uid": "fc27-new-sbc-5343",
-"title": "🆕 Yeni SBC: Lea Schüller",
-"start": "2026-11-01T20:00:00+00:00",
-"link": "https://www.fut.gg/sbc/players/27-98-lea-schuller/",
-"desc": "Yeni SBC yayında · bitiş 08.11 21:00"
-},
-{
-"uid": "fc27-new-sbc-5342",
-"title": "🆕 Yeni SBC: Pumpkin Seeds",
-"start": "2026-11-01T20:00:00+00:00",
-"link": "https://www.fut.gg/sbc/challenges/27-76-pumpkin-seeds/",
-"desc": "Yeni SBC yayında · bitiş 06.11 21:00"
-},
 {
 "uid": "fc27-new-sbc-5349",
 "title": "🆕 Yeni SBC: 1 of 3 79+ Gold Player Pick",
@@ -444,6 +433,27 @@
 "start": "2026-11-03T01:00:00+00:00",
 "link": "https://www.fut.gg/evolutions/2647-no-soul-shall-pass/",
 "desc": "Yeni Evolution yayında · bitiş 12.11 21:00"
+},
+{
+"uid": "fc27-new-sbc-5352",
+"title": "🆕 Yeni SBC: Ethan Ampadu",
+"start": "2026-11-04T01:00:00+00:00",
+"link": "https://www.fut.gg/sbc/players/27-97-ethan-ampadu/",
+"desc": "Yeni SBC yayında · bitiş 10.11 21:00"
+},
+{
+"uid": "fc27-new-sbc-5351",
+"title": "🆕 Yeni SBC: 2x 83+ Upgrade",
+"start": "2026-11-04T01:00:00+00:00",
+"link": "https://www.fut.gg/sbc/upgrades/27-109-2x-83-upgrade/",
+"desc": "Yeni SBC yayında · bitiş 10.11 21:00"
+},
+{
+"uid": "fc27-new-sbc-5350",
+"title": "🆕 Yeni SBC: Hocus Pocus",
+"start": "2026-11-04T01:00:00+00:00",
+"link": "https://www.fut.gg/sbc/challenges/27-77-hocus-pocus/",
+"desc": "Yeni SBC yayında · bitiş 06.11 21:00"
 }
 ]
 }
