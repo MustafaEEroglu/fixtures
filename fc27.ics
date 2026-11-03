@@ -107,7 +107,7 @@ SUMMARY:⏳ SBC bitiyor: Premier League & Barclays WSL
 DTSTART;TZID=Europe/Istanbul:20261206T210001
 DTEND;TZID=Europe/Istanbul:20261206T213001
 UID:futgg-sbc-5344
-DESCRIPTION:SBC bitiş · Upgrades · ~11\,690 coin\nhttps://www.fut.gg/sb
+DESCRIPTION:SBC bitiş · Upgrades · ~11\,640 coin\nhttps://www.fut.gg/sb
  c/upgrades/27-93-premier-league-barclays-wsl/
 URL:https://www.fut.gg/sbc/upgrades/27-93-premier-league-barclays-wsl/
 BEGIN:VALARM
@@ -145,7 +145,7 @@ SUMMARY:⏳ SBC bitiyor: Pumpkin Seeds
 DTSTART;TZID=Europe/Istanbul:20261106T210001
 DTEND;TZID=Europe/Istanbul:20261106T213001
 UID:futgg-sbc-5342
-DESCRIPTION:SBC bitiş · Challenges · ~7\,100 coin\nhttps://www.fut.gg/s
+DESCRIPTION:SBC bitiş · Challenges · ~5\,350 coin\nhttps://www.fut.gg/s
  bc/challenges/27-76-pumpkin-seeds/
 URL:https://www.fut.gg/sbc/challenges/27-76-pumpkin-seeds/
 BEGIN:VALARM
@@ -183,7 +183,7 @@ SUMMARY:⏳ SBC bitiyor: Tijjani Reijnders
 DTSTART;TZID=Europe/Istanbul:20261106T210001
 DTEND;TZID=Europe/Istanbul:20261106T213001
 UID:futgg-sbc-5340
-DESCRIPTION:SBC bitiş · Players · ~74\,810 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Players · ~74\,815 coin\nhttps://www.fut.gg/sbc
  /players/27-95-tijjani-reijnders/
 URL:https://www.fut.gg/sbc/players/27-95-tijjani-reijnders/
 BEGIN:VALARM
@@ -202,7 +202,7 @@ SUMMARY:⏳ SBC bitiyor: 81+ TOTW 1-7 Upgrade
 DTSTART;TZID=Europe/Istanbul:20261106T210001
 DTEND;TZID=Europe/Istanbul:20261106T213001
 UID:futgg-sbc-5339
-DESCRIPTION:SBC bitiş · Upgrades · ~27\,520 coin\nhttps://www.fut.gg/sb
+DESCRIPTION:SBC bitiş · Upgrades · ~27\,450 coin\nhttps://www.fut.gg/sb
  c/upgrades/27-102-81-totw-1-7-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-102-81-totw-1-7-upgrade/
 BEGIN:VALARM
@@ -218,10 +218,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Freaky Zombie
-DTSTART;TZID=Europe/Istanbul:20261106T210001
-DTEND;TZID=Europe/Istanbul:20261106T213001
+DTSTART;TZID=Europe/Istanbul:20261106T210000
+DTEND;TZID=Europe/Istanbul:20261106T213000
 UID:futgg-sbc-5338
-DESCRIPTION:SBC bitiş · Challenges · ~4\,750 coin\nhttps://www.fut.gg/s
+DESCRIPTION:SBC bitiş · Challenges · ~6\,700 coin\nhttps://www.fut.gg/s
  bc/challenges/27-75-freaky-zombie/
 URL:https://www.fut.gg/sbc/challenges/27-75-freaky-zombie/
 BEGIN:VALARM
@@ -259,7 +259,7 @@ SUMMARY:⏳ SBC bitiyor: Marquee Matchups
 DTSTART;TZID=Europe/Istanbul:20261105T210001
 DTEND;TZID=Europe/Istanbul:20261105T213001
 UID:futgg-sbc-5334
-DESCRIPTION:SBC bitiş · Challenges · ~23\,850 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Challenges · ~33\,150 coin\nhttps://www.fut.gg/
  sbc/challenges/27-78-marquee-matchups/
 URL:https://www.fut.gg/sbc/challenges/27-78-marquee-matchups/
 BEGIN:VALARM
@@ -317,7 +317,7 @@ SUMMARY:⏳ SBC bitiyor: Boo Hoo Party
 DTSTART;TZID=Europe/Istanbul:20261106T210001
 DTEND;TZID=Europe/Istanbul:20261106T213001
 UID:futgg-sbc-5329
-DESCRIPTION:SBC bitiş · Challenges · ~6\,450 coin\nhttps://www.fut.gg/s
+DESCRIPTION:SBC bitiş · Challenges · ~6\,950 coin\nhttps://www.fut.gg/s
  bc/challenges/27-74-boo-hoo-party/
 URL:https://www.fut.gg/sbc/challenges/27-74-boo-hoo-party/
 BEGIN:VALARM
@@ -393,7 +393,7 @@ SUMMARY:⏳ SBC bitiyor: Scary Candy
 DTSTART;TZID=Europe/Istanbul:20261106T210001
 DTEND;TZID=Europe/Istanbul:20261106T213001
 UID:futgg-sbc-5322
-DESCRIPTION:SBC bitiş · Challenges · ~4\,500 coin\nhttps://www.fut.gg/s
+DESCRIPTION:SBC bitiş · Challenges · ~4\,600 coin\nhttps://www.fut.gg/s
  bc/challenges/27-73-scary-candy/
 URL:https://www.fut.gg/sbc/challenges/27-73-scary-candy/
 BEGIN:VALARM
@@ -412,7 +412,7 @@ SUMMARY:⏳ SBC bitiyor: Spooky Nights
 DTSTART;TZID=Europe/Istanbul:20261106T210000
 DTEND;TZID=Europe/Istanbul:20261106T213000
 UID:futgg-sbc-5318
-DESCRIPTION:SBC bitiş · Challenges · ~3\,400 coin\nhttps://www.fut.gg/s
+DESCRIPTION:SBC bitiş · Challenges · ~4\,150 coin\nhttps://www.fut.gg/s
  bc/challenges/27-72-spooky-nights/
 URL:https://www.fut.gg/sbc/challenges/27-72-spooky-nights/
 BEGIN:VALARM
@@ -450,7 +450,7 @@ SUMMARY:⏳ SBC bitiyor: Liga F POTM September
 DTSTART;TZID=Europe/Istanbul:20261103T200001
 DTEND;TZID=Europe/Istanbul:20261103T203001
 UID:futgg-sbc-5288
-DESCRIPTION:SBC bitiş · Players · ~1\,396\,345 coin\nhttps://www.fut.gg
+DESCRIPTION:SBC bitiş · Players · ~1\,396\,320 coin\nhttps://www.fut.gg
  /sbc/players/27-42-liga-f-potm-september/
 URL:https://www.fut.gg/sbc/players/27-42-liga-f-potm-september/
 BEGIN:VALARM
@@ -488,7 +488,7 @@ SUMMARY:⏳ SBC bitiyor: Gold Upgrade
 DTSTART;TZID=Europe/Istanbul:20350820T200001
 DTEND;TZID=Europe/Istanbul:20350820T203001
 UID:futgg-sbc-5254
-DESCRIPTION:SBC bitiş · Upgrades · ~7\,850 coin\nhttps://www.fut.gg/sbc
+DESCRIPTION:SBC bitiş · Upgrades · ~7\,550 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-6-gold-upgrade/
 URL:https://www.fut.gg/sbc/upgrades/27-6-gold-upgrade/
 BEGIN:VALARM
@@ -504,8 +504,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Silver Upgrade
-DTSTART;TZID=Europe/Istanbul:20350820T140001
-DTEND;TZID=Europe/Istanbul:20350820T143001
+DTSTART;TZID=Europe/Istanbul:20350820T140000
+DTEND;TZID=Europe/Istanbul:20350820T143000
 UID:futgg-sbc-5253
 DESCRIPTION:SBC bitiş · Upgrades · ~2\,200 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-5-silver-upgrade/
@@ -523,8 +523,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⏳ SBC bitiyor: Bronze Upgrade
-DTSTART;TZID=Europe/Istanbul:20350820T200001
-DTEND;TZID=Europe/Istanbul:20350820T203001
+DTSTART;TZID=Europe/Istanbul:20350820T200000
+DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5252
 DESCRIPTION:SBC bitiş · Upgrades · ~2\,200 coin\nhttps://www.fut.gg/sbc
  /upgrades/27-4-bronze-upgrade/
@@ -545,7 +545,7 @@ SUMMARY:⏳ SBC bitiyor: League & Nation Advanced
 DTSTART;TZID=Europe/Istanbul:20350831T200001
 DTEND;TZID=Europe/Istanbul:20350831T203001
 UID:futgg-sbc-5251
-DESCRIPTION:SBC bitiş · Challenges · ~22\,150 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Challenges · ~21\,150 coin\nhttps://www.fut.gg/
  sbc/challenges/27-10-league-nation-advanced/
 URL:https://www.fut.gg/sbc/challenges/27-10-league-nation-advanced/
 BEGIN:VALARM
@@ -564,7 +564,7 @@ SUMMARY:⏳ SBC bitiyor: Gold Re-Roll
 DTSTART;TZID=Europe/Istanbul:20350820T200000
 DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5250
-DESCRIPTION:SBC bitiş · Foundations · ~2\,285 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Foundations · ~2\,300 coin\nhttps://www.fut.gg/
  sbc/foundations/27-9-gold-re-roll/
 URL:https://www.fut.gg/sbc/foundations/27-9-gold-re-roll/
 BEGIN:VALARM
@@ -602,7 +602,7 @@ SUMMARY:⏳ SBC bitiyor: Intro to Streamlined SBCs
 DTSTART;TZID=Europe/Istanbul:20350820T200000
 DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5248
-DESCRIPTION:SBC bitiş · Foundations · ~8\,350 coin\nhttps://www.fut.gg/
+DESCRIPTION:SBC bitiş · Foundations · ~8\,340 coin\nhttps://www.fut.gg/
  sbc/foundations/27-7-getting-started/
 URL:https://www.fut.gg/sbc/foundations/27-7-getting-started/
 BEGIN:VALARM
@@ -621,7 +621,7 @@ SUMMARY:⏳ SBC bitiyor: Intro to Upgrade SBCs
 DTSTART;TZID=Europe/Istanbul:20350820T200000
 DTEND;TZID=Europe/Istanbul:20350820T203000
 UID:futgg-sbc-5247
-DESCRIPTION:SBC bitiş · Foundations · ~18\,650 coin\nhttps://www.fut.gg
+DESCRIPTION:SBC bitiş · Foundations · ~17\,750 coin\nhttps://www.fut.gg
  /sbc/foundations/27-3-intro-to-upgrade-sbcs/
 URL:https://www.fut.gg/sbc/foundations/27-3-intro-to-upgrade-sbcs/
 BEGIN:VALARM
